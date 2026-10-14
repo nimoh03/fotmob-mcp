@@ -1,0 +1,38 @@
+============================================================================================================================================================================
+TOP 30 PICKS (one per match, best first)
+============================================================================================================================================================================
+#   PICK                 VS                 SIDE   ODDS    HIT  HIT%  CARDS  FOULS  SCORE   EDGE  REFEREE (avg, games, score adj) OTHER SIDE (hit, score)         FLAGS
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Lincoln City         Sheffield United   Away   1.05  10/10  100%   2.40   12.8  113.1    +5%  Josh Smith 5.3 (3) +3.0         Sheffield United 7/10, 87       
+2   Rayo Vallecano       Athletic Bilbao    Home   1.07    7/7  100%   2.71   13.4  112.2    +7%  José María Sán 4.7 (3) +1.8     Athletic Bilbao 5/6, 97         
+3   Stoke City           Bolton Wanderers   Away   1.07  10/10  100%   2.30   14.9  110.9    +7%  Thomas Kirk (no history)        Bolton Wanderers 6/9, 82        
+4   Frosinone            Napoli             Away   1.11    7/7  100%   2.14   18.1  110.5   +10%  Ermanno Felici 3.0 (1) -0.5     Napoli 4/6, 80                  
+5   Villarreal           Real Madrid        Away   1.05    8/8  100%   1.88   10.6  109.3    +5%  Isidro Díaz de 5.0 (3) +2.4     Real Madrid 6/8, 90             
+6   Cardiff City         Blackburn Rovers   Away   1.12  10/10  100%   2.20   10.3  109.2   +11%  Anthony Backho 4.0 (5) +0.9     Blackburn Rovers 9/10, 102      
+7   Union Berlin         SV 07 Elversberg   Home   1.11    5/5  100%   2.60   12.2  108.6   +10%  Tobias Reichel 4.0 (1) +0.3     SV 07 Elversberg 5/5, 106       SMALL SAMPLE (5)
+8   Atletico Madrid      Alaves             Away   1.08    8/8  100%   1.75   12.1  107.8    +7%  Alejandro Quin 4.0 (2) +0.5     Alaves 6/7, 99                  
+9   Le Havre             Lille              Away   1.09    5/5  100%   1.80   14.8  107.5    +8%  Bastien Dechep 4.0 (1) +0.3     Lille 5/6, 94                   SMALL SAMPLE (5)
+10  Bournemouth          Chelsea            Away   1.06    7/7  100%   2.71   12.0  106.5    +6%  Samuel Barrott 2.0 (4) -3.2     Chelsea 5/7, 81                 
+11  Le Mans FC           PSG                Away   1.15    5/5  100%   2.20   14.4  106.1   +13%  Mathieu Vernic 1.0 (1) -2.1     PSG 6/8, 84                     SMALL SAMPLE (5)
+12  Wolves               Middlesbrough FC   Away   1.13  10/10  100%   1.10   12.0  105.6   +12%  Farai Hallam 3.5 (6) -0.2       Middlesbrough FC 7/10, 82       
+13  Brest                Angers             Home   1.18    5/5  100%   1.20   15.0  104.5   +15%  Eric Wattellie 3.0 (3) -1.0     Angers 5/5, 104                 SMALL SAMPLE (5)
+14  Hamburger SV         Hoffenheim         Away   1.07    5/5  100%   1.40   13.8  104.2    +7%  Harm Osmers 2.0 (1) -1.3        Hoffenheim 5/6, 95              SMALL SAMPLE (5)
+15  Eintracht Frankfurt  RB Leipzig         Away   1.13    5/5  100%   2.00   10.2  104.2   +12%  Daniel Siebert 2.0 (1) -1.3     RB Leipzig 5/6, 92              SMALL SAMPLE (5)
+16  Derby County         Wrexham AFC        Home   1.10    8/9   89%   2.11   13.2  103.8    -2%  Matt Donohue 5.3 (3) +3.0       Wrexham AFC 7/9, 92             
+17  Inter                Parma Calcio       Home   1.41    6/6  100%   1.83    7.2  101.3   +29%  Kevin Bonacina 1.5 (2) -2.8     Parma Calcio 5/7, 83            
+18  Burnley              Watford            Away   1.13   9/10   90%   1.90   10.3  101.0    +2%  Andy Madley 4.2 (4) +1.3        Watford 7/10, 88                
+19  Aston Villa          Brentford          Home   1.18    7/8   88%   2.50   12.0  100.4    +3%  Craig Pawson 3.7 (3) +0.1       Brentford 6/7, 98               
+20  St Mirren FC         Heart of Midlothia Away   1.04    8/9   89%   2.11   12.2  100.4    -7%  Nick Walsh (no history)         Heart of Midloth 8/10, 92       
+21  Augsburg             Bayern Munich      Home   1.20    5/5  100%   1.60    9.8  100.2   +17%  Sven Jablonski 1.3 (3) -3.9     Bayern Munich 4/7, 68           SMALL SAMPLE (5)
+22  New York City FC     Chicago Fire       Away   1.14   9/10   90%   1.80   11.8  100.1    +2%  Brandon Stevis (no history)     Chicago Fire 9/10, 100          
+23  Preston North End    Millwall FC        Home   1.12   9/10   90%   2.30   11.0   99.9    +1%  Ben Speedie 3.0 (5) -1.3        Millwall FC 8/10, 91            
+24  Swansea City         Norwich            Home   1.20    8/9   89%   1.89    9.6   99.3    +6%  Andrew Kitchen 4.0 (6) +1.0     Norwich 8/10, 94                
+25  Toronto FC           CF Montreal        Home   1.17   9/10   90%   1.90    9.5   98.0    +5%  Allen Chapman 2.0 (1) -1.3      CF Montreal 8/10, 92            
+26  West Bromwich Albion Birmingham City    Home   1.12   9/10   90%   1.90   10.2   97.8    +1%  Gavin Ward 2.9 (7) -1.9         Birmingham City 8/10, 91        
+27  Ipswich Town         Fulham             Home   1.17    6/7   86%   2.14   11.4   96.8    +0%  Lewis Smith 3.2 (5) -0.9        Fulham 6/7, 93                  
+28  Sunderland AFC       Brighton           Home   1.09    6/7   86%   2.14   12.4   96.5    -6%  Thomas Bramall 2.8 (4) -1.7     Brighton 6/8, 90                
+29  Fiorentina           Genoa              Away   1.05    6/7   86%   1.71   11.3   96.3   -10%  Fabio Maresca (no history)      Genoa 6/7, 96                   
+30  Arsenal              Leeds United       Home   1.34    7/8   88%   1.25   10.9   95.6   +13%  Paul Tierney 3.3 (3) -0.4       Leeds United 5/7, 85            
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+HIT = games where the team got at least 1 card | REFEREE = his average total cards per match, (games we have), and the points added or removed from the score
+Score weights are first guesses (top of the script). The referee adjustment is the same for both teams in a match, so it changes the ranking between matches, not the pick inside one.

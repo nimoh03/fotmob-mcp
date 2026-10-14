@@ -1,0 +1,16 @@
+CALMEST FIRST (top 15). A filter, not a recommendation.
+ 1. Sun 21:30Z Deportes Concepcion vs Deportes Union La Calera | draw 1.07 | ours 95.1% vs needs 93.5% (+1.6)
+ 2. Sun 19:00Z Cerro Largo FC vs Albion FC | draw 1.08 | ours 95.0% vs needs 92.6% (+2.4)
+ 3. Sun 21:30Z CR Flamengo RJ vs Fluminense FC RJ | draw 1.11 | ours 94.9% vs needs 90.1% (+4.8) | WE LIKE IT, THE MARKET DOESN'T
+ 4. Sun 19:45Z Cagliari vs Juventus | draw 1.09 | ours 94.8% vs needs 91.7% (+3.1)
+ 5. Sun 19:00Z Coquimbo Unido vs Colo-Colo | draw 1.09 | ours 94.7% vs needs 91.7% (+3.0)
+ 6. Sun 15:00Z CA Juventud de Las Piedras vs Racing Club Montevideo | draw 1.08 | ours 94.5% vs needs 92.6% (+2.0)
+ 7. Sun 21:00Z CA Platense vs Argentinos Juniors | draw 1.06 | ours 94.5% vs needs 94.3% (+0.2)
+ 8. Sun 21:30Z SE Palmeiras SP vs SC Corinthians SP | draw 1.09 | ours 94.4% vs needs 91.7% (+2.6)
+ 9. Sun 16:30Z CD Everton Vina del Mar vs Deportes La Serena | draw 1.1 | ours 94.2% vs needs 90.9% (+3.3)
+10. Sun 21:30Z Sport Boys Association vs Alianza Atletico | draw 1.08 | ours 93.6% vs needs 92.6% (+1.1)
+11. Sun 23:30Z EC Bahia BA vs Mirassol FC SP | draw 1.11 | ours 93.6% vs needs 90.1% (+3.6) | WE LIKE IT, THE MARKET DOESN'T
+12. Sun 18:45Z CA San Lorenzo de Almagro vs Deportivo Riestra AFBC | draw 1.06 | ours 93.6% vs needs 94.3% (-0.8)
+13. Sun 21:30Z Gremio FB Porto Alegrense RS vs SC Internacional RS | draw 1.08 | ours 93.3% vs needs 92.6% (+0.7)
+14. Sun 14:00Z Lecce vs Bologna | draw 1.09 | ours 93.1% vs needs 91.7% (+1.4)
+15. Sun 17:00Z Sassuolo vs AC Milan | draw 1.11 | ours 92.9% vs needs 90.1% (+2.9)

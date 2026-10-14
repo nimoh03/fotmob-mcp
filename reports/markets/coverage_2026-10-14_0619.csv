@@ -1,0 +1,139 @@
+match,tournament,kickoff_wat,status,reason,resolved_by,home_id,away_id,home_games,home_at_home,away_games,away_away,goals_ok,cards_ok,xg_ok,form_ok
+PFC Montana 1921 vs PFC Ludogorets Razgrad II,Vtora Liga,2026-10-13T16:00:00.000Z,READY,,search,46475,653822,12,6,11,7,Y,N,N,N
+Atletico Oriente vs Comunal Cabrero,Tercera Division,2026-10-13T16:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Harju JK Laagri vs FC Nomme United,Premium Liiga,2026-10-13T16:00:00.000Z,READY,,daily,673053,584714,31,16,31,16,Y,Y,N,N
+Parnu JK Vaprus vs Nomme Kalju FC,Premium Liiga,2026-10-13T16:00:00.000Z,READY,,search,828265,112484,31,16,36,18,Y,Y,N,N
+Al Bukiryah vs Al-Zlfe,Division 1,2026-10-13T16:15:00.000Z,READY,,daily,1017726,1699506,8,6,8,4,Y,Y,N,Y
+AL Saqer FC vs AL Jabalain FC,Division 1,2026-10-13T16:15:00.000Z,READY,,search,2026233,1115133,7,4,8,4,Y,Y,N,Y
+AL Hazem U21 vs Damac U21,U21 Elite League,2026-10-13T16:20:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+SK Artis B vs FC Zbrojovka Brno B,MSFL,2026-10-13T16:30:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Hapoel Umm al-Fahm vs Shefa-amr FC,State Cup,2026-10-13T16:30:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Lokomotiv Moscow vs FK Akron Tolyatti,Russian Cup,2026-10-13T16:30:00.000Z,READY,,daily,8710,1068364,14,6,14,7,Y,N,N,N
+AL Orobah U21 vs AL Fayha U21,U21 Elite League,2026-10-13T16:30:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Atletico Petroleos de Luanda vs Kabuscorp SCP,Girabola,2026-10-13T17:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Diosgyori VTK vs Szentlorinc SE,NB II,2026-10-13T17:00:00.000Z,READY,,search,2476,4041,9,4,9,4,Y,N,N,N
+Al Sadd SC vs Al Hilal SFC,AFC Champions League Elite,2026-10-13T17:00:00.000Z,READY,,daily,101895,2529,8,5,11,6,Y,Y,N,Y
+Al-Seeb vs Al Hussein Irbid,AFC Champions League Two,2026-10-13T17:00:00.000Z,SKIP,home team has 2 competitive games this season,daily,101759,101688,2,1,3,2,Y,N,N,Y
+Arad FC vs MK Kfar Saba 1928,State Cup,2026-10-13T17:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Hapoel Acre FC vs Bnei Yehuda Tel Aviv FC,"League Cup, National",2026-10-13T17:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Gor Mahia FC vs Muranga Seal,Premier League,2026-10-13T17:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+SC Gjilani vs KF Drenica Skenderaj,Superliga,2026-10-13T17:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+FC Penafiel U23 vs SL Benfica,U23 Liga Next Gen,2026-10-13T17:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Torreense vs Leixoes SC,U23 Liga Next Gen,2026-10-13T17:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Simba SC vs Mashujaa FC,Premier League,2026-10-13T17:00:00.000Z,READY,,daily,165086,1499086,10,5,8,5,Y,N,N,N
+FC Grossklein vs SV Rohrbach An Der Lafnitz,"Steiermark, Landesliga",2026-10-13T17:30:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+TSV Aubstadt vs FV Illertissen,Regionalliga Bavaria,2026-10-13T17:30:00.000Z,READY,,daily,340719,145501,13,8,13,7,Y,N,N,N
+ASO Chlef vs MC Alger,Ligue 1,2026-10-13T17:45:00.000Z,READY,,daily,101629,6353,5,3,5,2,Y,N,N,N
+Lens vs Sporting,UEFA Champions League,2026-10-13T17:45:00.000Z,READY,,daily,8588,9768,9,5,10,5,Y,Y,Y,Y
+Sabah Masazir vs Slavia Prague,UEFA Champions League,2026-10-13T17:45:00.000Z,READY,,daily,951893,7787,16,8,13,7,Y,N,N,N
+Ilzer SV vs USV St. Anna am Aigen,"Steiermark, Landesliga",2026-10-13T18:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+SV Pachern vs DSV Leoben,"Steiermark, Landesliga",2026-10-13T18:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+TUS Bad Waltersdorf vs SV Wildon,"Steiermark, Landesliga",2026-10-13T18:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Township Rollers vs Orapa United,Premier League,2026-10-13T18:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Petrojet FC vs Wadi Degla SC,Premier League,2026-10-13T18:00:00.000Z,READY,,daily,103017,205190,6,3,7,4,Y,Y,Y,Y
+1. FC Saarbrucken vs MSV Duisburg,3. Liga,2026-10-13T18:00:00.000Z,READY,,daily,8271,8293,10,6,10,5,Y,Y,N,Y
+Hansa Rostock vs SV Meppen 1912,3. Liga,2026-10-13T18:00:00.000Z,READY,,daily,8294,79904,10,5,9,5,Y,Y,N,Y
+Rot-Weiss Essen vs Fortuna Cologne,3. Liga,2026-10-13T18:00:00.000Z,READY,,daily,8296,7786,10,6,9,5,Y,Y,N,Y
+TSV Havelse vs FC Wurzburger Kickers,3. Liga,2026-10-13T18:00:00.000Z,READY,,daily,89338,145486,9,5,10,5,Y,Y,N,Y
+VfB Stuttgart II vs TSG Hoffenheim II,3. Liga,2026-10-13T18:00:00.000Z,READY,,daily,8458,94940,9,4,9,5,Y,Y,N,Y
+Greuther Furth II vs FC Memmingen,Regionalliga Bavaria,2026-10-13T18:00:00.000Z,READY,,daily,94947,94950,13,6,14,7,Y,N,N,N
+TSV Buchbach vs FC Augsburg II,Regionalliga Bavaria,2026-10-13T18:00:00.000Z,READY,,daily,145484,338321,14,7,13,8,Y,N,N,N
+VfB Eichstatt vs DJK Vilzing,Regionalliga Bavaria,2026-10-13T18:00:00.000Z,READY,,daily,340732,557352,14,7,13,6,Y,N,N,N
+Heming vs KFUM 2,"3. Division, Group 1",2026-10-13T18:00:00.000Z,READY,,daily,46909,161348,24,13,23,12,Y,N,N,N
+IFK Norrkoping FK vs GIF Sundsvall,Superettan,2026-10-13T18:00:00.000Z,READY,,daily,8449,8359,30,15,30,16,Y,Y,N,Y
+Pendikspor vs Van Spor FK,1. Lig,2026-10-13T18:00:00.000Z,READY,,daily,95745,146408,10,5,10,5,Y,Y,N,Y
+Torque vs Cerro Largo FC,"Tercera Division, Reserves",2026-10-13T18:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+SV Lebring vs FC Wm-Estriche Schladming,"Steiermark, Landesliga",2026-10-13T18:30:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Durban City FC vs AmaZulu FC,Premiership,2026-10-13T18:30:00.000Z,READY,,daily,149599,102100,11,5,9,5,Y,N,N,Y
+Kaizer Chiefs vs Stellenbosch FC,Premiership,2026-10-13T18:30:00.000Z,READY,,daily,6279,207873,9,5,8,5,Y,Y,Y,Y
+Orlando Pirates FC vs TS Galaxy FC,Premiership,2026-10-13T18:30:00.000Z,READY,,daily,7866,953498,14,8,8,4,Y,Y,N,Y
+Richards Bay FC vs Mamelodi Sundowns,Premiership,2026-10-13T18:30:00.000Z,READY,,daily,866690,4530,8,5,14,7,Y,Y,N,Y
+FK Krasnodar vs FC Fakel Voronezh,Russian Cup,2026-10-13T18:45:00.000Z,READY,,daily,168719,1692,14,7,14,6,Y,N,N,N
+At Rafaela Reserve vs Estudiantes de Rio Cuarto Reserve,"Primera LPF, Reserves",2026-10-13T19:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+CA Banfield vs Gimnasia de la Plata Reserve,"Primera LPF, Reserves",2026-10-13T19:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+CA Quilmes Reserve vs Newells Old Boys,"Primera LPF, Reserves",2026-10-13T19:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Independiente Reserve vs CA Huracan,"Primera LPF, Reserves",2026-10-13T19:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Bangu AC RJ vs Botafogo FR RJ,"U20 Carioca, Serie A",2026-10-13T19:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+America PE vs Retro FC PE,U20 Pernambucano,2026-10-13T19:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Cheltenham Town vs Tottenham Hotspur U21,EFL Trophy,2026-10-13T19:00:00.000Z,READY,,daily,8680,860802,13,8,6,4,Y,Y,N,Y
+Gillingham FC vs Brighton & Hove Albion U21,EFL Trophy,2026-10-13T19:00:00.000Z,READY,,daily,10173,773678,13,8,6,4,Y,Y,N,Y
+Notts County vs Nottingham Forest U21,EFL Trophy,2026-10-13T19:00:00.000Z,READY,,daily,9819,1389162,11,6,8,6,Y,Y,N,Y
+Oldham Athletic vs Leeds United U21,EFL Trophy,2026-10-13T19:00:00.000Z,READY,,daily,9785,1177187,12,7,9,7,Y,Y,N,Y
+Reading FC vs Chelsea U21,EFL Trophy,2026-10-13T19:00:00.000Z,READY,,daily,9798,773652,14,8,7,5,Y,Y,N,Y
+Walsall FC vs Fulham U21,EFL Trophy,2026-10-13T19:00:00.000Z,READY,,daily,10006,860801,13,7,9,7,Y,Y,N,Y
+Boston United FC vs Southampton U21,National League Cup,2026-10-13T19:00:00.000Z,READY,,daily,8646,773645,16,10,7,6,Y,Y,N,Y
+FC Halifax Town vs Stoke City U21,National League Cup,2026-10-13T19:00:00.000Z,READY,,daily,10195,773650,16,10,7,5,Y,Y,N,Y
+Gateshead FC vs Wolverhampton Wanderers U21,National League Cup,2026-10-13T19:00:00.000Z,READY,,daily,6189,773683,16,9,6,5,Y,Y,N,Y
+Scunthorpe United vs Derby County U21,National League Cup,2026-10-13T19:00:00.000Z,READY,,daily,8412,773680,15,8,7,5,Y,Y,N,Y
+Sutton United vs West Bromwich Albion FC U21,National League Cup,2026-10-13T19:00:00.000Z,READY,,daily,158316,773656,16,10,6,5,Y,Y,N,Y
+Hull City U21 vs Wycombe Wanderers Development Team,Premier League Cup,2026-10-13T19:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Al Ahed FC vs AL Mabarrah,Premier League,2026-10-13T19:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Rs Berkane vs Renaissance Zemamra,Botola Pro D1,2026-10-13T19:00:00.000Z,SKIP,home team has 3 competitive games this season,daily,316652,950070,3,1,6,4,Y,Y,N,Y
+Al-Ittihad Club vs Shabab Al Ahli Dubai,AFC Champions League Elite,2026-10-13T19:15:00.000Z,READY,,daily,8577,102119,12,5,10,5,Y,Y,N,Y
+Braintree Town FC vs West Ham U21,National League Cup,2026-10-13T19:30:00.000Z,READY,,daily,5763,773649,14,10,7,5,Y,N,N,N
+Bristol City vs Blackburn Rovers,Championship,2026-10-13T19:45:00.000Z,READY,,daily,8427,8655,11,6,12,6,Y,Y,Y,Y
+Burnley vs Charlton Athletic,Championship,2026-10-13T19:45:00.000Z,READY,,daily,8191,8451,12,6,12,7,Y,Y,Y,Y
+Cardiff City vs Watford,Championship,2026-10-13T19:45:00.000Z,READY,,daily,8344,9817,12,7,12,5,Y,Y,Y,Y
+Millwall FC vs Swansea City,Championship,2026-10-13T19:45:00.000Z,READY,,daily,10004,10003,13,6,11,5,Y,Y,Y,Y
+Wolves vs Bolton Wanderers,Championship,2026-10-13T19:45:00.000Z,READY,,daily,8602,8559,12,5,11,6,Y,Y,Y,Y
+Wrexham AFC vs West Bromwich Albion,Championship,2026-10-13T19:45:00.000Z,READY,,daily,9841,8659,11,5,12,7,Y,Y,Y,Y
+Woking FC vs Leicester City U21,National League Cup,2026-10-13T19:45:00.000Z,READY,,daily,8345,773642,16,10,6,5,Y,Y,N,Y
+Worthing FC vs Ipswich Town U21,National League Cup,2026-10-13T19:45:00.000Z,READY,,daily,282351,1796115,16,10,8,7,Y,Y,N,Y
+Buckhurst Hill vs Newmarket Town,England Isthmian League North Division,2026-10-13T19:45:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Ebbsfleet United FC vs AFC Totton,National League South,2026-10-13T19:45:00.000Z,READY,,daily,9794,275027,8,4,11,5,Y,N,N,N
+Ashton United FC vs Alfreton Town FC,Northern Premier League Premier,2026-10-13T19:45:00.000Z,READY,,daily,161818,6258,12,6,14,7,Y,N,N,N
+Bamber Bridge vs Warrington Town,Northern Premier League Premier,2026-10-13T19:45:00.000Z,READY,,daily,282395,282389,13,7,12,6,Y,N,N,N
+FC United of Manchester vs AFC Emley,Northern Premier League Premier,2026-10-13T19:45:00.000Z,READY,,daily,161822,1532123,12,6,13,7,Y,N,N,N
+Gainsborough Trinity vs Ilkeston Town FC,Northern Premier League Premier,2026-10-13T19:45:00.000Z,READY,,daily,6450,1291005,12,6,14,7,Y,N,N,N
+Hyde United FC vs Quorn FC,Northern Premier League Premier,2026-10-13T19:45:00.000Z,READY,,daily,161802,129937,14,7,13,7,Y,N,N,N
+Lancaster City vs Stockton Town,Northern Premier League Premier,2026-10-13T19:45:00.000Z,READY,,daily,4451,1087122,14,7,14,7,Y,N,N,N
+Redcar Athletic FC vs Avro FC,Northern Premier League Premier,2026-10-13T19:45:00.000Z,READY,,daily,1804164,1290988,14,7,12,6,Y,N,N,N
+Warrington Rylands 1906 FC vs Curzon Ashton FC,Northern Premier League Premier,2026-10-13T19:45:00.000Z,READY,,daily,1186092,158390,14,7,12,6,Y,N,N,N
+Workington AFC vs Whitby Town,Northern Premier League Premier,2026-10-13T19:45:00.000Z,READY,,daily,105553,6195,14,7,13,6,Y,N,N,N
+Bracknell Town FC vs Hanworth Villa,Southern League Premier South,2026-10-13T19:45:00.000Z,READY,,daily,626250,292925,11,5,11,5,Y,N,N,N
+Chippenham Town vs Frome Town,Southern League Premier South,2026-10-13T19:45:00.000Z,READY,,daily,7962,275029,10,4,12,6,Y,N,N,N
+Evesham United vs Bath City FC,Southern League Premier South,2026-10-13T19:45:00.000Z,READY,,daily,158317,6095,11,6,11,5,Y,N,N,N
+Gloucester City vs Taunton Town,Southern League Premier South,2026-10-13T19:45:00.000Z,READY,,daily,161833,282502,10,5,10,5,Y,N,N,N
+Hanwell Town FC vs Chertsey Town,Southern League Premier South,2026-10-13T19:45:00.000Z,READY,,daily,582838,282503,10,4,11,5,Y,N,N,N
+Havant & Waterlooville vs Basingstoke Town FC,Southern League Premier South,2026-10-13T19:45:00.000Z,READY,,daily,1767,45807,11,6,11,6,Y,N,N,N
+Malvern Town vs Yate Town,Southern League Premier South,2026-10-13T19:45:00.000Z,READY,,daily,1508925,161839,11,5,11,6,Y,N,N,N
+Plymouth Parkway vs Wimborne Town,Southern League Premier South,2026-10-13T19:45:00.000Z,READY,,daily,674304,282358,11,5,10,4,Y,N,N,N
+Sholing FC vs Chichester City FC,Southern League Premier South,2026-10-13T19:45:00.000Z,READY,,daily,282360,1071515,10,6,11,6,Y,N,N,N
+Burgess Hill Town vs Dulwich Hamlet,"Isthmian League, Pr. Div",2026-10-13T19:45:00.000Z,READY,,daily,282340,282508,10,7,10,5,Y,N,N,N
+Three Bridges vs Lewes FC,"Isthmian League, Pr. Div",2026-10-13T19:45:00.000Z,READY,,daily,338317,8660,11,5,12,7,Y,N,N,N
+Wingate & Finchley vs Ramsgate FC,"Isthmian League, Pr. Div",2026-10-13T19:45:00.000Z,READY,,daily,274594,5767,10,4,12,7,Y,N,N,N
+Anstey Nomads vs Rushall Olympic,Southern League Premier Central,2026-10-13T19:45:00.000Z,READY,,daily,960130,274600,11,5,12,6,Y,N,N,N
+Bromsgrove Sporting vs Kettering Town,Southern League Premier Central,2026-10-13T19:45:00.000Z,READY,,daily,953607,6647,11,6,11,5,Y,N,N,N
+Bury Town FC vs Needham Market,Southern League Premier Central,2026-10-13T19:45:00.000Z,READY,,daily,158320,282375,11,5,11,5,Y,N,N,N
+Halesowen Town FC vs Alvechurch,Southern League Premier Central,2026-10-13T19:45:00.000Z,READY,,daily,2260,865168,9,5,11,5,Y,N,N,N
+Leamington FC vs Redditch United,Southern League Premier Central,2026-10-13T19:45:00.000Z,READY,,daily,5764,161800,11,5,11,6,Y,N,N,N
+Peterborough Sports vs Banbury United,Southern League Premier Central,2026-10-13T19:45:00.000Z,READY,,daily,674289,161841,12,6,11,5,Y,N,N,N
+Stamford AFC vs Stratford Town,Southern League Premier Central,2026-10-13T19:45:00.000Z,READY,,daily,282333,459581,11,5,11,5,Y,N,N,N
+Worcester City vs Stourbridge FC,Southern League Premier Central,2026-10-13T19:45:00.000Z,READY,,daily,6292,161834,11,4,11,5,Y,N,N,N
+Cliftonville vs Glentoran,County Antrim Shield,2026-10-13T19:45:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Crusaders vs Ballymena United,County Antrim Shield,2026-10-13T19:45:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Dundela FC vs Larne FC,County Antrim Shield,2026-10-13T19:45:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Queens Park FC vs Inverness Caledonian Thistle FC,Championship,2026-10-13T19:45:00.000Z,READY,,daily,8235,8066,14,7,15,8,Y,N,N,N
+Annan Athletic FC vs Alloa Athletic FC,Challenge Cup,2026-10-13T19:45:00.000Z,READY,,daily,46036,8160,20,12,20,9,Y,N,N,N
+Berwick Rangers vs Queen of the South FC,Challenge Cup,2026-10-13T19:45:00.000Z,READY,,daily,8368,9924,15,9,20,9,Y,N,N,N
+Clydebank FC vs Dumbarton FC,Challenge Cup,2026-10-13T19:45:00.000Z,READY,,daily,6102,8321,15,10,20,9,Y,N,N,N
+Cove Rangers FC vs Formartine United,Challenge Cup,2026-10-13T19:45:00.000Z,READY,,daily,6002,351618,20,11,20,10,Y,N,N,N
+East Kilbride FC vs Kelty Hearts FC,Challenge Cup,2026-10-13T19:45:00.000Z,READY,,daily,575419,675817,20,11,20,10,Y,N,N,N
+Edinburgh City FC vs St Mirren B,Challenge Cup,2026-10-13T19:45:00.000Z,READY,,daily,4130,1273057,20,11,6,6,Y,N,N,N
+Elgin City FC vs Aberdeen FC B,Challenge Cup,2026-10-13T19:45:00.000Z,READY,,daily,9914,1273052,20,11,6,6,Y,N,N,N
+Peterhead FC vs Glasgow Rangers FC B,Challenge Cup,2026-10-13T19:45:00.000Z,READY,,daily,8158,1266916,20,11,6,6,Y,N,N,N
+Ross County FC vs Forfar Athletic FC,Challenge Cup,2026-10-13T19:45:00.000Z,READY,,daily,8649,8145,21,11,20,9,Y,N,N,N
+Spartans FC vs Bonnyrigg Rose,Challenge Cup,2026-10-13T19:45:00.000Z,READY,,daily,6661,183953,20,11,15,7,Y,N,N,N
+Birmingham City vs Preston North End,Championship,2026-10-13T20:00:00.000Z,READY,,daily,8658,8411,12,6,12,5,Y,Y,Y,Y
+Stoke City vs Middlesbrough FC,Championship,2026-10-13T20:00:00.000Z,READY,,daily,10194,8549,12,7,13,7,Y,Y,Y,Y
+Arsenal vs Lille,UEFA Champions League,2026-10-13T20:00:00.000Z,READY,,daily,9825,8639,10,5,8,4,Y,Y,Y,Y
+Atletico Madrid vs Man Utd,UEFA Champions League,2026-10-13T20:00:00.000Z,READY,,daily,9906,10260,10,5,9,4,Y,Y,Y,Y
+Galatasaray Istanbul vs Barcelona,UEFA Champions League,2026-10-13T20:00:00.000Z,READY,,daily,8637,8634,9,5,10,5,Y,Y,Y,Y
+Inter vs Club Brugge,UEFA Champions League,2026-10-13T20:00:00.000Z,READY,,daily,8636,8342,8,5,11,5,Y,Y,Y,Y
+RB Leipzig vs PSV Eindhoven,UEFA Champions League,2026-10-13T20:00:00.000Z,READY,,daily,178475,8640,8,4,11,5,Y,Y,Y,Y
+Viking FK vs Bayern Munich,UEFA Champions League,2026-10-13T20:00:00.000Z,READY,,daily,8478,9823,30,13,9,6,Y,Y,Y,Y
+Villarreal vs Napoli,UEFA Champions League,2026-10-13T20:00:00.000Z,READY,,daily,10205,9875,10,4,8,4,Y,Y,Y,Y
+USM Alger vs JS Saoura,Ligue 1,2026-10-13T20:15:00.000Z,READY,,daily,101628,316399,5,2,6,4,Y,N,N,N
+FUS Rabat vs Raja Casablanca Athletic,Botola Pro D1,2026-10-13T21:00:00.000Z,READY,,daily,102036,102049,6,3,5,3,Y,Y,N,Y
+CD Imperial Unido vs Deportes Rancagua,Tercera Division,2026-10-13T23:00:00.000Z,SKIP,not found on FotMob,,,,,,,,,,,
+Athletic Club Sjdr MG vs Londrina EC PR,Brasileiro Serie B,2026-10-13T23:30:00.000Z,READY,,daily,1221604,298660,42,22,36,18,Y,Y,N,Y

@@ -1,0 +1,24 @@
+TEAM STATS REPORT — --team=Arsenal — 2026-10-09 16:54
+matches used: last 10 finished per team (before today)
+teams requested: 1 | resolved: 1 | unresolved: 0 | matches fetched: 10
+======================================================================
+
+######## Arsenal ########
+  NOTE: 9 clubs matched 'Arsenal' — took the first one. If wrong, rename to be more specific.
+  10 matches used  (home 5, away 5)
+  corners         :   2.90 for |   1.30 against
+  shots           :   6.90 for |   4.50 against
+  shots on target :   2.90 for |   1.70 against
+  shots off       :   2.10
+  blocked shots   :   1.90
+  big chances     :   1.50
+  xg              :   1.03 for |   0.51 against
+  possession      :    56%
+  yellow cards    :   0.70 for |   1.30 against
+  red cards       :   0.00 for |   0.10 against
+  fouls           :   6.10 for |   6.70 against
+  offsides        :   1.90 for |   0.50 against
+  saves           :   1.20 for |   1.80 against
+  passes          : 252.70
+
+FotMob stat coverage varies by league. Throw-ins and goal kicks only appear where FotMob records them (often they don't).

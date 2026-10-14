@@ -1,0 +1,97 @@
+==========================================================================
+SAFE (about 2.0 odds, grade A legs only)
+total odds 1.92 | chance every leg lands: our estimate 67%, cautious (halfway to the bookmaker) 59% | 4 legs
+==========================================================================
+1. 18:00 | Heming vs KFUM 2 (3. Division, Group 1)
+   Home or Draw @1.38 [grade A] | our estimate 81% | price implies 72%
+   story: expected goals 2.8-1.6: team wins 63%, draw 17%, team loses 20%
+   why: team: wins 59%, draws 18%, loses 23%, goals 2.6-1.6 per game, last 5 2.0 pts/game | opponent: wins 27%, goals 1.9-2.9 per game
+2. 18:30 | Richards Bay FC vs Mamelodi Sundowns (Premiership)
+   2nd Half Over 0.5 @1.24 [grade A] | our estimate 89% | price implies 81%
+   story: expected goals 1.2-2.2, expected 2nd-half goals 2.4
+   why: home: scores in the 2nd half in 71% of games, 1.4 goals per game | away: scores in the 2nd half in 100% of games, 2.1 goals per game
+3. 19:45 | Bristol City vs Blackburn Rovers (Championship)
+   Full Match Over 0.5 @1.07 [grade A] | our estimate 96% | price implies 93%
+   story: expected goals 1.3-1.3
+   why: home: 1.3 goals scored, 0-0 in 0% | away: 1.6 goals scored, 0-0 in 11%
+4. 20:00 | Stoke City vs Middlesbrough FC (Championship)
+   Full Match Over 0.5 @1.05 [grade A] | our estimate 97% | price implies 95%
+   story: expected goals 1.6-1.3
+   why: home: 1.7 goals scored, 0-0 in 0% | away: 1.9 goals scored, 0-0 in 0%
+
+==========================================================================
+MAIN (4.5 - 5.0 odds, grade A legs only): not enough strong legs to build this ticket inside the odds range
+
+==========================================================================
+LONGSHOT (about 20 odds, for fun, grade A and B legs)
+total odds 15.03 | chance every leg lands: our estimate 28%, cautious (halfway to the bookmaker) 14% | 14 legs
+==========================================================================
+1. 16:00 | Harju JK Laagri vs FC Nomme United (Premium Liiga)
+   Away no 3+ in row @1.08 [grade B] | our estimate 98% | price implies 93%
+   story: expected goals 1.4-2.0: chance this side scores 3 in a row 9%
+   why: this side: 1.4 goals per game, 2-goal runs in 30% of games, 3-goal runs in 10% | other side: concedes 1.5 per game, lets 2-goal runs happen in 40%
+   missed: this side: other side concedes at most 1.2 per game (is 1.5)
+2. 16:15 | AL Saqer FC vs AL Jabalain FC (Division 1)
+   Away no 3+ in row @1.12 [grade B] | our estimate 100% | price implies 89%
+   story: expected goals 0.6-0.7: chance this side scores 3 in a row 2%
+   why: this side: 0.8 goals per game, 2-goal runs in 0% of games, 3-goal runs in 0% | other side: concedes 0.4 per game, lets 2-goal runs happen in 0%
+   missed: this side: other side can respond, scores in at least 70% of games (is 50%)
+3. 18:00 | Petrojet FC vs Wadi Degla SC (Premier League)
+   2nd Half Over 0.5 @1.33 [grade B] | our estimate 90% | price implies 75%
+   story: expected goals 1.3-1.2, expected 2nd-half goals 1.8
+   why: home: scores in the 2nd half in 80% of games, 1.6 goals per game | away: scores in the 2nd half in 40% of games, 0.8 goals per game
+   missed: no 1-0 type teams: at most 1 game with 1 goal or fewer in the last 5 of each (home 0, away 2)
+4. 18:00 | Pendikspor vs Van Spor FK (1. Lig)
+   2nd Half Over 0.5 @1.23 [grade B] | our estimate 90% | price implies 81%
+   story: expected goals 1.8-1.2, expected 2nd-half goals 1.7
+   why: home: scores in the 2nd half in 56% of games, 1.2 goals per game | away: scores in the 2nd half in 56% of games, 0.9 goals per game
+   missed: 2nd-half scorers: one team scores after half time in 80%+ of games, or both in 60%+ (home 56%, away 56%)
+5. 18:00 | Heming vs KFUM 2 (3. Division, Group 1)
+   Home or Draw @1.38 [grade A] | our estimate 81% | price implies 72%
+   story: expected goals 2.8-1.6: team wins 63%, draw 17%, team loses 20%
+   why: team: wins 59%, draws 18%, loses 23%, goals 2.6-1.6 per game, last 5 2.0 pts/game | opponent: wins 27%, goals 1.9-2.9 per game
+6. 18:30 | Durban City FC vs AmaZulu FC (Premiership)
+   Away no 3+ in row @1.06 [grade B] | our estimate 99% | price implies 94%
+   story: expected goals 1.0-0.9: chance this side scores 3 in a row 6%
+   why: this side: 1.5 goals per game, 2-goal runs in 14% of games, 3-goal runs in 0% | other side: concedes 0.5 per game, lets 2-goal runs happen in 14%
+   missed: this side: other side can respond, scores in at least 70% of games (is 43%)
+7. 18:30 | Orlando Pirates FC vs TS Galaxy FC (Premiership)
+   2nd Half Over 0.5 @1.22 [grade B] | our estimate 90% | price implies 82%
+   story: expected goals 1.7-0.7, expected 2nd-half goals 1.7
+   why: home: scores in the 2nd half in 86% of games, 2.1 goals per game | away: scores in the 2nd half in 43% of games, 1.3 goals per game
+   missed: no 1-0 type teams: at most 1 game with 1 goal or fewer in the last 5 of each (home 0, away 4)
+8. 18:30 | Richards Bay FC vs Mamelodi Sundowns (Premiership)
+   2nd Half Over 0.5 @1.24 [grade A] | our estimate 89% | price implies 81%
+   story: expected goals 1.2-2.2, expected 2nd-half goals 2.4
+   why: home: scores in the 2nd half in 71% of games, 1.4 goals per game | away: scores in the 2nd half in 100% of games, 2.1 goals per game
+9. 19:45 | Wrexham AFC vs West Bromwich Albion (Championship)
+   Full Match Over 0.5 @1.08 [grade A] | our estimate 96% | price implies 93%
+   story: expected goals 1.2-1.2
+   why: home: 1.1 goals scored, 0-0 in 11% | away: 1.1 goals scored, 0-0 in 0%
+10. 19:45 | Millwall FC vs Swansea City (Championship)
+   2nd Half Over 0.5 @1.27 [grade B] | our estimate 90% | price implies 79%
+   story: expected goals 1.5-1.6, expected 2nd-half goals 1.6
+   why: home: scores in the 2nd half in 56% of games, 2.0 goals per game | away: scores in the 2nd half in 67% of games, 1.8 goals per game
+   missed: 2nd-half scorers: one team scores after half time in 80%+ of games, or both in 60%+ (home 56%, away 67%)
+11. 19:45 | Queens Park FC vs Inverness Caledonian Thistle FC (Championship)
+   2nd Half Over 0.5 @1.24 [grade B] | our estimate 89% | price implies 81%
+   story: expected goals 0.9-1.5, expected 2nd-half goals 1.3
+   why: home: scores in the 2nd half in 33% of games, 0.6 goals per game | away: scores in the 2nd half in 56% of games, 1.4 goals per game
+   missed: 2nd-half scorers: one team scores after half time in 80%+ of games, or both in 60%+ (home 33%, away 56%)
+12. 19:45 | Plymouth Parkway vs Wimborne Town (Southern League Premier South)
+   Home or Draw @1.35 [grade B] | our estimate 83% | price implies 74%
+   story: expected goals 1.8-1.0: team wins 55%, draw 23%, team loses 22%
+   why: team: wins 60%, draws 20%, loses 20%, goals 2.4-1.1 per game, last 5 2.0 pts/game | opponent: wins 44%, goals 1.8-0.8 per game
+   missed: opponent wins at most 40% of its games (is 44%)
+13. 20:00 | Stoke City vs Middlesbrough FC (Championship)
+   Away no 3+ in row @1.15 [grade B] | our estimate 98% | price implies 87%
+   story: expected goals 1.3-1.6: chance this side scores 3 in a row 9%
+   why: this side: 1.6 goals per game, 2-goal runs in 44% of games, 3-goal runs in 11% | other side: concedes 1.1 per game, lets 2-goal runs happen in 33%
+   missed: this side: not a shooting side, at most 1.7 goals per game (is 1.6) and 3+ goals in at most 20% of games (is 22%)
+14. 23:30 | Athletic Club Sjdr MG vs Londrina EC PR (Brasileiro Serie B)
+   2nd Half Over 0.5 @1.3 [grade B] | our estimate 89% | price implies 77%
+   story: expected goals 1.4-1.1, expected 2nd-half goals 1.4
+   why: home: scores in the 2nd half in 50% of games, 1.2 goals per game | away: scores in the 2nd half in 47% of games, 1.2 goals per game
+   missed: 2nd-half scorers: one team scores after half time in 80%+ of games, or both in 60%+ (home 50%, away 47%)
+
+Kick-off times are Nigeria time. Estimates come from past matches and are likely a little optimistic.

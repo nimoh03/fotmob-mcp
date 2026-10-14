@@ -1,0 +1,628 @@
+5-MINUTE REPORT SUMMARY (paste this part when you share the report)
+file: five_slate.csv | run 2026-10-11 10:14 | took 180s | market: back the DRAW (nobody ahead after 5:00)
+fixtures: 83 | researched: 68 | not matched to FotMob: 15
+goal minutes: 3455 matches needed | read OK 3449 | goals did not add up to the final score 6 | failed 0
+CALIBRATION: in 2120 league matches read, a goal came in the first 5 minutes in 10.3% (so a draw lands about 89.7% of the time with no research)
+PRICE: the draw prices in this file need 90.5% on average just to break even
+BASELINE: backing every draw would be -0.8 pts against break-even before any picking (margin of error about +/-1.3 pts, so treat as unproven)
+EARLY-GOAL RATE BY COMPETITION (small samples, rough):
+  Netherlands / Eredivisie: 68 matches read, 7.4% had a goal in the first 5 minutes
+  Italy / Serie A: 53 matches read, 3.8% had a goal in the first 5 minutes
+  Czechia / 1. Liga: 76 matches read, 7.9% had a goal in the first 5 minutes
+  England / Championship: 100 matches read, 12.0% had a goal in the first 5 minutes
+  Scotland / Premiership: 46 matches read, 13.0% had a goal in the first 5 minutes
+  Sweden / Superettan: 100 matches read, 13.0% had a goal in the first 5 minutes
+  China / Chinese Super League: 100 matches read, 14.0% had a goal in the first 5 minutes
+  Denmark / Superliga: 55 matches read, 10.9% had a goal in the first 5 minutes
+  Spain / LaLiga: 73 matches read, 12.3% had a goal in the first 5 minutes
+  Austria / Bundesliga: 45 matches read, 11.1% had a goal in the first 5 minutes
+  Poland / Ekstraklasa: 83 matches read, 4.8% had a goal in the first 5 minutes
+  England / Premier League: 56 matches read, 10.7% had a goal in the first 5 minutes
+  France / Ligue 1: 51 matches read, 11.8% had a goal in the first 5 minutes
+  Turkiye / Super Lig: 59 matches read, 16.9% had a goal in the first 5 minutes
+  Greece / Super League: 37 matches read, 10.8% had a goal in the first 5 minutes
+  Uruguay / Primera Division: 100 matches read, 5.0% had a goal in the first 5 minutes
+  Portugal / Liga Portugal: 67 matches read, 17.9% had a goal in the first 5 minutes
+  Sweden / Allsvenskan: 100 matches read, 13.0% had a goal in the first 5 minutes
+  Norway / Eliteserien: 100 matches read, 18.0% had a goal in the first 5 minutes
+  Chile / Primera Division: 100 matches read, 5.0% had a goal in the first 5 minutes
+  Germany / Bundesliga: 43 matches read, 16.3% had a goal in the first 5 minutes
+  Belgium / Pro League: 68 matches read, 4.4% had a goal in the first 5 minutes
+  Israel / Premier League: 40 matches read, 7.5% had a goal in the first 5 minutes
+  Argentina / Primera LPF: 100 matches read, 7.0% had a goal in the first 5 minutes
+  Peru / Liga 1: 100 matches read, 9.0% had a goal in the first 5 minutes
+  Brazil / Brasileiro Serie A: 100 matches read, 5.0% had a goal in the first 5 minutes
+  Iceland / Besta deild: 100 matches read, 14.0% had a goal in the first 5 minutes
+  Colombia / Liga DIMAYOR: 100 matches read, 9.0% had a goal in the first 5 minutes
+NOTE: league 0: no finished matches found in the league data
+NOT RESEARCHED:
+  - Konyaspor vs Istanbul BB: could not confirm the fixture (possible teams found: 2 for 'Konyaspor', 0 for 'Istanbul BB')
+  - Standard Liege vs Royal Charleroi SC: could not confirm the fixture (possible teams found: 1 for 'Standard Liege', 0 for 'Royal Charleroi SC')
+  - Chongqing Tonglianglong FC vs Shandong Taishan FC: could not confirm the fixture (possible teams found: 0 for 'Chongqing Tonglianglong FC', 1 for 'Shandong Taishan FC')
+  - Hammarby IF vs Djurgardens IF: could not confirm the fixture (possible teams found: 2 for 'Hammarby IF', 0 for 'Djurgardens IF')
+  - Fredrikstad FK vs Tromsoe IL: could not confirm the fixture (possible teams found: 2 for 'Fredrikstad FK', 0 for 'Tromsoe IL')
+  - Cologne vs Borussia M´gladbach: could not confirm the fixture (possible teams found: 0 for 'Cologne', 0 for 'Borussia M´gladbach')
+  - Union Gilloise vs Oud-Heverlee Leuven: could not confirm the fixture (possible teams found: 0 for 'Union Gilloise', 1 for 'Oud-Heverlee Leuven')
+  - Broendby IF vs Lyngby BK: could not confirm the fixture (possible teams found: 0 for 'Broendby IF', 1 for 'Lyngby BK')
+  - AE Kifisia FC vs Panaitolikos Agrinio: could not confirm the fixture (possible teams found: 1 for 'AE Kifisia FC', 0 for 'Panaitolikos Agrinio')
+  - Aalesunds FK vs Sarpsborg 08: could not confirm the fixture (possible teams found: 0 for 'Aalesunds FK', 2 for 'Sarpsborg 08')
+  - IK Brage vs Helsingborgs IF: could not confirm the fixture (possible teams found: 1 for 'IK Brage', 0 for 'Helsingborgs IF')
+  - FC Midtjylland vs Copenhagen: could not confirm the fixture (possible teams found: 2 for 'FC Midtjylland', 0 for 'Copenhagen')
+  - Aris Thessaloniki vs Volos NPS: could not confirm the fixture (possible teams found: 1 for 'Aris Thessaloniki', 0 for 'Volos NPS')
+  - Yellow-Red KV Mechelen vs St. Truidense VV: could not confirm the fixture (possible teams found: 1 for 'Yellow-Red KV Mechelen', 0 for 'St. Truidense VV')
+  - Lillestroem SK vs Molde: could not confirm the fixture (possible teams found: 0 for 'Lillestroem SK', 3 for 'Molde')
+
+CALMEST FIRST (top 15)
+ 1. Sun 21:30Z Deportes Concepcion vs Deportes Union La Calera | draw 1.07 | ours 95.1% vs needs 93.5% (+1.6)
+ 2. Sun 19:00Z Cerro Largo FC vs Albion FC | draw 1.08 | ours 95.0% vs needs 92.6% (+2.4)
+ 3. Sun 21:30Z CR Flamengo RJ vs Fluminense FC RJ | draw 1.11 | ours 94.9% vs needs 90.1% (+4.8) | WE LIKE IT, THE MARKET DOESN'T
+ 4. Sun 19:45Z Cagliari vs Juventus | draw 1.09 | ours 94.8% vs needs 91.7% (+3.1)
+ 5. Sun 19:00Z Coquimbo Unido vs Colo-Colo | draw 1.09 | ours 94.7% vs needs 91.7% (+3.0)
+ 6. Sun 15:00Z CA Juventud de Las Piedras vs Racing Club Montevideo | draw 1.08 | ours 94.5% vs needs 92.6% (+2.0)
+ 7. Sun 21:00Z CA Platense vs Argentinos Juniors | draw 1.06 | ours 94.5% vs needs 94.3% (+0.2)
+ 8. Sun 21:30Z SE Palmeiras SP vs SC Corinthians SP | draw 1.09 | ours 94.4% vs needs 91.7% (+2.6)
+ 9. Sun 16:30Z CD Everton Vina del Mar vs Deportes La Serena | draw 1.1 | ours 94.2% vs needs 90.9% (+3.3)
+10. Sun 21:30Z Sport Boys Association vs Alianza Atletico | draw 1.08 | ours 93.6% vs needs 92.6% (+1.1)
+11. Sun 23:30Z EC Bahia BA vs Mirassol FC SP | draw 1.11 | ours 93.6% vs needs 90.1% (+3.6) | WE LIKE IT, THE MARKET DOESN'T
+12. Sun 18:45Z CA San Lorenzo de Almagro vs Deportivo Riestra AFBC | draw 1.06 | ours 93.6% vs needs 94.3% (-0.8)
+13. Sun 21:30Z Gremio FB Porto Alegrense RS vs SC Internacional RS | draw 1.08 | ours 93.3% vs needs 92.6% (+0.7)
+14. Sun 14:00Z Lecce vs Bologna | draw 1.09 | ours 93.1% vs needs 91.7% (+1.4)
+15. Sun 17:00Z Sassuolo vs AC Milan | draw 1.11 | ours 92.9% vs needs 90.1% (+2.9)
+
+======================================================================
+
+ 1. Sun 11 Oct 21:30 UTC (22:30 Lagos) | Chile / Primera Division
+    Deportes Concepcion vs Deportes Union La Calera
+    price: draw 1.07 (home 9.25, away 12.5) -> needs 93.5% no-goal to break even | market rank 4 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 4.9% -> no goal 95.1% | edge +1.6 pts | fair draw price 1.05
+    home Deportes Concepcion: early goals scored 1/25, conceded 0/25 (last 25 matches; minutes 6-10: scored 2, conceded 1) | attack 1.10 goals/game (rank 13 of 16, 1 = most) | defence 1.13 goals conceded/game (rank 4 of 16, 1 = tightest) | last formation 4-4-2
+    away Deportes Union La Calera: early goals scored 1/25, conceded 0/25 (last 25 matches; minutes 6-10: scored 2, conceded 3) | attack 0.80 goals/game (rank 15 of 16, 1 = most) | defence 1.74 goals conceded/game (rank 15 of 16, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 3.4% per team per match scores in the first 5 min; style adjustment x1.00 (home defence is tight, away defence is leaky); market adjustment x0.83 (draw price 1.07 vs slate average 1.10)
+
+ 2. Sun 11 Oct 19:00 UTC (20:00 Lagos) | Uruguay / Primera Division
+    Cerro Largo FC vs Albion FC
+    price: draw 1.08 (home 10.0, away 11.0) -> needs 92.6% no-goal to break even | market rank 8 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 5.0% -> no goal 95.0% | edge +2.4 pts | fair draw price 1.05
+    home Cerro Largo FC: early goals scored 0/25, conceded 0/25 (last 25 matches; minutes 6-10: scored 1, conceded 0) | attack 0.90 goals/game (rank 12 of 16, 1 = most) | defence 1.33 goals conceded/game (rank 12 of 16, 1 = tightest) | last formation 4-4-2
+    away Albion FC: early goals scored 0/25, conceded 1/25 (last 25 matches; minutes 6-10: scored 2, conceded 3) | attack 1.30 goals/game (rank 5 of 16, 1 = most) | defence 2.00 goals conceded/game (rank 16 of 16, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 3.4% per team per match scores in the first 5 min; style adjustment x1.05 (away defence is leaky); market adjustment x0.88 (draw price 1.08 vs slate average 1.10)
+
+ 3. Sun 11 Oct 21:30 UTC (22:30 Lagos) | Brazil / Brasileiro Serie A
+    CR Flamengo RJ vs Fluminense FC RJ
+    price: draw 1.11 (home 7.8, away 17.0) -> needs 90.1% no-goal to break even | market rank 46 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 5.1% -> no goal 94.9% | edge +4.8 pts | fair draw price 1.05
+    home CR Flamengo RJ: early goals scored 0/25, conceded 0/25 (last 25 matches; minutes 6-10: scored 1, conceded 1) | attack 1.73 xG/game (rank 1 of 20, 1 = most) | defence 0.98 xG conceded/game (rank 1 of 20, 1 = tightest) | last formation 4-2-3-1
+    away Fluminense FC RJ: early goals scored 0/25, conceded 0/25 (last 25 matches; minutes 6-10: scored 3, conceded 1) | attack 1.50 xG/game (rank 5 of 20, 1 = most) | defence 1.21 xG conceded/game (rank 7 of 20, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 3.4% per team per match scores in the first 5 min; style adjustment x1.05 (home team attacks a lot, home defence is tight, away team attacks a lot); market adjustment x1.02 (draw price 1.11 vs slate average 1.10)
+    FLAGS: WE LIKE IT, THE MARKET DOESN'T
+
+ 4. Sun 11 Oct 19:45 UTC (20:45 Lagos) | Italy / Serie A
+    Cagliari vs Juventus
+    price: draw 1.09 (home 17.0, away 8.6) -> needs 91.7% no-goal to break even | market rank 16 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 5.2% -> no goal 94.8% | edge +3.1 pts | fair draw price 1.05
+    home Cagliari: early goals scored 0/10, conceded 0/10 (last 10 matches; minutes 6-10: scored 0, conceded 1) | attack 1.10 xG/game (rank 15 of 20, 1 = most) | defence 1.76 xG conceded/game (rank 15 of 20, 1 = tightest) | last formation 4-3-1-2
+    away Juventus: early goals scored 0/13, conceded 0/13 (last 13 matches; minutes 6-10: scored 1, conceded 0) | attack 1.56 xG/game (rank 9 of 20, 1 = most) | defence 0.48 xG conceded/game (rank 1 of 20, 1 = tightest) | last formation 3-4-2-1
+    base rate used: 53 matches of this competition blended with all 2120 in this run, 3.5% per team per match scores in the first 5 min; style adjustment x0.95 (away defence is tight); market adjustment x0.93 (draw price 1.09 vs slate average 1.10)
+
+ 5. Sun 11 Oct 19:00 UTC (20:00 Lagos) | Chile / Primera Division
+    Coquimbo Unido vs Colo-Colo
+    price: draw 1.09 (home 10.5, away 9.25) -> needs 91.7% no-goal to break even | market rank 15 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 5.3% -> no goal 94.7% | edge +3.0 pts | fair draw price 1.06
+    home Coquimbo Unido: early goals scored 0/25, conceded 0/25 (last 25 matches; minutes 6-10: scored 1, conceded 2) | attack 1.30 goals/game (rank 9 of 16, 1 = most) | plays direct (30 long balls/game, rank 4 of 16) | defence 1.39 goals conceded/game (rank 7 of 16, 1 = tightest)
+    away Colo-Colo: early goals scored 1/25, conceded 0/25 (last 25 matches; minutes 6-10: scored 1, conceded 2) | attack 2.10 goals/game (rank 2 of 16, 1 = most) | plays direct (30 long balls/game, rank 2 of 16) | defence 0.96 goals conceded/game (rank 2 of 16, 1 = tightest) | last formation 3-4-2-1
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 3.4% per team per match scores in the first 5 min; style adjustment x1.06 (home team plays direct, away team attacks a lot, away team plays direct, away defence is tight); market adjustment x0.93 (draw price 1.09 vs slate average 1.10)
+
+ 6. Sun 11 Oct 15:00 UTC (16:00 Lagos) | Uruguay / Primera Division
+    CA Juventud de Las Piedras vs Racing Club Montevideo
+    price: draw 1.08 (home 10.0, away 10.5) -> needs 92.6% no-goal to break even | market rank 6 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 5.5% -> no goal 94.5% | edge +2.0 pts | fair draw price 1.06
+    home CA Juventud de Las Piedras: early goals scored 2/25, conceded 0/25 (last 25 matches; minutes 6-10: scored 3, conceded 3) | attack 1.10 goals/game (rank 9 of 16, 1 = most) | defence 0.67 goals conceded/game (rank 2 of 16, 1 = tightest) | last formation 4-2-3-1
+    away Racing Club Montevideo: early goals scored 0/25, conceded 1/25 (last 25 matches; minutes 6-10: scored 0, conceded 1) | attack 1.20 goals/game (rank 8 of 16, 1 = most) | defence 0.89 goals conceded/game (rank 5 of 16, 1 = tightest) | last formation 3-4-3
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 3.4% per team per match scores in the first 5 min; style adjustment x0.95 (home defence is tight); market adjustment x0.88 (draw price 1.08 vs slate average 1.10)
+
+ 7. Sun 11 Oct 21:00 UTC (22:00 Lagos) | Argentina / Primera LPF
+    CA Platense vs Argentinos Juniors
+    price: draw 1.06 (home 12.5, away 11.5) -> needs 94.3% no-goal to break even | market rank 2 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 5.5% -> no goal 94.5% | edge +0.2 pts | fair draw price 1.06
+    home CA Platense: early goals scored 0/23, conceded 1/23 (last 23 matches; minutes 6-10: scored 1, conceded 0) | attack 1.04 xG/game (rank 22 of 30, 1 = most) | plays direct (28 long balls/game, rank 6 of 30) | defence 1.22 xG conceded/game (rank 18 of 30, 1 = tightest) | last formation 4-2-3-1
+    away Argentinos Juniors: early goals scored 0/13, conceded 0/13 (last 13 matches; minutes 6-10: scored 2, conceded 2) | attack 1.30 xG/game (rank 10 of 30, 1 = most) | plays direct (35 long balls/game, rank 1 of 30) | defence 0.93 xG conceded/game (rank 5 of 30, 1 = tightest) | last formation 4-1-2-1-2
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 4.1% per team per match scores in the first 5 min; style adjustment x1.01 (home team plays direct, away team plays direct, away defence is tight); market adjustment x0.80 (draw price 1.06 vs slate average 1.10)
+
+ 8. Sun 11 Oct 21:30 UTC (22:30 Lagos) | Brazil / Brasileiro Serie A
+    SE Palmeiras SP vs SC Corinthians SP
+    price: draw 1.09 (home 9.0, away 16.5) -> needs 91.7% no-goal to break even | market rank 17 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 5.6% -> no goal 94.4% | edge +2.6 pts | fair draw price 1.06
+    home SE Palmeiras SP: early goals scored 0/25, conceded 0/25 (last 25 matches; minutes 6-10: scored 5, conceded 0) | attack 1.22 xG/game (rank 13 of 20, 1 = most) | defence 0.99 xG conceded/game (rank 2 of 20, 1 = tightest) | last formation 3-4-2-1
+    away SC Corinthians SP: early goals scored 1/25, conceded 2/25 (last 25 matches; minutes 6-10: scored 1, conceded 2) | attack 1.06 xG/game (rank 17 of 20, 1 = most) | plays direct (25 long balls/game, rank 4 of 20) | defence 1.11 xG conceded/game (rank 4 of 20, 1 = tightest) | last formation 4-1-2-1-2
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 3.4% per team per match scores in the first 5 min; style adjustment x0.93 (home defence is tight, away team plays direct, away defence is tight); market adjustment x0.93 (draw price 1.09 vs slate average 1.10)
+
+ 9. Sun 11 Oct 16:30 UTC (17:30 Lagos) | Chile / Primera Division
+    CD Everton Vina del Mar vs Deportes La Serena
+    price: draw 1.1 (home 7.9, away 12.0) -> needs 90.9% no-goal to break even | market rank 28 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 5.8% -> no goal 94.2% | edge +3.3 pts | fair draw price 1.06
+    home CD Everton Vina del Mar: early goals scored 1/25, conceded 0/25 (last 25 matches; minutes 6-10: scored 1, conceded 2) | attack 1.50 goals/game (rank 5 of 16, 1 = most) | defence 1.09 goals conceded/game (rank 3 of 16, 1 = tightest) | last formation 4-4-2
+    away Deportes La Serena: early goals scored 1/25, conceded 0/25 (last 25 matches; minutes 6-10: scored 2, conceded 2) | attack 1.50 goals/game (rank 5 of 16, 1 = most) | defence 1.65 goals conceded/game (rank 13 of 16, 1 = tightest) | last formation 3-4-3
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 3.4% per team per match scores in the first 5 min; style adjustment x1.00 (home defence is tight, away defence is leaky); market adjustment x0.98 (draw price 1.1 vs slate average 1.10)
+
+10. Sun 11 Oct 21:30 UTC (22:30 Lagos) | Peru / Liga 1
+    Sport Boys Association vs Alianza Atletico
+    price: draw 1.08 (home 8.9, away 12.0) -> needs 92.6% no-goal to break even | market rank 11 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 6.4% -> no goal 93.6% | edge +1.1 pts | fair draw price 1.07
+    home Sport Boys Association: early goals scored 0/25, conceded 0/25 (last 25 matches; minutes 6-10: scored 1, conceded 2) | attack 1.10 goals/game (rank 15 of 18, 1 = most) | defence 0.70 goals conceded/game (rank 2 of 18, 1 = tightest) | last formation 4-2-3-1
+    away Alianza Atletico: early goals scored 1/17, conceded 0/17 (last 17 matches; minutes 6-10: scored 1, conceded 1) | attack 1.50 goals/game (rank 6 of 18, 1 = most) | defence 1.70 goals conceded/game (rank 12 of 18, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 4.8% per team per match scores in the first 5 min; style adjustment x0.95 (home defence is tight); market adjustment x0.88 (draw price 1.08 vs slate average 1.10)
+
+11. Sun 11 Oct 23:30 UTC (00:30 Lagos) | Brazil / Brasileiro Serie A
+    EC Bahia BA vs Mirassol FC SP
+    price: draw 1.11 (home 8.6, away 13.5) -> needs 90.1% no-goal to break even | market rank 47 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 6.4% -> no goal 93.6% | edge +3.6 pts | fair draw price 1.07
+    home EC Bahia BA: early goals scored 1/25, conceded 0/25 (last 25 matches; minutes 6-10: scored 0, conceded 3) | attack 1.54 xG/game (rank 3 of 20, 1 = most) | defence 1.32 xG conceded/game (rank 12 of 20, 1 = tightest) | last formation 4-3-3
+    away Mirassol FC SP: early goals scored 0/25, conceded 1/25 (last 25 matches; minutes 6-10: scored 0, conceded 0) | attack 1.21 xG/game (rank 14 of 20, 1 = most) | defence 1.41 xG conceded/game (rank 14 of 20, 1 = tightest) | last formation 4-4-2
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 3.4% per team per match scores in the first 5 min; style adjustment x1.05 (home team attacks a lot); market adjustment x1.02 (draw price 1.11 vs slate average 1.10)
+    FLAGS: WE LIKE IT, THE MARKET DOESN'T
+
+12. Sun 11 Oct 18:45 UTC (19:45 Lagos) | Argentina / Primera LPF
+    CA San Lorenzo de Almagro vs Deportivo Riestra AFBC
+    price: draw 1.06 (home 11.5, away 13.0) -> needs 94.3% no-goal to break even | market rank 1 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 6.4% -> no goal 93.6% | edge -0.8 pts | fair draw price 1.07
+    home CA San Lorenzo de Almagro: early goals scored 0/17, conceded 2/17 (last 17 matches; minutes 6-10: scored 0, conceded 1) | attack 0.87 xG/game (rank 26 of 30, 1 = most) | defence 1.30 xG conceded/game (rank 23 of 30, 1 = tightest) | last formation 3-4-1-2
+    away Deportivo Riestra AFBC: early goals scored 1/20, conceded 0/20 (last 20 matches; minutes 6-10: scored 1, conceded 1) | attack 0.89 xG/game (rank 25 of 30, 1 = most) | defence 0.87 xG conceded/game (rank 4 of 30, 1 = tightest) | last formation 4-4-2
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 4.1% per team per match scores in the first 5 min; style adjustment x1.00 (home defence is leaky, away defence is tight); market adjustment x0.80 (draw price 1.06 vs slate average 1.10)
+
+13. Sun 11 Oct 21:30 UTC (22:30 Lagos) | Brazil / Brasileiro Serie A
+    Gremio FB Porto Alegrense RS vs SC Internacional RS
+    price: draw 1.08 (home 12.5, away 11.5) -> needs 92.6% no-goal to break even | market rank 10 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 6.7% -> no goal 93.3% | edge +0.7 pts | fair draw price 1.07
+    home Gremio FB Porto Alegrense RS: early goals scored 1/25, conceded 1/25 (last 25 matches; minutes 6-10: scored 1, conceded 0) | attack 1.00 xG/game (rank 20 of 20, 1 = most) | plays direct (26 long balls/game, rank 2 of 20) | defence 1.67 xG conceded/game (rank 19 of 20, 1 = tightest) | last formation 4-1-4-1
+    away SC Internacional RS: early goals scored 2/25, conceded 0/25 (last 25 matches; minutes 6-10: scored 0, conceded 1) | attack 1.49 xG/game (rank 6 of 20, 1 = most) | defence 1.26 xG conceded/game (rank 9 of 20, 1 = tightest) | last formation 5-4-1
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 3.4% per team per match scores in the first 5 min; style adjustment x1.08 (home team plays direct, home defence is leaky); market adjustment x0.88 (draw price 1.08 vs slate average 1.10)
+
+14. Sun 11 Oct 14:00 UTC (15:00 Lagos) | Italy / Serie A
+    Lecce vs Bologna
+    price: draw 1.09 (home 14.0, away 10.0) -> needs 91.7% no-goal to break even | market rank 13 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 6.9% -> no goal 93.1% | edge +1.4 pts | fair draw price 1.07
+    home Lecce: early goals scored 1/8, conceded 1/8 (last 8 matches; minutes 6-10: scored 0, conceded 0) | attack 1.06 xG/game (rank 16 of 20, 1 = most) | defence 2.32 xG conceded/game (rank 19 of 20, 1 = tightest) | last formation 4-3-3
+    away Bologna: early goals scored 0/12, conceded 0/12 (last 12 matches; minutes 6-10: scored 2, conceded 1) | attack 1.18 xG/game (rank 14 of 20, 1 = most) | defence 0.94 xG conceded/game (rank 2 of 20, 1 = tightest) | last formation 3-4-2-1
+    base rate used: 53 matches of this competition blended with all 2120 in this run, 3.5% per team per match scores in the first 5 min; style adjustment x1.00 (home defence is leaky, away defence is tight); market adjustment x0.93 (draw price 1.09 vs slate average 1.10)
+
+15. Sun 11 Oct 17:00 UTC (18:00 Lagos) | Italy / Serie A
+    Sassuolo vs AC Milan
+    price: draw 1.11 (home 12.5, away 8.9) -> needs 90.1% no-goal to break even | market rank 43 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 7.1% -> no goal 92.9% | edge +2.9 pts | fair draw price 1.08
+    home Sassuolo: early goals scored 0/9, conceded 0/9 (last 9 matches; minutes 6-10: scored 1, conceded 1) | attack 1.74 xG/game (rank 4 of 20, 1 = most) | defence 1.32 xG conceded/game (rank 9 of 20, 1 = tightest) | last formation 4-3-3
+    away AC Milan: early goals scored 0/10, conceded 1/10 (last 10 matches; minutes 6-10: scored 0, conceded 1) | attack 1.58 xG/game (rank 7 of 20, 1 = most) | plays direct (24 long balls/game, rank 5 of 20) | defence 1.18 xG conceded/game (rank 5 of 20, 1 = tightest) | last formation 3-4-2-1
+    base rate used: 53 matches of this competition blended with all 2120 in this run, 3.5% per team per match scores in the first 5 min; style adjustment x1.03 (home team attacks a lot, away team plays direct, away defence is tight); market adjustment x1.02 (draw price 1.11 vs slate average 1.10)
+
+16. Sun 11 Oct 23:15 UTC (00:15 Lagos) | Argentina / Primera LPF
+    Racing Club Avellaneda vs CA Belgrano de Cordoba
+    price: draw 1.07 (home 10.5, away 12.0) -> needs 93.5% no-goal to break even | market rank 5 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 7.1% -> no goal 92.9% | edge -0.5 pts | fair draw price 1.08
+    home Racing Club Avellaneda: early goals scored 2/17, conceded 0/17 (last 17 matches; minutes 6-10: scored 3, conceded 1) | attack 1.19 xG/game (rank 13 of 30, 1 = most) | plays direct (29 long balls/game, rank 4 of 30) | defence 1.27 xG conceded/game (rank 22 of 30, 1 = tightest) | last formation 4-3-3
+    away CA Belgrano de Cordoba: early goals scored 0/15, conceded 1/15 (last 15 matches; minutes 6-10: scored 0, conceded 0) | attack 1.18 xG/game (rank 15 of 30, 1 = most) | defence 1.18 xG conceded/game (rank 16 of 30, 1 = tightest) | last formation 4-4-1-1
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 4.1% per team per match scores in the first 5 min; style adjustment x1.03 (home team plays direct); market adjustment x0.83 (draw price 1.07 vs slate average 1.10)
+
+17. Sun 11 Oct 17:30 UTC (18:30 Lagos) | Belgium / Pro League
+    KVC Westerlo vs Royal Antwerp FC
+    price: draw 1.12 (home 8.7, away 11.0) -> needs 89.3% no-goal to break even | market rank 55 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 7.1% -> no goal 92.9% | edge +3.6 pts | fair draw price 1.08
+    home KVC Westerlo: early goals scored 0/7, conceded 0/7 (last 7 matches; minutes 6-10: scored 3, conceded 0) | attack 1.46 xG/game (rank 9 of 18, 1 = most) | defence 1.90 xG conceded/game (rank 15 of 18, 1 = tightest) | last formation 4-2-3-1
+    away Royal Antwerp FC: early goals scored 0/10, conceded 0/10 (last 10 matches; minutes 6-10: scored 0, conceded 1) | attack 1.40 xG/game (rank 10 of 18, 1 = most) | defence 2.46 xG conceded/game (rank 18 of 18, 1 = tightest) | last formation 4-4-2
+    base rate used: 68 matches of this competition blended with all 2120 in this run, 3.5% per team per match scores in the first 5 min; style adjustment x1.10 (home defence is leaky, away defence is leaky); market adjustment x1.06 (draw price 1.12 vs slate average 1.10)
+    FLAGS: WE LIKE IT, THE MARKET DOESN'T
+
+18. Sun 11 Oct 22:05 UTC (23:05 Lagos) | Colombia / Liga DIMAYOR
+    Jaguares de Cordoba vs CD Tolima
+    price: draw 1.09 (home 13.5, away 8.0) -> needs 91.7% no-goal to break even | market rank 18 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 7.3% -> no goal 92.7% | edge +1.0 pts | fair draw price 1.08
+    home Jaguares de Cordoba: early goals scored 0/12, conceded 0/12 (last 12 matches; minutes 6-10: scored 3, conceded 3) | attack 0.81 xG/game (rank 18 of 20, 1 = most) | defence 1.69 xG conceded/game (rank 20 of 20, 1 = tightest) | last formation 4-2-3-1
+    away CD Tolima: early goals scored 0/24, conceded 1/24 (last 24 matches; minutes 6-10: scored 0, conceded 2) | attack 1.19 xG/game (rank 8 of 20, 1 = most) | defence 0.78 xG conceded/game (rank 3 of 20, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 4.8% per team per match scores in the first 5 min; style adjustment x1.00 (home defence is leaky, away defence is tight); market adjustment x0.93 (draw price 1.09 vs slate average 1.10)
+
+19. Sun 11 Oct 16:30 UTC (17:30 Lagos) | Poland / Ekstraklasa
+    Pogon Szczecin vs Korona Kielce
+    price: draw 1.1 (home 9.4, away 10.5) -> needs 90.9% no-goal to break even | market rank 29 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 7.4% -> no goal 92.6% | edge +1.7 pts | fair draw price 1.08
+    home Pogon Szczecin: early goals scored 1/9, conceded 0/9 (last 9 matches; minutes 6-10: scored 0, conceded 0) | attack 1.65 xG/game (rank 8 of 18, 1 = most) | plays direct (25 long balls/game, rank 2 of 18) | defence 1.46 xG conceded/game (rank 6 of 18, 1 = tightest) | last formation 4-4-2
+    away Korona Kielce: early goals scored 0/9, conceded 0/9 (last 9 matches; minutes 6-10: scored 0, conceded 1) | attack 1.48 xG/game (rank 14 of 18, 1 = most) | defence 1.64 xG conceded/game (rank 8 of 18, 1 = tightest) | last formation 4-5-1
+    base rate used: 83 matches of this competition blended with all 2120 in this run, 3.9% per team per match scores in the first 5 min; style adjustment x1.03 (home team plays direct); market adjustment x0.98 (draw price 1.1 vs slate average 1.10)
+
+20. Sun 11 Oct 14:00 UTC (15:00 Lagos) | Italy / Serie A
+    Lazio vs Monza
+    price: draw 1.11 (home 8.7, away 14.0) -> needs 90.1% no-goal to break even | market rank 39 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 7.5% -> no goal 92.5% | edge +2.4 pts | fair draw price 1.08
+    home Lazio: early goals scored 1/11, conceded 0/11 (last 11 matches; minutes 6-10: scored 1, conceded 0) | attack 1.54 xG/game (rank 10 of 20, 1 = most) | defence 1.24 xG conceded/game (rank 7 of 20, 1 = tightest) | last formation 4-3-3
+    away Monza: early goals scored 0/10, conceded 1/10 (last 10 matches; minutes 6-10: scored 0, conceded 2) | attack 1.72 xG/game (rank 5 of 20, 1 = most) | defence 1.06 xG conceded/game (rank 3 of 20, 1 = tightest) | last formation 3-4-2-1
+    base rate used: 53 matches of this competition blended with all 2120 in this run, 3.5% per team per match scores in the first 5 min; style adjustment x1.00 (away team attacks a lot, away defence is tight); market adjustment x1.02 (draw price 1.11 vs slate average 1.10)
+
+21. Sun 11 Oct 13:45 UTC (14:45 Lagos) | Poland / Ekstraklasa
+    GKS Piast Gliwice vs Widzew Lodz
+    price: draw 1.1 (home 10.0, away 9.9) -> needs 90.9% no-goal to break even | market rank 23 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 7.7% -> no goal 92.3% | edge +1.4 pts | fair draw price 1.08
+    home GKS Piast Gliwice: early goals scored 1/9, conceded 0/9 (last 9 matches; minutes 6-10: scored 0, conceded 2) | attack 1.31 xG/game (rank 18 of 18, 1 = most) | defence 2.16 xG conceded/game (rank 16 of 18, 1 = tightest) | last formation 4-4-2
+    away Widzew Lodz: early goals scored 0/9, conceded 0/9 (last 9 matches; minutes 6-10: scored 1, conceded 1) | attack 1.66 xG/game (rank 7 of 18, 1 = most) | plays direct (24 long balls/game, rank 3 of 18) | defence 1.71 xG conceded/game (rank 12 of 18, 1 = tightest) | last formation 4-3-3
+    base rate used: 83 matches of this competition blended with all 2120 in this run, 3.9% per team per match scores in the first 5 min; style adjustment x1.08 (home defence is leaky, away team plays direct); market adjustment x0.98 (draw price 1.1 vs slate average 1.10)
+
+22. Sun 11 Oct 21:00 UTC (22:00 Lagos) | Argentina / Primera LPF
+    CA Rosario Central vs Independiente Rivadavia
+    price: draw 1.08 (home 9.7, away 13.0) -> needs 92.6% no-goal to break even | market rank 9 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 7.8% -> no goal 92.2% | edge -0.4 pts | fair draw price 1.08
+    home CA Rosario Central: early goals scored 0/17, conceded 2/17 (last 17 matches; minutes 6-10: scored 0, conceded 0) | attack 1.44 xG/game (rank 3 of 30, 1 = most) | defence 1.12 xG conceded/game (rank 12 of 30, 1 = tightest) | last formation 4-2-3-1
+    away Independiente Rivadavia: early goals scored 1/20, conceded 0/20 (last 20 matches; minutes 6-10: scored 1, conceded 1) | attack 1.40 xG/game (rank 7 of 30, 1 = most) | defence 1.01 xG conceded/game (rank 8 of 30, 1 = tightest) | last formation 4-3-1-2
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 4.1% per team per match scores in the first 5 min; style adjustment x1.10 (home team attacks a lot, away team attacks a lot); market adjustment x0.88 (draw price 1.08 vs slate average 1.10)
+
+23. Sun 11 Oct 19:00 UTC (20:00 Lagos) | Greece / Super League
+    Olympiacos vs Panathinaikos
+    price: draw 1.08 (home 9.8, away 12.0) -> needs 92.6% no-goal to break even | market rank 7 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 7.8% -> no goal 92.2% | edge -0.4 pts | fair draw price 1.08
+    home Olympiacos: early goals scored 0/13, conceded 0/13 (last 13 matches; minutes 6-10: scored 0, conceded 0) | attack 1.80 xG/game (rank 4 of 14, 1 = most) | plays direct (28 long balls/game, rank 3 of 14) | defence 0.58 xG conceded/game (rank 1 of 14, 1 = tightest) | last formation 4-2-3-1
+    away Panathinaikos: early goals scored 1/16, conceded 0/16 (last 16 matches; minutes 6-10: scored 0, conceded 0) | attack 2.30 xG/game (rank 1 of 14, 1 = most) | defence 0.78 xG conceded/game (rank 2 of 14, 1 = tightest) | last formation 4-1-4-1
+    base rate used: 37 matches of this competition blended with all 2120 in this run, 5.3% per team per match scores in the first 5 min; style adjustment x0.98 (home team plays direct, home defence is tight, away team attacks a lot, away defence is tight); market adjustment x0.88 (draw price 1.08 vs slate average 1.10)
+
+24. Sun 11 Oct 14:00 UTC (15:00 Lagos) | Czechia / 1. Liga
+    FK Teplice vs SK Sigma Olomouc
+    price: draw 1.09 (home 10.5, away 10.0) -> needs 91.7% no-goal to break even | market rank 12 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 8.0% -> no goal 92.0% | edge +0.3 pts | fair draw price 1.09
+    home FK Teplice: early goals scored 0/11, conceded 1/11 (last 11 matches; minutes 6-10: scored 0, conceded 2) | attack 1.90 goals/game (rank 4 of 16, 1 = most) | defence 1.67 goals conceded/game (rank 11 of 16, 1 = tightest) | last formation 4-2-3-1
+    away SK Sigma Olomouc: early goals scored 0/10, conceded 0/10 (last 10 matches; minutes 6-10: scored 2, conceded 1) | attack 1.80 goals/game (rank 6 of 16, 1 = most) | defence 1.44 goals conceded/game (rank 9 of 16, 1 = tightest) | last formation 3-4-3
+    base rate used: 76 matches of this competition blended with all 2120 in this run, 4.5% per team per match scores in the first 5 min; style adjustment x1.05 (home team attacks a lot); market adjustment x0.93 (draw price 1.09 vs slate average 1.10)
+
+25. Sun 11 Oct 19:15 UTC (20:15 Lagos) | Poland / Ekstraklasa
+    Legia Warszawa vs Wisla Krakow
+    price: draw 1.1 (home 8.9, away 11.0) -> needs 90.9% no-goal to break even | market rank 31 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 8.2% -> no goal 91.8% | edge +0.9 pts | fair draw price 1.09
+    home Legia Warszawa: early goals scored 0/9, conceded 1/9 (last 9 matches; minutes 6-10: scored 2, conceded 0) | attack 1.92 xG/game (rank 3 of 18, 1 = most) | defence 1.43 xG conceded/game (rank 5 of 18, 1 = tightest) | last formation 3-4-2-1
+    away Wisla Krakow: early goals scored 0/10, conceded 1/10 (last 10 matches; minutes 6-10: scored 0, conceded 0) | attack 2.06 xG/game (rank 2 of 18, 1 = most) | defence 1.19 xG conceded/game (rank 3 of 18, 1 = tightest) | last formation 4-5-1
+    base rate used: 83 matches of this competition blended with all 2120 in this run, 3.9% per team per match scores in the first 5 min; style adjustment x1.05 (home team attacks a lot, away team attacks a lot, away defence is tight); market adjustment x0.98 (draw price 1.1 vs slate average 1.10)
+
+26. Sun 11 Oct 20:00 UTC (21:00 Lagos) | Brazil / Brasileiro Serie A
+    Atletico Mineiro MG vs Santos FC SP
+    price: draw 1.1 (home 10.0, away 12.0) -> needs 90.9% no-goal to break even | market rank 32 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 8.3% -> no goal 91.7% | edge +0.8 pts | fair draw price 1.09
+    home Atletico Mineiro MG: early goals scored 1/25, conceded 1/25 (last 25 matches; minutes 6-10: scored 0, conceded 2) | attack 1.39 xG/game (rank 10 of 20, 1 = most) | plays direct (24 long balls/game, rank 5 of 20) | defence 1.27 xG conceded/game (rank 10 of 20, 1 = tightest) | last formation 4-3-3
+    away Santos FC SP: early goals scored 1/25, conceded 3/25 (last 25 matches; minutes 6-10: scored 1, conceded 0) | attack 1.41 xG/game (rank 9 of 20, 1 = most) | defence 1.33 xG conceded/game (rank 13 of 20, 1 = tightest) | last formation 4-4-1-1
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 3.4% per team per match scores in the first 5 min; style adjustment x1.03 (home team plays direct); market adjustment x0.98 (draw price 1.1 vs slate average 1.10)
+
+27. Sun 11 Oct 18:15 UTC (19:15 Lagos) | Israel / Premier League
+    Hapoel Ramat Gan Givatayim FC vs Beitar Jerusalem FC
+    price: draw 1.12 (home 12.5, away 6.9) -> needs 89.3% no-goal to break even | market rank 56 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 8.4% -> no goal 91.6% | edge +2.3 pts | fair draw price 1.09
+    home Hapoel Ramat Gan Givatayim FC: early goals scored 0/6, conceded 0/6 (last 6 matches; minutes 6-10: scored 0, conceded 1) | attack 0.80 goals/game (rank 12 of 14, 1 = most) | defence 1.80 goals conceded/game (rank 10 of 14, 1 = tightest) | last formation 4-4-2
+    away Beitar Jerusalem FC: early goals scored 0/11, conceded 0/11 (last 11 matches; minutes 6-10: scored 1, conceded 0) | attack 1.40 goals/game (rank 8 of 14, 1 = most) | defence 1.80 goals conceded/game (rank 10 of 14, 1 = tightest) | last formation 4-3-3
+    base rate used: 40 matches of this competition blended with all 2120 in this run, 4.6% per team per match scores in the first 5 min; style adjustment x1.00; market adjustment x1.06 (draw price 1.12 vs slate average 1.10)
+
+28. Sun 11 Oct 15:00 UTC (16:00 Lagos) | Greece / Super League
+    POT Iraklis vs APO Levadiakos FC
+    price: draw 1.07 (home 10.5, away 12.0) -> needs 93.5% no-goal to break even | market rank 3 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 8.4% -> no goal 91.6% | edge -1.9 pts | fair draw price 1.09
+    home POT Iraklis: early goals scored 0/8, conceded 0/8 (last 8 matches; minutes 6-10: scored 1, conceded 1) | attack 0.64 xG/game (rank 13 of 14, 1 = most) | defence 1.52 xG conceded/game (rank 10 of 14, 1 = tightest) | last formation 5-4-1
+    away APO Levadiakos FC: early goals scored 0/5, conceded 1/5 (last 5 matches; minutes 6-10: scored 0, conceded 0) | attack 0.64 xG/game (rank 13 of 14, 1 = most) | defence 1.30 xG conceded/game (rank 8 of 14, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 37 matches of this competition blended with all 2120 in this run, 5.3% per team per match scores in the first 5 min; style adjustment x1.00; market adjustment x0.83 (draw price 1.07 vs slate average 1.10)
+    FLAGS: SMALL SAMPLE (5 matches)
+
+29. Sun 11 Oct 12:00 UTC (13:00 Lagos) | Czechia / 1. Liga
+    FC Slovan Liberec vs 1. FC Slovacko Uherske Hradiste
+    price: draw 1.1 (home 7.5, away 15.0) -> needs 90.9% no-goal to break even | market rank 19 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 8.5% -> no goal 91.5% | edge +0.6 pts | fair draw price 1.09
+    home FC Slovan Liberec: early goals scored 1/11, conceded 0/11 (last 11 matches; minutes 6-10: scored 0, conceded 0) | attack 1.40 goals/game (rank 7 of 16, 1 = most) | defence 0.44 goals conceded/game (rank 1 of 16, 1 = tightest) | last formation 4-2-3-1
+    away 1. FC Slovacko Uherske Hradiste: early goals scored 1/13, conceded 0/13 (last 13 matches; minutes 6-10: scored 0, conceded 0) | attack 0.80 goals/game (rank 14 of 16, 1 = most) | defence 1.78 goals conceded/game (rank 13 of 16, 1 = tightest) | last formation 3-4-2-1
+    base rate used: 76 matches of this competition blended with all 2120 in this run, 4.5% per team per match scores in the first 5 min; style adjustment x1.00 (home defence is tight, away defence is leaky); market adjustment x0.98 (draw price 1.1 vs slate average 1.10)
+
+30. Sun 11 Oct 14:00 UTC (15:00 Lagos) | England / Premier League
+    Hull City vs Everton
+    price: draw 1.1 (home 13.0, away 10.0) -> needs 90.9% no-goal to break even | market rank 25 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 8.6% -> no goal 91.4% | edge +0.5 pts | fair draw price 1.09
+    home Hull City: early goals scored 0/12, conceded 1/12 (last 12 matches; minutes 6-10: scored 0, conceded 2) | attack 1.06 xG/game (rank 18 of 20, 1 = most) | defence 1.48 xG conceded/game (rank 11 of 20, 1 = tightest) | last formation 5-4-1
+    away Everton: early goals scored 0/14, conceded 0/14 (last 14 matches; minutes 6-10: scored 0, conceded 0) | attack 1.46 xG/game (rank 10 of 20, 1 = most) | defence 1.38 xG conceded/game (rank 5 of 20, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 56 matches of this competition blended with all 2120 in this run, 5.3% per team per match scores in the first 5 min; style adjustment x0.95 (away defence is tight); market adjustment x0.98 (draw price 1.1 vs slate average 1.10)
+
+31. Sun 11 Oct 11:15 UTC (12:15 Lagos) | Netherlands / Eredivisie
+    FC Utrecht vs Willem II Tilburg
+    price: draw 1.13 (home 7.25, away 13.5) -> needs 88.5% no-goal to break even | market rank 58 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 8.6% -> no goal 91.4% | edge +2.9 pts | fair draw price 1.09
+    home FC Utrecht: early goals scored 0/9, conceded 0/9 (last 9 matches; minutes 6-10: scored 1, conceded 2) | attack 1.23 xG/game (rank 13 of 18, 1 = most) | defence 1.89 xG conceded/game (rank 9 of 18, 1 = tightest) | last formation 3-4-2-1
+    away Willem II Tilburg: early goals scored 0/9, conceded 0/9 (last 9 matches; minutes 6-10: scored 0, conceded 2) | attack 1.21 xG/game (rank 14 of 18, 1 = most) | defence 2.11 xG conceded/game (rank 15 of 18, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 68 matches of this competition blended with all 2120 in this run, 4.4% per team per match scores in the first 5 min; style adjustment x1.05 (away defence is leaky); market adjustment x1.10 (draw price 1.13 vs slate average 1.10)
+
+32. Sun 11 Oct 22:30 UTC (23:30 Lagos) | Uruguay / Primera Division
+    Central Espanol FC vs Club Nacional de Football
+    price: draw 1.1 (home 13.0, away 7.7) -> needs 90.9% no-goal to break even | market rank 34 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 8.8% -> no goal 91.2% | edge +0.3 pts | fair draw price 1.10
+    home Central Espanol FC: early goals scored 1/25, conceded 3/25 (last 25 matches; minutes 6-10: scored 0, conceded 0) | attack 1.00 goals/game (rank 10 of 16, 1 = most) | defence 1.78 goals conceded/game (rank 14 of 16, 1 = tightest) | last formation 4-2-3-1
+    away Club Nacional de Football: early goals scored 0/25, conceded 2/25 (last 25 matches; minutes 6-10: scored 2, conceded 1) | attack 1.50 goals/game (rank 4 of 16, 1 = most) | defence 1.00 goals conceded/game (rank 6 of 16, 1 = tightest) | last formation 3-4-2-1
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 3.4% per team per match scores in the first 5 min; style adjustment x1.10 (home defence is leaky, away team attacks a lot); market adjustment x0.98 (draw price 1.1 vs slate average 1.10)
+
+33. Sun 11 Oct 19:00 UTC (20:00 Lagos) | Peru / Liga 1
+    UTC de Cajamarca vs Sporting Cristal
+    price: draw 1.1 (home 11.0, away 8.5) -> needs 90.9% no-goal to break even | market rank 30 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 9.0% -> no goal 91.0% | edge +0.1 pts | fair draw price 1.10
+    home UTC de Cajamarca: early goals scored 1/25, conceded 1/25 (last 25 matches; minutes 6-10: scored 1, conceded 4) | attack 1.50 goals/game (rank 6 of 18, 1 = most) | defence 2.18 goals conceded/game (rank 16 of 18, 1 = tightest) | last formation 4-2-3-1
+    away Sporting Cristal: early goals scored 1/20, conceded 0/20 (last 20 matches; minutes 6-10: scored 1, conceded 1) | attack 1.80 goals/game (rank 1 of 18, 1 = most) | plays direct (28 long balls/game, rank 3 of 18) | defence 1.00 goals conceded/game (rank 3 of 18, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 4.8% per team per match scores in the first 5 min; style adjustment x1.08 (home defence is leaky, away team attacks a lot, away team plays direct, away defence is tight); market adjustment x0.98 (draw price 1.1 vs slate average 1.10)
+    FLAGS: FIXTURE NOT CONFIRMED on FotMob (teams matched by name only)
+
+34. Sun 11 Oct 11:30 UTC (12:30 Lagos) | Italy / Serie A
+    Como 1907 vs Roma
+    price: draw 1.12 (home 9.7, away 10.5) -> needs 89.3% no-goal to break even | market rank 48 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 9.1% -> no goal 90.9% | edge +1.6 pts | fair draw price 1.10
+    home Como 1907: early goals scored 0/10, conceded 0/10 (last 10 matches; minutes 6-10: scored 0, conceded 0) | attack 1.88 xG/game (rank 3 of 20, 1 = most) | defence 1.52 xG conceded/game (rank 12 of 20, 1 = tightest) | last formation 4-2-3-1
+    away Roma: early goals scored 2/11, conceded 1/11 (last 11 matches; minutes 6-10: scored 2, conceded 0) | attack 2.56 xG/game (rank 2 of 20, 1 = most) | plays direct (25 long balls/game, rank 3 of 20) | defence 1.12 xG conceded/game (rank 4 of 20, 1 = tightest) | last formation 3-4-2-1
+    base rate used: 53 matches of this competition blended with all 2120 in this run, 3.5% per team per match scores in the first 5 min; style adjustment x1.08 (home team attacks a lot, away team attacks a lot, away team plays direct, away defence is tight); market adjustment x1.06 (draw price 1.12 vs slate average 1.10)
+
+35. Sun 11 Oct 15:45 UTC (16:45 Lagos) | Netherlands / Eredivisie
+    Excelsior Rotterdam vs FC Groningen
+    price: draw 1.12 (home 9.7, away 9.6) -> needs 89.3% no-goal to break even | market rank 51 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 9.2% -> no goal 90.8% | edge +1.6 pts | fair draw price 1.10
+    home Excelsior Rotterdam: early goals scored 0/9, conceded 1/9 (last 9 matches; minutes 6-10: scored 1, conceded 0) | attack 1.39 xG/game (rank 10 of 18, 1 = most) | plays direct (31 long balls/game, rank 1 of 18) | defence 1.50 xG conceded/game (rank 6 of 18, 1 = tightest) | last formation 4-1-4-1
+    away FC Groningen: early goals scored 0/12, conceded 0/12 (last 12 matches; minutes 6-10: scored 2, conceded 2) | attack 1.60 xG/game (rank 9 of 18, 1 = most) | defence 2.09 xG conceded/game (rank 14 of 18, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 68 matches of this competition blended with all 2120 in this run, 4.4% per team per match scores in the first 5 min; style adjustment x1.08 (home team plays direct, away defence is leaky); market adjustment x1.06 (draw price 1.12 vs slate average 1.10)
+
+36. Sun 11 Oct 17:00 UTC (18:00 Lagos) | Czechia / 1. Liga
+    Sparta Prague vs FK Pardubice
+    price: draw 1.11 (home 6.75, away 15.5) -> needs 90.1% no-goal to break even | market rank 42 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 9.2% -> no goal 90.8% | edge +0.7 pts | fair draw price 1.10
+    home Sparta Prague: early goals scored 0/14, conceded 0/14 (last 14 matches; minutes 6-10: scored 3, conceded 1) | attack 2.00 goals/game (rank 2 of 16, 1 = most) | defence 1.33 goals conceded/game (rank 7 of 16, 1 = tightest) | last formation 4-2-3-1
+    away FK Pardubice: early goals scored 2/12, conceded 0/12 (last 12 matches; minutes 6-10: scored 2, conceded 0) | attack 1.00 goals/game (rank 12 of 16, 1 = most) | defence 1.56 goals conceded/game (rank 10 of 16, 1 = tightest) | last formation 3-4-2-1
+    base rate used: 76 matches of this competition blended with all 2120 in this run, 4.5% per team per match scores in the first 5 min; style adjustment x1.05 (home team attacks a lot); market adjustment x1.02 (draw price 1.11 vs slate average 1.10)
+
+37. Sun 11 Oct 13:30 UTC (14:30 Lagos) | Netherlands / Eredivisie
+    PEC Zwolle vs SC Cambuur
+    price: draw 1.13 (home 8.6, away 10.5) -> needs 88.5% no-goal to break even | market rank 61 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 9.5% -> no goal 90.5% | edge +2.0 pts | fair draw price 1.10
+    home PEC Zwolle: early goals scored 0/8, conceded 1/8 (last 8 matches; minutes 6-10: scored 0, conceded 0) | attack 0.99 xG/game (rank 16 of 18, 1 = most) | defence 2.11 xG conceded/game (rank 16 of 18, 1 = tightest) | last formation 4-1-4-1
+    away SC Cambuur: early goals scored 0/9, conceded 0/9 (last 9 matches; minutes 6-10: scored 0, conceded 1) | attack 1.39 xG/game (rank 10 of 18, 1 = most) | defence 2.04 xG conceded/game (rank 12 of 18, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 68 matches of this competition blended with all 2120 in this run, 4.4% per team per match scores in the first 5 min; style adjustment x1.05 (home defence is leaky); market adjustment x1.10 (draw price 1.13 vs slate average 1.10)
+
+38. Sun 11 Oct 13:00 UTC (14:00 Lagos) | Spain / LaLiga
+    Elche CF vs Celta
+    price: draw 1.1 (home 11.5, away 11.0) -> needs 90.9% no-goal to break even | market rank 21 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 9.8% -> no goal 90.2% | edge -0.7 pts | fair draw price 1.11
+    home Elche CF: early goals scored 0/10, conceded 0/10 (last 10 matches; minutes 6-10: scored 0, conceded 0) | attack 1.23 xG/game (rank 9 of 20, 1 = most) | defence 1.90 xG conceded/game (rank 19 of 20, 1 = tightest) | last formation 4-3-3
+    away Celta: early goals scored 0/12, conceded 0/12 (last 12 matches; minutes 6-10: scored 0, conceded 0) | attack 1.00 xG/game (rank 15 of 20, 1 = most) | defence 1.29 xG conceded/game (rank 6 of 20, 1 = tightest) | last formation 3-4-3
+    base rate used: 73 matches of this competition blended with all 2120 in this run, 5.8% per team per match scores in the first 5 min; style adjustment x1.05 (home defence is leaky); market adjustment x0.98 (draw price 1.1 vs slate average 1.10)
+
+39. Sun 11 Oct 14:00 UTC (15:00 Lagos) | England / Premier League
+    Crystal Palace vs Nottingham Forest
+    price: draw 1.1 (home 11.5, away 10.5) -> needs 90.9% no-goal to break even | market rank 24 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 10.1% -> no goal 89.9% | edge -1.0 pts | fair draw price 1.11
+    home Crystal Palace: early goals scored 0/11, conceded 0/11 (last 11 matches; minutes 6-10: scored 2, conceded 1) | attack 1.26 xG/game (rank 15 of 20, 1 = most) | defence 1.90 xG conceded/game (rank 20 of 20, 1 = tightest) | last formation 3-4-2-1
+    away Nottingham Forest: early goals scored 2/13, conceded 0/13 (last 13 matches; minutes 6-10: scored 0, conceded 0) | attack 1.46 xG/game (rank 10 of 20, 1 = most) | plays direct (26 long balls/game, rank 3 of 20) | defence 0.96 xG conceded/game (rank 2 of 20, 1 = tightest) | last formation 3-4-2-1
+    base rate used: 56 matches of this competition blended with all 2120 in this run, 5.3% per team per match scores in the first 5 min; style adjustment x1.03 (home defence is leaky, away team plays direct, away defence is tight); market adjustment x0.98 (draw price 1.1 vs slate average 1.10)
+
+40. Sun 11 Oct 14:00 UTC (15:00 Lagos) | Scotland / Premiership
+    Aberdeen vs St. Johnstone FC
+    price: draw 1.1 (home 9.5, away 12.0) -> needs 90.9% no-goal to break even | market rank 26 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 10.1% -> no goal 89.9% | edge -1.0 pts | fair draw price 1.11
+    home Aberdeen: early goals scored 2/17, conceded 0/17 (last 17 matches; minutes 6-10: scored 1, conceded 2) | attack 1.01 xG/game (rank 12 of 12, 1 = most) | defence 1.69 xG conceded/game (rank 8 of 12, 1 = tightest) | last formation 3-5-2
+    away St. Johnstone FC: early goals scored 0/14, conceded 0/14 (last 14 matches; minutes 6-10: scored 1, conceded 1) | attack 1.36 xG/game (rank 8 of 12, 1 = most) | defence 1.63 xG conceded/game (rank 6 of 12, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 46 matches of this competition blended with all 2120 in this run, 5.9% per team per match scores in the first 5 min; style adjustment x1.00; market adjustment x0.98 (draw price 1.1 vs slate average 1.10)
+
+41. Sun 11 Oct 13:30 UTC (14:30 Lagos) | Netherlands / Eredivisie
+    SC Telstar vs ADO Den Haag
+    price: draw 1.11 (home 9.0, away 11.0) -> needs 90.1% no-goal to break even | market rank 38 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 10.7% -> no goal 89.3% | edge -0.8 pts | fair draw price 1.12
+    home SC Telstar: early goals scored 1/9, conceded 1/9 (last 9 matches; minutes 6-10: scored 0, conceded 1) | attack 1.09 xG/game (rank 15 of 18, 1 = most) | plays direct (28 long balls/game, rank 4 of 18) | defence 2.19 xG conceded/game (rank 17 of 18, 1 = tightest) | last formation 3-4-2-1
+    away ADO Den Haag: early goals scored 1/10, conceded 0/10 (last 10 matches; minutes 6-10: scored 0, conceded 0) | attack 0.89 xG/game (rank 18 of 18, 1 = most) | plays direct (29 long balls/game, rank 2 of 18) | defence 1.93 xG conceded/game (rank 10 of 18, 1 = tightest) | last formation 4-4-2
+    base rate used: 68 matches of this competition blended with all 2120 in this run, 4.4% per team per match scores in the first 5 min; style adjustment x1.11 (home team plays direct, home defence is leaky, away team plays direct); market adjustment x1.02 (draw price 1.11 vs slate average 1.10)
+
+42. Sun 11 Oct 20:15 UTC (21:15 Lagos) | Iceland / Besta deild
+    Breidablik vs Keflavik IF
+    price: draw 1.15 (home 7.25, away 10.0) -> needs 87.0% no-goal to break even | market rank 67 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 10.9% -> no goal 89.1% | edge +2.2 pts | fair draw price 1.12
+    home Breidablik: early goals scored 0/11, conceded 1/11 (last 11 matches; minutes 6-10: scored 1, conceded 0)
+    away Keflavik IF: early goals scored 0/25, conceded 1/25 (last 25 matches; minutes 6-10: scored 1, conceded 3) | last formation 4-2-3-1
+    base rate used: 0 matches of this competition blended with all 2120 in this run, 5.3% per team per match scores in the first 5 min; style adjustment x1.00; market adjustment x1.17 (draw price 1.15 vs slate average 1.10)
+    FLAGS: FIXTURE NOT CONFIRMED on FotMob (teams matched by name only) | MARKET SEES AN OPEN GAME (draw price 1.15+)
+
+43. Sun 11 Oct 16:30 UTC (17:30 Lagos) | England / Premier League
+    Liverpool vs Man City
+    price: draw 1.12 (home 11.0, away 9.7) -> needs 89.3% no-goal to break even | market rank 53 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 10.9% -> no goal 89.1% | edge -0.2 pts | fair draw price 1.12
+    home Liverpool: early goals scored 0/13, conceded 1/13 (last 13 matches; minutes 6-10: scored 2, conceded 0) | attack 1.66 xG/game (rank 7 of 20, 1 = most) | plays direct (29 long balls/game, rank 1 of 20) | defence 1.22 xG conceded/game (rank 3 of 20, 1 = tightest) | last formation 4-2-3-1
+    away Man City: early goals scored 0/11, conceded 1/11 (last 11 matches; minutes 6-10: scored 2, conceded 0) | attack 2.10 xG/game (rank 2 of 20, 1 = most) | defence 1.44 xG conceded/game (rank 8 of 20, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 56 matches of this competition blended with all 2120 in this run, 5.3% per team per match scores in the first 5 min; style adjustment x1.03 (home team plays direct, home defence is tight, away team attacks a lot); market adjustment x1.06 (draw price 1.12 vs slate average 1.10)
+
+44. Sun 11 Oct 13:30 UTC (14:30 Lagos) | Austria / Bundesliga
+    TSV Hartberg vs Austria Lustenau
+    price: draw 1.1 (home 10.0, away 11.0) -> needs 90.9% no-goal to break even | market rank 22 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 11.3% -> no goal 88.7% | edge -2.2 pts | fair draw price 1.13
+    home TSV Hartberg: early goals scored 1/10, conceded 0/10 (last 10 matches; minutes 6-10: scored 1, conceded 1) | attack 1.01 xG/game (rank 11 of 12, 1 = most) | defence 2.04 xG conceded/game (rank 11 of 12, 1 = tightest) | last formation 5-3-2
+    away Austria Lustenau: early goals scored 1/9, conceded 0/9 (last 9 matches; minutes 6-10: scored 1, conceded 1) | attack 1.21 xG/game (rank 8 of 12, 1 = most) | defence 1.89 xG conceded/game (rank 10 of 12, 1 = tightest) | last formation 4-1-4-1
+    base rate used: 45 matches of this competition blended with all 2120 in this run, 5.4% per team per match scores in the first 5 min; style adjustment x1.10 (home defence is leaky, away defence is leaky); market adjustment x0.98 (draw price 1.1 vs slate average 1.10)
+
+45. Sun 11 Oct 15:15 UTC (16:15 Lagos) | Spain / LaLiga
+    Real Sociedad vs RC Deportivo de A Coruna
+    price: draw 1.11 (home 8.3, away 15.0) -> needs 90.1% no-goal to break even | market rank 41 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 11.3% -> no goal 88.7% | edge -1.4 pts | fair draw price 1.13
+    home Real Sociedad: early goals scored 1/15, conceded 1/15 (last 15 matches; minutes 6-10: scored 0, conceded 1) | attack 1.23 xG/game (rank 9 of 20, 1 = most) | defence 1.66 xG conceded/game (rank 16 of 20, 1 = tightest) | last formation 4-4-2
+    away RC Deportivo de A Coruna: early goals scored 1/13, conceded 0/13 (last 13 matches; minutes 6-10: scored 0, conceded 0) | attack 0.97 xG/game (rank 17 of 20, 1 = most) | defence 1.16 xG conceded/game (rank 5 of 20, 1 = tightest) | last formation 4-4-2
+    base rate used: 73 matches of this competition blended with all 2120 in this run, 5.8% per team per match scores in the first 5 min; style adjustment x1.00 (home defence is leaky, away defence is tight); market adjustment x1.02 (draw price 1.11 vs slate average 1.10)
+
+46. Sun 11 Oct 12:00 UTC (13:00 Lagos) | Sweden / Superettan
+    Orebro SK vs Ljungskile SK
+    price: draw 1.11 (home 8.9, away 10.5) -> needs 90.1% no-goal to break even | market rank 35 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 11.5% -> no goal 88.5% | edge -1.5 pts | fair draw price 1.13
+    home Orebro SK: early goals scored 1/25, conceded 1/25 (last 25 matches; minutes 6-10: scored 1, conceded 1) | attack 1.10 goals/game (rank 15 of 16, 1 = most) | defence 1.56 goals conceded/game (rank 11 of 16, 1 = tightest) | last formation 4-4-2
+    away Ljungskile SK: early goals scored 2/25, conceded 1/25 (last 25 matches; minutes 6-10: scored 2, conceded 0) | attack 1.20 goals/game (rank 13 of 16, 1 = most) | defence 1.52 goals conceded/game (rank 9 of 16, 1 = tightest) | last formation 3-5-2
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 6.1% per team per match scores in the first 5 min; style adjustment x1.00; market adjustment x1.02 (draw price 1.11 vs slate average 1.10)
+
+47. Sun 11 Oct 13:00 UTC (14:00 Lagos) | Denmark / Superliga
+    Randers FC vs Viborg FF
+    price: draw 1.11 (home 11.0, away 9.3) -> needs 90.1% no-goal to break even | market rank 36 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 11.7% -> no goal 88.3% | edge -1.8 pts | fair draw price 1.13
+    home Randers FC: early goals scored 2/16, conceded 2/16 (last 16 matches; minutes 6-10: scored 2, conceded 1) | attack 1.06 xG/game (rank 11 of 12, 1 = most) | defence 1.63 xG conceded/game (rank 10 of 12, 1 = tightest) | last formation 4-2-3-1
+    away Viborg FF: early goals scored 1/15, conceded 0/15 (last 15 matches; minutes 6-10: scored 3, conceded 1) | attack 1.60 xG/game (rank 4 of 12, 1 = most) | defence 1.17 xG conceded/game (rank 3 of 12, 1 = tightest) | last formation 4-3-3
+    base rate used: 55 matches of this competition blended with all 2120 in this run, 5.4% per team per match scores in the first 5 min; style adjustment x1.00 (home defence is leaky, away defence is tight); market adjustment x1.02 (draw price 1.11 vs slate average 1.10)
+
+48. Sun 11 Oct 13:00 UTC (14:00 Lagos) | Denmark / Superliga
+    Silkeborg IF vs AC Horsens
+    price: draw 1.1 (home 9.5, away 11.5) -> needs 90.9% no-goal to break even | market rank 20 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 11.8% -> no goal 88.2% | edge -2.7 pts | fair draw price 1.13
+    home Silkeborg IF: early goals scored 1/14, conceded 1/14 (last 14 matches; minutes 6-10: scored 0, conceded 2) | attack 1.13 xG/game (rank 9 of 12, 1 = most) | defence 1.48 xG conceded/game (rank 6 of 12, 1 = tightest) | last formation 3-4-2-1
+    away AC Horsens: early goals scored 2/17, conceded 2/17 (last 17 matches; minutes 6-10: scored 0, conceded 1) | attack 1.09 xG/game (rank 10 of 12, 1 = most) | defence 1.57 xG conceded/game (rank 9 of 12, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 55 matches of this competition blended with all 2120 in this run, 5.4% per team per match scores in the first 5 min; style adjustment x1.00; market adjustment x0.98 (draw price 1.1 vs slate average 1.10)
+    FLAGS: MARKET LIKES IT, WE DON'T
+
+49. Sun 11 Oct 17:30 UTC (18:30 Lagos) | Spain / LaLiga
+    Betis vs Osasuna
+    price: draw 1.11 (home 7.9, away 15.5) -> needs 90.1% no-goal to break even | market rank 44 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 12.3% -> no goal 87.7% | edge -2.4 pts | fair draw price 1.14
+    home Betis: early goals scored 0/15, conceded 0/15 (last 15 matches; minutes 6-10: scored 1, conceded 0) | attack 1.60 xG/game (rank 5 of 20, 1 = most) | defence 1.86 xG conceded/game (rank 18 of 20, 1 = tightest) | last formation 4-3-3
+    away Osasuna: early goals scored 1/11, conceded 1/11 (last 11 matches; minutes 6-10: scored 0, conceded 0) | attack 1.24 xG/game (rank 8 of 20, 1 = most) | plays direct (32 long balls/game, rank 1 of 20) | defence 1.39 xG conceded/game (rank 11 of 20, 1 = tightest) | last formation 5-4-1
+    base rate used: 73 matches of this competition blended with all 2120 in this run, 5.8% per team per match scores in the first 5 min; style adjustment x1.13 (home team attacks a lot, home defence is leaky, away team plays direct); market adjustment x1.02 (draw price 1.11 vs slate average 1.10)
+
+50. Sun 11 Oct 20:00 UTC (21:00 Lagos) | Spain / LaLiga
+    Racing Santander vs Valencia
+    price: draw 1.11 (home 9.9, away 11.5) -> needs 90.1% no-goal to break even | market rank 45 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 12.3% -> no goal 87.7% | edge -2.4 pts | fair draw price 1.14
+    home Racing Santander: early goals scored 1/12, conceded 1/12 (last 12 matches; minutes 6-10: scored 0, conceded 2) | attack 1.44 xG/game (rank 6 of 20, 1 = most) | defence 2.20 xG conceded/game (rank 20 of 20, 1 = tightest) | last formation 4-2-3-1
+    away Valencia: early goals scored 1/11, conceded 0/11 (last 11 matches; minutes 6-10: scored 0, conceded 1) | attack 0.91 xG/game (rank 18 of 20, 1 = most) | defence 1.64 xG conceded/game (rank 15 of 20, 1 = tightest) | last formation 4-4-2
+    base rate used: 73 matches of this competition blended with all 2120 in this run, 5.8% per team per match scores in the first 5 min; style adjustment x1.05 (home defence is leaky); market adjustment x1.02 (draw price 1.11 vs slate average 1.10)
+
+51. Sun 11 Oct 13:30 UTC (14:30 Lagos) | Austria / Bundesliga
+    SCR Altach vs Wolfsberger AC
+    price: draw 1.11 (home 8.6, away 12.0) -> needs 90.1% no-goal to break even | market rank 37 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 12.4% -> no goal 87.6% | edge -2.5 pts | fair draw price 1.14
+    home SCR Altach: early goals scored 0/9, conceded 2/9 (last 9 matches; minutes 6-10: scored 1, conceded 1) | attack 1.23 xG/game (rank 7 of 12, 1 = most) | plays direct (29 long balls/game, rank 2 of 12) | defence 1.34 xG conceded/game (rank 4 of 12, 1 = tightest) | last formation 3-4-3
+    away Wolfsberger AC: early goals scored 0/9, conceded 1/9 (last 9 matches; minutes 6-10: scored 0, conceded 1) | attack 1.16 xG/game (rank 10 of 12, 1 = most) | defence 2.60 xG conceded/game (rank 12 of 12, 1 = tightest) | last formation 3-5-2
+    base rate used: 45 matches of this competition blended with all 2120 in this run, 5.4% per team per match scores in the first 5 min; style adjustment x1.08 (home team plays direct, away defence is leaky); market adjustment x1.02 (draw price 1.11 vs slate average 1.10)
+
+52. Sun 11 Oct 12:00 UTC (13:00 Lagos) | England / Championship
+    Southampton vs Portsmouth FC
+    price: draw 1.12 (home 7.5, away 14.0) -> needs 89.3% no-goal to break even | market rank 49 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 12.4% -> no goal 87.6% | edge -1.7 pts | fair draw price 1.14
+    home Southampton: early goals scored 0/13, conceded 0/13 (last 13 matches; minutes 6-10: scored 3, conceded 0) | attack 1.82 xG/game (rank 4 of 24, 1 = most) | defence 1.32 xG conceded/game (rank 9 of 24, 1 = tightest) | last formation 4-2-3-1
+    away Portsmouth FC: early goals scored 1/10, conceded 0/10 (last 10 matches; minutes 6-10: scored 1, conceded 0) | attack 1.39 xG/game (rank 12 of 24, 1 = most) | defence 1.20 xG conceded/game (rank 5 of 24, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 6.8% per team per match scores in the first 5 min; style adjustment x1.00 (home team attacks a lot, away defence is tight); market adjustment x1.06 (draw price 1.12 vs slate average 1.10)
+
+53. Sun 11 Oct 14:00 UTC (15:00 Lagos) | Sweden / Superettan
+    IFK Varnamo vs Falkenbergs FF
+    price: draw 1.11 (home 9.4, away 10.0) -> needs 90.1% no-goal to break even | market rank 40 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 12.6% -> no goal 87.4% | edge -2.7 pts | fair draw price 1.14
+    home IFK Varnamo: early goals scored 0/25, conceded 1/25 (last 25 matches; minutes 6-10: scored 1, conceded 0) | attack 1.30 goals/game (rank 11 of 16, 1 = most) | defence 1.80 goals conceded/game (rank 13 of 16, 1 = tightest) | last formation 4-3-3
+    away Falkenbergs FF: early goals scored 2/25, conceded 2/25 (last 25 matches; minutes 6-10: scored 4, conceded 1) | attack 1.80 goals/game (rank 2 of 16, 1 = most) | defence 1.32 goals conceded/game (rank 6 of 16, 1 = tightest) | last formation 4-4-2
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 6.1% per team per match scores in the first 5 min; style adjustment x1.10 (home defence is leaky, away team attacks a lot); market adjustment x1.02 (draw price 1.11 vs slate average 1.10)
+
+54. Sun 11 Oct 19:45 UTC (20:45 Lagos) | France / Ligue 1
+    Troyes vs Marseille
+    price: draw 1.12 (home 11.5, away 9.3) -> needs 89.3% no-goal to break even | market rank 57 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 12.8% -> no goal 87.2% | edge -2.1 pts | fair draw price 1.15
+    home Troyes: early goals scored 1/7, conceded 0/7 (last 7 matches; minutes 6-10: scored 1, conceded 0) | attack 1.42 xG/game (rank 11 of 18, 1 = most) | defence 1.94 xG conceded/game (rank 13 of 18, 1 = tightest) | last formation 4-3-3
+    away Marseille: early goals scored 0/12, conceded 2/12 (last 12 matches; minutes 6-10: scored 3, conceded 0) | attack 1.60 xG/game (rank 9 of 18, 1 = most) | defence 2.44 xG conceded/game (rank 18 of 18, 1 = tightest) | last formation 4-4-2
+    base rate used: 51 matches of this competition blended with all 2120 in this run, 5.6% per team per match scores in the first 5 min; style adjustment x1.05 (away defence is leaky); market adjustment x1.06 (draw price 1.12 vs slate average 1.10)
+
+55. Sun 11 Oct 16:15 UTC (17:15 Lagos) | France / Ligue 1
+    Rennes vs AJ Auxerre
+    price: draw 1.13 (home 7.1, away 15.5) -> needs 88.5% no-goal to break even | market rank 63 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 12.9% -> no goal 87.1% | edge -1.4 pts | fair draw price 1.15
+    home Rennes: early goals scored 1/13, conceded 0/13 (last 13 matches; minutes 6-10: scored 3, conceded 1) | attack 1.76 xG/game (rank 5 of 18, 1 = most) | defence 2.26 xG conceded/game (rank 16 of 18, 1 = tightest) | last formation 4-1-4-1
+    away AJ Auxerre: early goals scored 0/8, conceded 1/8 (last 8 matches; minutes 6-10: scored 1, conceded 0) | attack 1.42 xG/game (rank 11 of 18, 1 = most) | defence 2.04 xG conceded/game (rank 15 of 18, 1 = tightest) | last formation 3-4-2-1
+    base rate used: 51 matches of this competition blended with all 2120 in this run, 5.6% per team per match scores in the first 5 min; style adjustment x1.10 (home defence is leaky, away defence is leaky); market adjustment x1.10 (draw price 1.13 vs slate average 1.10)
+
+56. Sun 11 Oct 20:15 UTC (21:15 Lagos) | Iceland / Besta deild
+    Vikingur Reykjavik vs IA Akranes
+    price: draw 1.15 (home 6.25, away 12.0) -> needs 87.0% no-goal to break even | market rank 68 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 13.0% -> no goal 87.0% | edge +0.0 pts | fair draw price 1.15
+    home Vikingur Reykjavik: early goals scored 2/25, conceded 1/25 (last 25 matches; minutes 6-10: scored 2, conceded 2) | attack 3.00 goals/game (rank 2 of 12, 1 = most) | defence 0.96 goals conceded/game (rank 1 of 12, 1 = tightest) | last formation 4-2-3-1
+    away IA Akranes: early goals scored 1/25, conceded 0/25 (last 25 matches; minutes 6-10: scored 2, conceded 2) | attack 1.80 goals/game (rank 6 of 12, 1 = most) | defence 1.96 goals conceded/game (rank 5 of 12, 1 = tightest) | last formation 3-1-4-2
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 6.4% per team per match scores in the first 5 min; style adjustment x1.00 (home team attacks a lot, home defence is tight); market adjustment x1.17 (draw price 1.15 vs slate average 1.10)
+    FLAGS: MARKET SEES AN OPEN GAME (draw price 1.15+)
+
+57. Sun 11 Oct 17:00 UTC (18:00 Lagos) | Turkiye / Super Lig
+    Besiktas Istanbul vs Kocaelispor
+    price: draw 1.13 (home 6.25, away 19.0) -> needs 88.5% no-goal to break even | market rank 64 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 13.1% -> no goal 86.9% | edge -1.6 pts | fair draw price 1.15
+    home Besiktas Istanbul: early goals scored 0/13, conceded 0/13 (last 13 matches; minutes 6-10: scored 2, conceded 0) | attack 1.85 xG/game (rank 5 of 18, 1 = most) | defence 0.65 xG conceded/game (rank 1 of 18, 1 = tightest) | last formation 4-1-4-1
+    away Kocaelispor: early goals scored 0/6, conceded 0/6 (last 6 matches; minutes 6-10: scored 0, conceded 0) | attack 1.03 xG/game (rank 15 of 18, 1 = most) | defence 1.40 xG conceded/game (rank 9 of 18, 1 = tightest) | last formation 4-3-3
+    base rate used: 59 matches of this competition blended with all 2120 in this run, 7.5% per team per match scores in the first 5 min; style adjustment x0.95 (home defence is tight); market adjustment x1.10 (draw price 1.13 vs slate average 1.10)
+
+58. Sun 11 Oct 14:00 UTC (15:00 Lagos) | France / Ligue 1
+    Nice vs Strasbourg
+    price: draw 1.12 (home 9.6, away 11.0) -> needs 89.3% no-goal to break even | market rank 50 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 13.5% -> no goal 86.5% | edge -2.8 pts | fair draw price 1.16
+    home Nice: early goals scored 1/9, conceded 0/9 (last 9 matches; minutes 6-10: scored 0, conceded 0) | attack 1.10 xG/game (rank 17 of 18, 1 = most) | defence 1.70 xG conceded/game (rank 9 of 18, 1 = tightest) | last formation 3-4-2-1
+    away Strasbourg: early goals scored 0/10, conceded 3/10 (last 10 matches; minutes 6-10: scored 1, conceded 2) | attack 1.24 xG/game (rank 16 of 18, 1 = most) | defence 1.96 xG conceded/game (rank 14 of 18, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 51 matches of this competition blended with all 2120 in this run, 5.6% per team per match scores in the first 5 min; style adjustment x1.05 (away defence is leaky); market adjustment x1.06 (draw price 1.12 vs slate average 1.10)
+
+59. Sun 11 Oct 16:30 UTC (17:30 Lagos) | Germany / Bundesliga
+    Freiburg vs Schalke
+    price: draw 1.12 (home 8.4, away 13.5) -> needs 89.3% no-goal to break even | market rank 54 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 13.6% -> no goal 86.4% | edge -2.8 pts | fair draw price 1.16
+    home Freiburg: early goals scored 1/10, conceded 1/10 (last 10 matches; minutes 6-10: scored 1, conceded 1) | attack 2.33 xG/game (rank 4 of 18, 1 = most) | defence 0.93 xG conceded/game (rank 2 of 18, 1 = tightest) | last formation 4-2-3-1
+    away Schalke: early goals scored 0/13, conceded 1/13 (last 13 matches; minutes 6-10: scored 0, conceded 1) | attack 1.45 xG/game (rank 13 of 18, 1 = most) | defence 2.15 xG conceded/game (rank 13 of 18, 1 = tightest) | last formation 3-4-2-1
+    base rate used: 43 matches of this competition blended with all 2120 in this run, 6.6% per team per match scores in the first 5 min; style adjustment x1.00 (home team attacks a lot, home defence is tight); market adjustment x1.06 (draw price 1.12 vs slate average 1.10)
+
+60. Sun 11 Oct 12:00 UTC (13:00 Lagos) | Scotland / Premiership
+    Motherwell FC vs Celtic
+    price: draw 1.13 (home 13.0, away 7.25) -> needs 88.5% no-goal to break even | market rank 59 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 14.0% -> no goal 86.0% | edge -2.5 pts | fair draw price 1.16
+    home Motherwell FC: early goals scored 2/16, conceded 2/16 (last 16 matches; minutes 6-10: scored 0, conceded 0) | attack 1.56 xG/game (rank 6 of 12, 1 = most) | defence 1.73 xG conceded/game (rank 9 of 12, 1 = tightest) | last formation 4-2-3-1
+    away Celtic: early goals scored 2/17, conceded 0/17 (last 17 matches; minutes 6-10: scored 0, conceded 0) | attack 2.74 xG/game (rank 1 of 12, 1 = most) | defence 1.01 xG conceded/game (rank 1 of 12, 1 = tightest) | last formation 3-4-3
+    base rate used: 46 matches of this competition blended with all 2120 in this run, 5.9% per team per match scores in the first 5 min; style adjustment x1.00 (away team attacks a lot, away defence is tight); market adjustment x1.10 (draw price 1.13 vs slate average 1.10)
+
+61. Sun 11 Oct 12:35 UTC (13:35 Lagos) | China / Chinese Super League
+    Liaoning Tieren FC vs Wuhan Three Towns FC
+    price: draw 1.13 (home 9.1, away 10.5) -> needs 88.5% no-goal to break even | market rank 60 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 14.5% -> no goal 85.5% | edge -3.0 pts | fair draw price 1.17
+    home Liaoning Tieren FC: early goals scored 0/25, conceded 1/25 (last 25 matches; minutes 6-10: scored 2, conceded 7) | attack 1.30 goals/game (rank 11 of 16, 1 = most) | defence 1.81 goals conceded/game (rank 14 of 16, 1 = tightest) | last formation 3-4-2-1
+    away Wuhan Three Towns FC: early goals scored 2/25, conceded 2/25 (last 25 matches; minutes 6-10: scored 1, conceded 2) | attack 1.50 goals/game (rank 8 of 16, 1 = most) | plays direct (28 long balls/game, rank 3 of 16) | defence 1.77 goals conceded/game (rank 13 of 16, 1 = tightest) | last formation 4-3-3
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 6.4% per team per match scores in the first 5 min; style adjustment x1.13 (home defence is leaky, away team plays direct, away defence is leaky); market adjustment x1.10 (draw price 1.13 vs slate average 1.10)
+
+62. Sun 11 Oct 16:00 UTC (17:00 Lagos) | Austria / Bundesliga
+    LASK Linz vs SK Rapid
+    price: draw 1.13 (home 7.9, away 11.0) -> needs 88.5% no-goal to break even | market rank 62 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 15.2% -> no goal 84.8% | edge -3.7 pts | fair draw price 1.18
+    home LASK Linz: early goals scored 1/13, conceded 0/13 (last 13 matches; minutes 6-10: scored 3, conceded 2) | attack 2.60 xG/game (rank 1 of 12, 1 = most) | plays direct (35 long balls/game, rank 1 of 12) | defence 0.99 xG conceded/game (rank 1 of 12, 1 = tightest) | last formation 3-4-1-2
+    away SK Rapid: early goals scored 4/21, conceded 3/21 (last 21 matches; minutes 6-10: scored 4, conceded 1) | attack 2.24 xG/game (rank 3 of 12, 1 = most) | plays direct (29 long balls/game, rank 3 of 12) | defence 1.10 xG conceded/game (rank 2 of 12, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 45 matches of this competition blended with all 2120 in this run, 5.4% per team per match scores in the first 5 min; style adjustment x1.06 (home team attacks a lot, home team plays direct, home defence is tight, away team attacks a lot, away team plays direct, away defence is tight); market adjustment x1.10 (draw price 1.13 vs slate average 1.10)
+
+63. Sun 11 Oct 20:30 UTC (21:30 Lagos) | Portugal / Liga Portugal
+    FC Arouca vs Estrela Amadora
+    price: draw 1.1 (home 9.5, away 12.0) -> needs 90.9% no-goal to break even | market rank 33 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 15.2% -> no goal 84.8% | edge -6.1 pts | fair draw price 1.18
+    home FC Arouca: early goals scored 0/7, conceded 1/7 (last 7 matches; minutes 6-10: scored 0, conceded 0) | attack 1.29 xG/game (rank 9 of 18, 1 = most) | defence 1.50 xG conceded/game (rank 10 of 18, 1 = tightest) | last formation 4-2-3-1
+    away Estrela Amadora: early goals scored 0/7, conceded 3/7 (last 7 matches; minutes 6-10: scored 0, conceded 1) | attack 1.29 xG/game (rank 9 of 18, 1 = most) | defence 1.67 xG conceded/game (rank 13 of 18, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 67 matches of this competition blended with all 2120 in this run, 7.4% per team per match scores in the first 5 min; style adjustment x1.00; market adjustment x0.98 (draw price 1.1 vs slate average 1.10)
+
+64. Sun 11 Oct 14:00 UTC (15:00 Lagos) | Turkiye / Super Lig
+    Gaziantep FK vs Corum FK
+    price: draw 1.1 (home 10.0, away 11.0) -> needs 90.9% no-goal to break even | market rank 27 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 15.3% -> no goal 84.7% | edge -6.3 pts | fair draw price 1.18
+    home Gaziantep FK: early goals scored 1/6, conceded 0/6 (last 6 matches; minutes 6-10: scored 1, conceded 0) | attack 1.10 xG/game (rank 13 of 18, 1 = most) | plays direct (34 long balls/game, rank 4 of 18) | defence 1.47 xG conceded/game (rank 10 of 18, 1 = tightest) | last formation 4-1-4-1
+    away Corum FK: early goals scored 1/6, conceded 1/6 (last 6 matches; minutes 6-10: scored 2, conceded 2) | attack 1.30 xG/game (rank 9 of 18, 1 = most) | defence 1.55 xG conceded/game (rank 12 of 18, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 59 matches of this competition blended with all 2120 in this run, 7.5% per team per match scores in the first 5 min; style adjustment x1.03 (home team plays direct); market adjustment x0.98 (draw price 1.1 vs slate average 1.10)
+
+65. Sun 11 Oct 15:30 UTC (16:30 Lagos) | Sweden / Allsvenskan
+    BK Hacken vs Orgryte IS
+    price: draw 1.15 (home 6.4, away 16.5) -> needs 87.0% no-goal to break even | market rank 66 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 17.0% -> no goal 83.0% | edge -4.0 pts | fair draw price 1.21
+    home BK Hacken: early goals scored 3/25, conceded 3/25 (last 25 matches; minutes 6-10: scored 0, conceded 2) | attack 1.84 xG/game (rank 4 of 16, 1 = most) | defence 1.20 xG conceded/game (rank 4 of 16, 1 = tightest) | last formation 4-2-3-1
+    away Orgryte IS: early goals scored 2/25, conceded 1/25 (last 25 matches; minutes 6-10: scored 0, conceded 1) | attack 1.12 xG/game (rank 14 of 16, 1 = most) | defence 2.05 xG conceded/game (rank 15 of 16, 1 = tightest) | last formation 5-4-1
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 6.4% per team per match scores in the first 5 min; style adjustment x1.05 (home team attacks a lot, home defence is tight, away defence is leaky); market adjustment x1.17 (draw price 1.15 vs slate average 1.10)
+    FLAGS: MARKET SEES AN OPEN GAME (draw price 1.15+)
+
+66. Sun 11 Oct 16:00 UTC (17:00 Lagos) | Norway / Eliteserien
+    IK Start vs HamKam
+    price: draw 1.12 (home 8.7, away 12.5) -> needs 89.3% no-goal to break even | market rank 52 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 17.3% -> no goal 82.7% | edge -6.6 pts | fair draw price 1.21
+    home IK Start: early goals scored 3/25, conceded 2/25 (last 25 matches; minutes 6-10: scored 2, conceded 1) | attack 1.41 xG/game (rank 11 of 16, 1 = most) | plays direct (26 long balls/game, rank 4 of 16) | defence 1.73 xG conceded/game (rank 8 of 16, 1 = tightest) | last formation 3-5-2
+    away HamKam: early goals scored 0/25, conceded 3/25 (last 25 matches; minutes 6-10: scored 1, conceded 1) | attack 1.38 xG/game (rank 12 of 16, 1 = most) | defence 1.97 xG conceded/game (rank 14 of 16, 1 = tightest) | last formation 3-5-2
+    base rate used: 100 matches of this competition blended with all 2120 in this run, 7.8% per team per match scores in the first 5 min; style adjustment x1.08 (home team plays direct, away defence is leaky); market adjustment x1.06 (draw price 1.12 vs slate average 1.10)
+
+67. Sun 11 Oct 18:00 UTC (19:00 Lagos) | Portugal / Liga Portugal
+    Benfica vs Vitoria SC Guimaraes
+    price: draw 1.13 (home 6.1, away 19.0) -> needs 88.5% no-goal to break even | market rank 65 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 17.6% -> no goal 82.4% | edge -6.1 pts | fair draw price 1.21
+    home Benfica: early goals scored 4/17, conceded 0/17 (last 17 matches; minutes 6-10: scored 2, conceded 1) | attack 2.43 xG/game (rank 1 of 18, 1 = most) | plays direct (27 long balls/game, rank 3 of 18) | defence 0.74 xG conceded/game (rank 2 of 18, 1 = tightest) | last formation 4-2-3-1
+    away Vitoria SC Guimaraes: early goals scored 1/7, conceded 0/7 (last 7 matches; minutes 6-10: scored 0, conceded 1) | attack 1.81 xG/game (rank 4 of 18, 1 = most) | plays direct (29 long balls/game, rank 2 of 18) | defence 0.79 xG conceded/game (rank 4 of 18, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 67 matches of this competition blended with all 2120 in this run, 7.4% per team per match scores in the first 5 min; style adjustment x1.06 (home team attacks a lot, home team plays direct, home defence is tight, away team attacks a lot, away team plays direct, away defence is tight); market adjustment x1.10 (draw price 1.13 vs slate average 1.10)
+
+68. Sun 11 Oct 15:30 UTC (16:30 Lagos) | Portugal / Liga Portugal
+    Rio Ave FC vs Nacional da Madeira
+    price: draw 1.09 (home 9.75, away 12.0) -> needs 91.7% no-goal to break even | market rank 14 of 68 (1 = calmest in the market's eyes)
+    our estimate: goal in first 5 min 17.7% -> no goal 82.3% | edge -9.5 pts | fair draw price 1.22
+    home Rio Ave FC: early goals scored 0/8, conceded 4/8 (last 8 matches; minutes 6-10: scored 0, conceded 1) | attack 0.56 xG/game (rank 18 of 18, 1 = most) | defence 1.94 xG conceded/game (rank 18 of 18, 1 = tightest) | last formation 4-2-3-1
+    away Nacional da Madeira: early goals scored 1/7, conceded 1/7 (last 7 matches; minutes 6-10: scored 0, conceded 1) | attack 1.21 xG/game (rank 11 of 18, 1 = most) | plays direct (26 long balls/game, rank 4 of 18) | defence 1.90 xG conceded/game (rank 17 of 18, 1 = tightest) | last formation 4-2-3-1
+    base rate used: 67 matches of this competition blended with all 2120 in this run, 7.4% per team per match scores in the first 5 min; style adjustment x1.13 (home defence is leaky, away team plays direct, away defence is leaky); market adjustment x0.93 (draw price 1.09 vs slate average 1.10)
+    FLAGS: MARKET LIKES IT, WE DON'T
+
+Weights for style adjustments and the shrinkage are first guesses. No lineups, injuries, weather, referee or stakes are included.

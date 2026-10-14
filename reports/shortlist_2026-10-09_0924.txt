@@ -1,0 +1,360 @@
+SHORTLIST from slate.csv | 2026-10-09 09:24
+Only players who started 4 or more of their last 5 club games and have no risk or threat flag.
+Quietest first (lowest shots per 90). A very low number can also mean a small sample, so check the full report.
+This is a filter, not a recommendation.
+
+######## ACS Sepsi OSK Sfantu Gheorghe vs FC Dinamo Bucuresti 1948 | Superliga | 10/9/2026, 7:00:00 PM ########
+  9 of 37 players on the clean list
+   1.05  Nicolae Paun (Sepsi) | Central Midfielder | started 5/5, ~82 min | shots/90 0.2 | vs Dinamo București (tight defence, 2/16)
+   1.02  Setigui Karamoko (Sepsi) | Center Back | started 4/5, ~84 min | shots/90 0.2 | vs Dinamo București (tight defence, 2/16)
+   1.02  Lindsay Rose (Sepsi) | Center Back | started 4/5, ~83 min | shots/90 0.2 | vs Dinamo București (tight defence, 2/16)
+   1.03  Fabio Vianna (Sepsi) | Left Back | started 5/5, ~84 min | shots/90 0.4 | vs Dinamo București (tight defence, 2/16)
+   1.04  Gustavo Cascardo (Sepsi) | Right Back | started 5/5, ~82 min | shots/90 0.4 | vs Dinamo București (tight defence, 2/16)
+   1.02  Daniel Virtej (Sepsi) | Center Back | started 4/5, ~77 min | shots/90 0.5 | vs Dinamo București (tight defence, 2/16)
+   1.13  Carl Davordzie (Sepsi) | Striker | started 4/5, ~44 min | shots/90 2.0 | vs Dinamo București (tight defence, 2/16)
+   1.09  Hunor Batzula (Sepsi) | Left Winger | started 4/5, ~79 min | shots/90 2.2 | vs Dinamo București (tight defence, 2/16)
+   1.16  Nacho Heras (Sepsi) | Right Winger | started 5/5, ~61 min | shots/90 2.5 | vs Dinamo București (tight defence, 2/16)
+
+######## Al Nassr Club vs Diriyah Club | Saudi Pro League | 10/9/2026, 7:00:00 PM ########
+  10 of 31 players on the clean list
+   1.07  Salem Al-Najdi (Al-Nassr) | Left Back | started 4/5, ~69 min | shots/90 0.0
+   1.06  Inigo Martinez (Al-Nassr) | Center Back | started 4/5, ~90 min | shots/90 0.2 | xG/90 0.09
+   1.02  Berat Djimsiti (Al Diriyah FC) | Center Back | started 5/5, ~90 min | shots/90 0.2 | xG/90 0.01
+   1.04  Idrissa Gueye (Al Diriyah FC) | Defensive Midfielder | started 5/5, ~87 min | shots/90 0.3 | xG/90 0.07
+   1.06  Mohamed Simakan (Al-Nassr) | Center Back | started 4/5, ~81 min | shots/90 0.4 | xG/90 0.04
+   1.09  Enzo Millot (Al Diriyah FC) | Attacking Midfielder | started 5/5, ~89 min | shots/90 1.2 | xG/90 0.09
+   1.09  Clayton Diandy (Al Diriyah FC) | Right Winger | started 4/5, ~72 min | shots/90 2.0 | xG/90 0.14
+   1.12  Samu Costa (Al-Nassr) | Defensive Midfielder | started 5/5, ~73 min | shots/90 2.1 | xG/90 0.15
+   1.16  Angelo (Al-Nassr) | Central Midfielder | started 4/5, ~75 min | shots/90 2.2 | xG/90 0.25
+   1.51  Joao Felix (Al-Nassr) | Striker | started 5/5, ~85 min | shots/90 4.6 | xG/90 0.38
+
+######## Al-Fateh SC vs Al Ahli Saudi FC | Saudi Pro League | 10/9/2026, 3:55:00 PM ########
+  10 of 36 players on the clean list
+   1.03  Kennedy Boateng (Al-Fateh) | Center Back | started 5/5, ~89 min | shots/90 0.2 | xG/90 0.03 | vs Al Ahli (average defence, 11/18)
+   1.05  Zaydou Youssouf (Al-Fateh) | Defensive Midfielder | started 5/5, ~90 min | shots/90 0.9 | xG/90 0.03 | vs Al Ahli (average defence, 11/18)
+   1.04  Mihai Lixandru (Al-Fateh) | Defensive Midfielder | started 5/5, ~86 min | shots/90 0.9 | xG/90 0.05 | vs Al Ahli (average defence, 11/18)
+   1.11  Valentin Atangana (Al-Ahli) | Defensive Midfielder | started 4/5, ~87 min | shots/90 1.0 | xG/90 0.08
+   1.05  Merih Demiral (Al-Ahli) | Center Back | started 5/5, ~82 min | shots/90 1.1 | xG/90 0.12
+   1.25  Eduard Spertsyan (Al-Ahli) | Attacking Midfielder | started 4/5, ~84 min | shots/90 1.4 | xG/90 0.09
+   1.11  Faisal Al-Abdulwahed (Al-Fateh) | Attacking Midfielder | started 5/5, ~67 min | shots/90 1.6 | xG/90 0.44 | vs Al Ahli (average defence, 11/18)
+   1.20  Wilfried Kanga (Al-Fateh) | Striker | started 5/5, ~83 min | shots/90 1.7 | xG/90 0.29 | vs Al Ahli (average defence, 11/18)
+   1.22  Galeno (Al-Ahli) | Left Winger | started 4/5, ~68 min | shots/90 2.6 | xG/90 0.27
+   1.20  Mourad Batna (Al-Fateh) | Striker | started 5/5, ~90 min | shots/90 3.3 | xG/90 0.15 | vs Al Ahli (average defence, 11/18)
+
+######## Al-Kholood vs Al Qadsiah | Saudi Pro League | 10/9/2026, 2:50:00 PM ########
+  12 of 31 players on the clean list
+   1.15  Nahitan Nandez (Al-Qadsiah) | Central Midfielder | started 4/5, ~89 min | shots/90 0.0 | vs Al Kholood (tight defence, 6/18)
+   1.05  Julian Weigl (Al-Qadsiah) | Central Midfielder | started 5/5, ~90 min | shots/90 0.0 | vs Al Kholood (tight defence, 6/18)
+   1.08  Christopher Bonsu Baah (Al-Qadsiah) | Left Midfielder | started 4/5, ~87 min | shots/90 0.3 | xG/90 0.07 | vs Al Kholood (tight defence, 6/18)
+   1.05  John Buckley (Al-Kholood) | Central Midfielder | started 5/5, ~87 min | shots/90 0.3 | xG/90 0.02 | vs Al Qadsiah (tight defence, 2/18)
+   1.02  Ramzi Solan (Al-Kholood) | Right Back | started 5/5, ~83 min | shots/90 0.5 | xG/90 0.02 | vs Al Qadsiah (tight defence, 2/18)
+   1.04  Edgaras Utkus (Al-Kholood) | Center Back | started 5/5, ~90 min | shots/90 0.6 | xG/90 0.01 | vs Al Qadsiah (tight defence, 2/18)
+   1.03  Gaston Alvarez (Al-Qadsiah) | Center Back | started 5/5, ~90 min | shots/90 0.6 | xG/90 0.06 | vs Al Kholood (tight defence, 6/18)
+   1.03  Jehad Thakri (Al-Qadsiah) | Center Back | started 4/5, ~77 min | shots/90 0.6 | xG/90 0.08 | vs Al Kholood (tight defence, 6/18)
+   1.06  Seydouba Cisse (Al-Kholood) | Defensive Midfielder | started 5/5, ~90 min | shots/90 1.7 | xG/90 0.06 | vs Al Qadsiah (tight defence, 2/18)
+   1.14  Iker Kortajarena (Al-Kholood) | Attacking Midfielder | started 5/5, ~74 min | shots/90 1.7 | xG/90 0.34 | vs Al Qadsiah (tight defence, 2/18)
+   1.15  Musab Al-Juwayr (Al-Qadsiah) | Central Midfielder | started 5/5, ~79 min | shots/90 2.0 | xG/90 0.21 | vs Al Kholood (tight defence, 6/18)
+   1.07  Coba da Costa (Al-Kholood) | Left Winger | started 5/5, ~87 min | shots/90 2.5 | xG/90 0.33 | vs Al Qadsiah (tight defence, 2/18)
+
+######## Borussia Dortmund vs Werder Bremen | Bundesliga | 10/9/2026, 7:30:00 PM ########
+  13 of 33 players on the clean list
+   1.04  Joane Gadou (Borussia Dortmund) | Center Back | started 4/5, ~83 min | shots/90 0.0 | vs Werder Bremen (average defence, 8/18)
+   1.06  Daniel Svensson (Borussia Dortmund) | Left Wing-Back | started 5/5, ~90 min | shots/90 0.2 | xG/90 0.01 | vs Werder Bremen (average defence, 8/18)
+   1.05  Waldemar Anton (Borussia Dortmund) | Center Back | started 5/5, ~90 min | shots/90 0.2 | xG/90 0.00 | vs Werder Bremen (average defence, 8/18)
+   1.02  Marco Friedl (Werder Bremen) | Center Back | started 5/5, ~90 min | shots/90 0.5 | xG/90 0.06 | vs Borussia Dortmund (tight defence, 4/18)
+   1.02  Olivier Deman (Werder Bremen) | Left Back | started 5/5, ~90 min | shots/90 0.8 | xG/90 0.02 | vs Borussia Dortmund (tight defence, 4/18)
+   1.02  Amos Pieper (Werder Bremen) | Center Back | started 5/5, ~87 min | shots/90 1.0 | xG/90 0.04 | vs Borussia Dortmund (tight defence, 4/18)
+   1.06  Ludovit Reis (Werder Bremen) | Central Midfielder | started 5/5, ~81 min | shots/90 1.4 | xG/90 0.18 | vs Borussia Dortmund (tight defence, 4/18)
+   1.11  Chuki (Werder Bremen) | Attacking Midfielder | started 4/5, ~88 min | shots/90 1.8 | xG/90 0.17 | vs Borussia Dortmund (tight defence, 4/18)
+   1.12  Joey Veerman (Borussia Dortmund) | Defensive Midfielder | started 4/5, ~47 min | shots/90 1.9 | xG/90 0.13 | vs Werder Bremen (average defence, 8/18)
+   1.14  Felix Nmecha (Borussia Dortmund) | Defensive Midfielder | started 4/5, ~58 min | shots/90 2.3 | xG/90 0.15 | vs Werder Bremen (average defence, 8/18)
+   1.13  Marco Grüll (Werder Bremen) | Left Winger | started 4/5, ~89 min | shots/90 2.5 | xG/90 0.14 | vs Borussia Dortmund (tight defence, 4/18)
+   1.22  Niclas Füllkrug (Werder Bremen) | Striker | started 5/5, ~76 min | shots/90 3.2 | xG/90 0.31 | vs Borussia Dortmund (tight defence, 4/18)
+   2.00  Serhou Guirassy (Borussia Dortmund) | Striker | started 4/5, ~85 min | shots/90 3.4 | xG/90 0.61 | vs Werder Bremen (average defence, 8/18)
+
+######## Braga vs Sporting | Liga Portugal | 10/9/2026, 8:15:00 PM ########
+  11 of 40 players on the clean list
+   1.05  Sergi Altimira (Sporting CP) | Defensive Midfielder | started 5/5, ~90 min | shots/90 0.3 | xG/90 0.01 | vs Braga (tight defence, 1/18)
+   1.04  Ivan Fresneda (Sporting CP) | Right Back | started 4/5, ~67 min | shots/90 0.4 | xG/90 0.02 | vs Braga (tight defence, 1/18)
+   1.04  Joao Moutinho (Braga) | Central Midfielder | started 5/5, ~71 min | shots/90 0.4 | xG/90 0.02 | vs Sporting CP (tight defence, 5/18)
+   1.04  Goncalo Inacio (Sporting CP) | Center Back | started 5/5, ~90 min | shots/90 0.5 | xG/90 0.07 | vs Braga (tight defence, 1/18)
+   1.04  Victor Gomez (Braga) | Right Midfielder | started 5/5, ~82 min | shots/90 0.7 | xG/90 0.04 | vs Sporting CP (tight defence, 5/18)
+   1.06  Maxi Araujo (Sporting CP) | Left Back | started 5/5, ~88 min | shots/90 0.9 | xG/90 0.12 | vs Braga (tight defence, 1/18)
+   1.15  Issa Doumbia (Sporting CP) | Central Midfielder | started 5/5, ~83 min | shots/90 1.1 | xG/90 0.10 | vs Braga (tight defence, 1/18)
+   1.17  Rodrigo Zalazar (Sporting CP) | Right Winger | started 4/5, ~73 min | shots/90 1.8 | xG/90 0.16 | vs Braga (tight defence, 1/18)
+   1.20  Pau Victor (Braga) | Striker | started 5/5, ~74 min | shots/90 1.8 | xG/90 0.49 | vs Sporting CP (tight defence, 5/18)
+   1.12  Geny Catamo (Sporting CP) | Right Winger | started 5/5, ~73 min | shots/90 2.1 | xG/90 0.08 | vs Braga (tight defence, 1/18)
+   1.17  Ricardo Horta (Braga) | Left Winger | started 4/5, ~58 min | shots/90 3.1 | xG/90 0.19 | vs Sporting CP (tight defence, 5/18)
+
+######## CA Aldosivi vs CA Sarmiento Junin | Primera LPF | 10/9/2026, 6:30:00 PM ########
+  8 of 39 players on the clean list
+   1.02  Leonardo Sigali (Aldosivi) | Center Back | started 4/5, ~76 min | shots/90 0.2 | xG/90 0.01 | vs Sarmiento (leaky defence, 27/30)
+   1.02  Elias Lopez (Aldosivi) | Right Back | started 4/5, ~62 min | shots/90 0.7 | xG/90 0.02 | vs Sarmiento (leaky defence, 27/30)
+   1.02  Mateo Vales (Aldosivi) | Left Back | started 4/5, ~72 min | shots/90 0.9 | xG/90 0.03 | vs Sarmiento (leaky defence, 27/30)
+   1.07  Julian Contrera (Club Atletico Sarmiento) | Right Midfielder | started 5/5, ~60 min | shots/90 1.1 | xG/90 0.08 | vs Aldosivi (leaky defence, 28/30)
+   1.11  Julian Mavilla (Club Atletico Sarmiento) | Left Midfielder | started 5/5, ~60 min | shots/90 1.4 | xG/90 0.15 | vs Aldosivi (leaky defence, 28/30)
+   1.06  Mauricio Martinez (Club Atletico Sarmiento) | Central Midfielder | started 5/5, ~71 min | shots/90 1.7 | xG/90 0.06 | vs Aldosivi (leaky defence, 28/30)
+   1.12  Nicolas Gaitan (Aldosivi) | Attacking Midfielder | started 5/5, ~67 min | shots/90 1.9 | xG/90 0.17 | vs Sarmiento (leaky defence, 27/30)
+   1.02  Braian Cufre (Aldosivi) | Left Back | started 4/5, ~31 min | shots/90 n/a | vs Sarmiento (leaky defence, 27/30)
+
+######## Eintracht Braunschweig vs Holstein Kiel | 2. Bundesliga | 10/9/2026, 5:30:00 PM ########
+  10 of 32 players on the clean list
+   1.31  Maximilian Entrup (Eintracht Braunschweig) | Striker | started 4/5, ~52 min | shots/90 0.9 | xG/90 0.07 | vs Holstein Kiel (leaky defence, 14/18)
+   1.05  Ivan Nekic (Holstein Kiel) | Center Back | started 4/5, ~90 min | shots/90 1.0 | xG/90 0.09 | vs Eintracht Braunschweig (leaky defence, 15/18)
+   1.03  Hiroki Sekine (Holstein Kiel) | Right Back | started 5/5, ~90 min | shots/90 1.0 | xG/90 0.05 | vs Eintracht Braunschweig (leaky defence, 15/18)
+   1.08  Samuele Di Benedetto (Eintracht Braunschweig) | Defensive Midfielder | started 5/5, ~64 min | shots/90 1.4 | xG/90 0.08 | vs Holstein Kiel (leaky defence, 14/18)
+   1.09  Kasper Davidsen (Holstein Kiel) | Defensive Midfielder | started 4/5, ~82 min | shots/90 1.5 | xG/90 0.09 | vs Eintracht Braunschweig (leaky defence, 15/18)
+   1.11  Max Marie (Eintracht Braunschweig) | Defensive Midfielder | started 5/5, ~85 min | shots/90 1.6 | xG/90 0.11 | vs Holstein Kiel (leaky defence, 14/18)
+   1.14  Guillermo Balzi (Holstein Kiel) | Attacking Midfielder | started 5/5, ~82 min | shots/90 1.7 | xG/90 0.11 | vs Eintracht Braunschweig (leaky defence, 15/18)
+   1.07  Florian Flick (Eintracht Braunschweig) | Defensive Midfielder | started 5/5, ~90 min | shots/90 1.7 | xG/90 0.13 | vs Holstein Kiel (leaky defence, 14/18)
+   1.15  Aaron Opoku (Eintracht Braunschweig) | Right Winger | started 5/5, ~78 min | shots/90 1.7 | xG/90 0.21 | vs Holstein Kiel (leaky defence, 14/18)
+   1.25  Adrian Kapralik (Holstein Kiel) | Right Winger | started 5/5, ~85 min | shots/90 1.9 | xG/90 0.21 | vs Eintracht Braunschweig (leaky defence, 15/18)
+
+######## FC Corvinul Hunedoara 1921 vs SC FC Voluntari | Superliga | 10/9/2026, 4:00:00 PM ########
+  16 of 31 players on the clean list
+   1.04  Denis Harut (Voluntari) | Right Back | started 5/5, ~84 min | shots/90 0.2 | vs Corvinul Hunedoara (tight defence, 3/16)
+   1.08  Alexandru Neacsa (CS Corvinul Hunedoara) | Left Back | started 5/5, ~77 min | shots/90 0.2 | vs FC Voluntari (leaky defence, 15/16)
+   1.08  Antoniu Manolache (CS Corvinul Hunedoara) | Center Back | started 5/5, ~81 min | shots/90 0.4 | vs FC Voluntari (leaky defence, 15/16)
+   1.03  Radu Crisan (Voluntari) | Center Back | started 5/5, ~87 min | shots/90 0.4 | vs Corvinul Hunedoara (tight defence, 3/16)
+   1.09  Ion Cararus (CS Corvinul Hunedoara) | Defensive Midfielder | started 4/5, ~53 min | shots/90 0.4 | vs FC Voluntari (leaky defence, 15/16)
+   1.05  Mihael Onisa (Voluntari) | Central Midfielder | started 4/5, ~74 min | shots/90 0.5 | vs Corvinul Hunedoara (tight defence, 3/16)
+   1.04  Mihajlo Ivancevic (CS Corvinul Hunedoara) | Center Back | started 4/5, ~73 min | shots/90 0.7 | vs FC Voluntari (leaky defence, 15/16)
+   1.08  Flavius Iacob (CS Corvinul Hunedoara) | Right Back | started 5/5, ~90 min | shots/90 0.9 | vs FC Voluntari (leaky defence, 15/16)
+   1.03  Alexandru Suteu (Voluntari) | Left Back | started 4/5, ~89 min | shots/90 1.0 | vs Corvinul Hunedoara (tight defence, 3/16)
+   1.05  Lovro Cvek (Voluntari) | Central Midfielder | started 4/5, ~75 min | shots/90 1.4 | vs Corvinul Hunedoara (tight defence, 3/16)
+   1.09  Ion Gheorghe (Voluntari) | Central Midfielder | started 5/5, ~80 min | shots/90 1.5 | vs Corvinul Hunedoara (tight defence, 3/16)
+   1.14  Sergio Ribeiro (CS Corvinul Hunedoara) | Defensive Midfielder | started 4/5, ~77 min | shots/90 1.5 | vs FC Voluntari (leaky defence, 15/16)
+   1.37  Renato Espinosa (CS Corvinul Hunedoara) | Striker | started 4/5, ~54 min | shots/90 2.2 | vs FC Voluntari (leaky defence, 15/16)
+   1.28  Emmanuel Yeboah (CS Corvinul Hunedoara) | Striker | started 5/5, ~85 min | shots/90 2.2 | vs FC Voluntari (leaky defence, 15/16)
+   1.14  Remus Gutea (Voluntari) | Left Midfielder | started 4/5, ~81 min | shots/90 2.3 | vs Corvinul Hunedoara (tight defence, 3/16)
+   1.20  Andrej Fabry (CS Corvinul Hunedoara) | Attacking Midfielder | started 4/5, ~77 min | shots/90 2.4 | vs FC Voluntari (leaky defence, 15/16)
+
+######## FC Zlin vs Slavia Prague | 1. Liga | 10/9/2026, 5:00:00 PM ########
+  13 of 43 players on the clean list
+   1.04  Tomas Vlcek (Slavia Prague) | Center Back | started 4/5, ~56 min | shots/90 0.0 | vs FC Zlín (leaky defence, 16/16)
+   1.03  Milos Kopecny (FC Zlin) | Right Back | started 4/5, ~85 min | shots/90 0.5 | vs Slavia Prague (tight defence, 2/16)
+   1.06  Marian Pisoja (FC Zlin) | Right Winger | started 4/5, ~82 min | shots/90 0.5 | vs Slavia Prague (tight defence, 2/16)
+   1.03  Cletus Nombil (FC Zlin) | Defensive Midfielder | started 4/5, ~87 min | shots/90 0.6 | vs Slavia Prague (tight defence, 2/16)
+   1.07  David Machalik (FC Zlin) | Left Winger | started 4/5, ~77 min | shots/90 0.8 | vs Slavia Prague (tight defence, 2/16)
+   1.05  Jakub Cernin (FC Zlin) | Center Back | started 5/5, ~89 min | shots/90 0.8 | vs Slavia Prague (tight defence, 2/16)
+   1.06  Tomas Holes (Slavia Prague) | Center Back | started 5/5, ~72 min | shots/90 0.8 | vs FC Zlín (leaky defence, 16/16)
+   1.09  Samuel Isife (Slavia Prague) | Right Wing-Back | started 4/5, ~63 min | shots/90 1.2 | vs FC Zlín (leaky defence, 16/16)
+   1.13  Michal Sadilek (Slavia Prague) | Defensive Midfielder | started 5/5, ~90 min | shots/90 1.6 | vs FC Zlín (leaky defence, 16/16)
+   1.28  Emmanuel Ayaosi (Slavia Prague) | Right Winger | started 4/5, ~61 min | shots/90 2.0 | vs FC Zlín (leaky defence, 16/16)
+   1.30  Danijel Sturm (Slavia Prague) | Left Winger | started 4/5, ~65 min | shots/90 2.3 | vs FC Zlín (leaky defence, 16/16)
+   1.26  Wiktor Nowak (Slavia Prague) | Central Midfielder | started 5/5, ~69 min | shots/90 2.5 | vs FC Zlín (leaky defence, 16/16)
+   1.30  Lukas Provod (Slavia Prague) | Attacking Midfielder | started 4/5, ~57 min | shots/90 3.2 | vs FC Zlín (leaky defence, 16/16)
+
+######## Gimnasia y Esgrima La Plata vs Atletico Tucuman | Primera LPF | 10/9/2026, 10:00:00 PM ########
+  6 of 35 players on the clean list
+   1.03  Leonel Vega (Atletico Tucuman) | Defensive Midfielder | started 5/5, ~77 min | shots/90 0.2 | xG/90 0.00
+   1.02  Luciano Vallejo (Atletico Tucuman) | Center Back | started 5/5, ~78 min | shots/90 0.4 | xG/90 0.03
+   1.02  Ignacio Galvan (Atletico Tucuman) | Left Back | started 5/5, ~76 min | shots/90 0.6 | xG/90 0.03
+   1.02  Leonel Di Plácido (Atletico Tucuman) | Right Back | started 5/5, ~76 min | shots/90 0.7 | xG/90 0.01
+   1.08  Nicolas Lamendola (Atletico Tucuman) | Left Winger | started 5/5, ~76 min | shots/90 1.1 | xG/90 0.10
+   1.06  Lautaro Godoy (Atletico Tucuman) | Attacking Midfielder | started 5/5, ~59 min | shots/90 2.2 | xG/90 0.08
+
+######## Heidenheim vs 1 FC Kaiserslautern | 2. Bundesliga | 10/9/2026, 5:30:00 PM ########
+  9 of 33 players on the clean list
+   1.03  Maxwell Gyamfi (FC Kaiserslautern) | Center Back | started 5/5, ~89 min | shots/90 0.2 | xG/90 0.00 | vs FC Heidenheim (tight defence, 4/18)
+   1.04  Patrick Mainka (Heidenheim) | Center Back | started 5/5, ~82 min | shots/90 0.4 | xG/90 0.01 | vs Kaiserslautern (tight defence, 3/18)
+   1.03  Jacob Rasmussen (FC Kaiserslautern) | Center Back | started 5/5, ~90 min | shots/90 0.4 | xG/90 0.05 | vs FC Heidenheim (tight defence, 4/18)
+   1.04  Mika Haas (FC Kaiserslautern) | Left Wing-Back | started 4/5, ~77 min | shots/90 0.6 | xG/90 0.02 | vs FC Heidenheim (tight defence, 4/18)
+   1.04  Fabian Kunze (FC Kaiserslautern) | Defensive Midfielder | started 4/5, ~74 min | shots/90 1.0 | xG/90 0.11 | vs FC Heidenheim (tight defence, 4/18)
+   1.04  Paul Joly (FC Kaiserslautern) | Right Wing-Back | started 4/5, ~57 min | shots/90 1.3 | xG/90 0.07 | vs FC Heidenheim (tight defence, 4/18)
+   1.12  Semih Sahin (FC Kaiserslautern) | Defensive Midfielder | started 5/5, ~89 min | shots/90 1.5 | xG/90 0.05 | vs FC Heidenheim (tight defence, 4/18)
+   1.04  Michael Heule (Heidenheim) | Left Back | started 4/4, ~90 min | shots/90 1.8 | xG/90 0.23 | vs Kaiserslautern (tight defence, 3/18)
+   1.18  Marlon Ritter (FC Kaiserslautern) | Attacking Midfielder | started 5/5, ~67 min | shots/90 2.9 | xG/90 0.16 | vs FC Heidenheim (tight defence, 4/18)
+
+######## Instituto AC Cordoba vs Boca Juniors | Primera LPF | 10/9/2026, 11:30:00 PM ########
+  12 of 37 players on the clean list
+   1.02  Facundo Herrera (Boca Juniors) | Center Back | started 4/5, ~58 min | shots/90 0.0 | vs Instituto (tight defence, 1/30)
+   1.04  Gustavo Abregu (Instituto AC Cordoba) | Central Midfielder | started 5/5, ~80 min | shots/90 0.4 | xG/90 0.02 | vs Boca Juniors (tight defence, 2/30)
+   1.03  Lautaro Blanco (Boca Juniors) | Left Back | started 5/5, ~84 min | shots/90 0.5 | xG/90 0.03 | vs Instituto (tight defence, 1/30)
+   1.04  Milton Delgado (Boca Juniors) | Central Midfielder | started 5/5, ~70 min | shots/90 0.6 | xG/90 0.03 | vs Instituto (tight defence, 1/30)
+   1.04  Leandro Lozano (Boca Juniors) | Right Back | started 4/5, ~86 min | shots/90 0.9 | xG/90 0.04 | vs Instituto (tight defence, 1/30)
+   1.06  Giuliano Cerato (Instituto AC Cordoba) | Right Midfielder | started 5/5, ~87 min | shots/90 0.9 | xG/90 0.08 | vs Boca Juniors (tight defence, 2/30)
+   1.04  Diego Sosa (Instituto AC Cordoba) | Left Midfielder | started 5/5, ~87 min | shots/90 1.1 | xG/90 0.09 | vs Boca Juniors (tight defence, 2/30)
+   1.05  Matias Gallardo (Instituto AC Cordoba) | Central Midfielder | started 5/5, ~51 min | shots/90 1.5 | xG/90 0.06 | vs Boca Juniors (tight defence, 2/30)
+   1.12  Santiago Ascacibar (Boca Juniors) | Central Midfielder | started 4/5, ~75 min | shots/90 1.8 | xG/90 0.27 | vs Instituto (tight defence, 1/30)
+   1.17  Matias Tissera (Instituto AC Cordoba) | Striker | started 5/5, ~51 min | shots/90 2.4 | xG/90 0.45 | vs Boca Juniors (tight defence, 2/30)
+   1.09  Jeremias Lazaro (Instituto AC Cordoba) | Attacking Midfielder | started 4/5, ~36 min | shots/90 2.4 | xG/90 0.23 | vs Boca Juniors (tight defence, 2/30)
+   1.23  Miguel Merentiel (Boca Juniors) | Striker | started 4/5, ~66 min | shots/90 2.8 | xG/90 0.59 | vs Instituto (tight defence, 1/30)
+
+######## KV Waasland-Beveren vs Lommel SK | Pro League | 10/9/2026, 7:45:00 PM ########
+  13 of 32 players on the clean list
+   1.05  Yoni Gomis (KVRS Waasland SK Beveren) | Center Back | started 5/5, ~88 min | shots/90 0.2 | xG/90 0.05
+   1.05  Joey Pelupessy (Lommel SK) | Central Midfielder | started 5/5, ~90 min | shots/90 0.3 | xG/90 0.01
+   1.05  Sieben Dewaele (KVRS Waasland SK Beveren) | Defensive Midfielder | started 5/5, ~89 min | shots/90 0.3 | xG/90 0.01
+   1.03  Timothy Eyoma (Lommel SK) | Right Back | started 4/5, ~86 min | shots/90 0.3 | xG/90 0.01
+   1.04  Bruno Godeau (KVRS Waasland SK Beveren) | Center Back | started 5/5, ~83 min | shots/90 0.3 | xG/90 0.03
+   1.04  Christophe Janssens (KVRS Waasland SK Beveren) | Left Back | started 5/5, ~85 min | shots/90 0.8 | xG/90 0.04
+   1.07  Lucas Schoofs (Lommel SK) | Striker | started 5/5, ~90 min | shots/90 0.9 | xG/90 0.07
+   1.06  Jason Van Duiven (Lommel SK) | Right Back | started 5/5, ~90 min | shots/90 1.0 | xG/90 0.06
+   1.15  Christian Bruls (KVRS Waasland SK Beveren) | Striker | started 5/5, ~82 min | shots/90 1.1 | xG/90 0.04
+   1.21  Don-Angelo Konadu (Lommel SK) | Striker | started 5/5, n/a min | shots/90 n/a
+   1.11  Juho Talvitie (Lommel SK) | Right Winger | started 4/5, n/a min | shots/90 n/a
+   1.09  Stredair Appuah (Lommel SK) | Left Winger | started 5/5, n/a min | shots/90 n/a
+   1.03  Shawn Adewoye (Lommel SK) | Center Back | started 5/5, n/a min | shots/90 n/a
+
+######## Lens vs Lyon | Ligue 1 | 10/9/2026, 7:45:00 PM ########
+  11 of 37 players on the clean list
+   1.09  Abner (Lyon) | Left Back | started 4/5, ~70 min | shots/90 0.0 | vs Lens (average defence, 12/18)
+   1.09  Michal Skoras (Lens) | Left Winger | started 4/5, ~55 min | shots/90 0.3 | xG/90 0.01 | vs Lyon (tight defence, 2/18)
+   1.04  Tyler Morton (Lyon) | Defensive Midfielder | started 5/5, ~73 min | shots/90 0.5 | xG/90 0.01 | vs Lens (average defence, 12/18)
+   1.04  Zachary Athekame (Lyon) | Right Back | started 4/5, ~90 min | shots/90 0.6 | xG/90 0.21 | vs Lens (average defence, 12/18)
+   1.03  Kyllian Antonio (Lens) | Center Back | started 5/5, ~90 min | shots/90 0.7 | xG/90 0.02 | vs Lyon (tight defence, 2/18)
+   1.04  Mads Bidstrup (Lyon) | Defensive Midfielder | started 4/5, ~77 min | shots/90 0.7 | xG/90 0.04 | vs Lens (average defence, 12/18)
+   1.04  Felix Bacher (Lyon) | Center Back | started 4/5, ~89 min | shots/90 0.8 | xG/90 0.08 | vs Lens (average defence, 12/18)
+   1.05  Ismaelo Ganiou (Lens) | Center Back | started 5/5, ~86 min | shots/90 1.0 | xG/90 0.24 | vs Lyon (tight defence, 2/18)
+   1.14  Corentin Tolisso (Lyon) | Attacking Midfielder | started 4/5, ~76 min | shots/90 1.9 | xG/90 0.22 | vs Lens (average defence, 12/18)
+   1.21  Ernest Nuamah (Lyon) | Right Winger | started 4/5, ~77 min | shots/90 4.1 | xG/90 0.53 | vs Lens (average defence, 12/18)
+   1.33  Lois Openda (Lyon) | Striker | started 5/5, ~84 min | shots/90 4.3 | xG/90 0.71 | vs Lens (average defence, 12/18)
+
+######## Malaga CF vs Espanyol | LaLiga | 10/9/2026, 8:00:00 PM ########
+  8 of 38 players on the clean list
+   1.03  Einar Galilea (Malaga) | Center Back | started 4/5, ~78 min | shots/90 0.0 | vs Espanyol (average defence, 11/20)
+   1.01  Omar El Hilali (Espanyol) | Right Back | started 5/5, ~88 min | shots/90 0.0 | vs Málaga (leaky defence, 15/20)
+   1.02  Roger Hinojo (Espanyol) | Left Back | started 5/5, ~77 min | shots/90 0.2 | xG/90 0.01 | vs Málaga (leaky defence, 15/20)
+   1.03  Urko Gonzalez de Zarate (Espanyol) | Defensive Midfielder | started 4/5, ~63 min | shots/90 0.2 | xG/90 0.00 | vs Málaga (leaky defence, 15/20)
+   1.06  Dani Lorenzo (Malaga) | Central Midfielder | started 4/5, ~68 min | shots/90 0.4 | xG/90 0.05 | vs Espanyol (average defence, 11/20)
+   1.04  Leandro Cabrera (Espanyol) | Center Back | started 5/5, ~90 min | shots/90 0.5 | xG/90 0.04 | vs Málaga (leaky defence, 15/20)
+   1.07  Carlos Dotor (Malaga) | Central Midfielder | started 5/5, ~78 min | shots/90 0.8 | xG/90 0.06 | vs Espanyol (average defence, 11/20)
+   1.13  Javi Hernandez (Espanyol) | Attacking Midfielder | started 5/5, ~80 min | shots/90 1.8 | xG/90 0.12 | vs Málaga (leaky defence, 15/20)
+
+######## Montpellier vs Grenoble Foot | Ligue 2 | 10/9/2026, 7:00:00 PM ########
+  16 of 34 players on the clean list
+   1.04  Nesta Zahui (Grenoble) | Right Midfielder | started 5/5, ~89 min | shots/90 0.0 | vs Montpellier (tight defence, 6/18)
+   1.01  Aurelien Pelon (Grenoble) | Center Back | started 4/4, ~90 min | shots/90 0.0 | vs Montpellier (tight defence, 6/18)
+   1.04  Mattheo Xantippe (Grenoble) | Left Back | started 5/5, ~89 min | shots/90 0.1 | xG/90 0.02 | vs Montpellier (tight defence, 6/18)
+   1.05  Yael Mouanga (Montpellier) | Center Back | started 5/5, ~88 min | shots/90 0.2 | xG/90 0.01 | vs Grenoble (average defence, 9/18)
+   1.02  Yohann Magnin (Grenoble) | Defensive Midfielder | started 5/5, ~88 min | shots/90 0.3 | xG/90 0.01 | vs Montpellier (tight defence, 6/18)
+   1.04  Julien Laporte (Montpellier) | Center Back | started 5/5, ~90 min | shots/90 0.4 | xG/90 0.04 | vs Grenoble (average defence, 9/18)
+   1.01  Clement Vidal (Grenoble) | Center Back | started 5/5, ~90 min | shots/90 0.4 | xG/90 0.01 | vs Montpellier (tight defence, 6/18)
+   1.04  Naoufel El Hannach (Montpellier) | Right Back | started 4/5, ~68 min | shots/90 0.4 | xG/90 0.01 | vs Grenoble (average defence, 9/18)
+   1.03  Lucas Bernadou (Grenoble) | Central Midfielder | started 4/5, ~61 min | shots/90 0.6 | xG/90 0.04 | vs Montpellier (tight defence, 6/18)
+   1.08  Jean-Guy Akpa Akpro (Grenoble) | Striker | started 5/5, ~69 min | shots/90 0.9 | xG/90 0.08 | vs Montpellier (tight defence, 6/18)
+   1.05  Theo Sainte-Luce (Montpellier) | Left Back | started 5/5, ~90 min | shots/90 1.1 | xG/90 0.08 | vs Grenoble (average defence, 9/18)
+   1.08  Daylam Meddah (Montpellier) | Center Back | started 5/5, ~75 min | shots/90 1.2 | xG/90 0.08 | vs Grenoble (average defence, 9/18)
+   1.21  Nicolas Pays (Montpellier) | Right Winger | started 5/5, ~89 min | shots/90 1.3 | xG/90 0.23 | vs Grenoble (average defence, 9/18)
+   1.09  Baptiste Mouazan (Grenoble) | Attacking Midfielder | started 5/5, ~77 min | shots/90 1.6 | xG/90 0.14 | vs Montpellier (tight defence, 6/18)
+   1.06  Samba Diba (Grenoble) | Central Midfielder | started 4/5, ~66 min | shots/90 1.6 | xG/90 0.16 | vs Montpellier (tight defence, 6/18)
+   1.21  Nordan Mukiele (Montpellier) | Left Winger | started 5/5, ~73 min | shots/90 1.9 | xG/90 0.10 | vs Grenoble (average defence, 9/18)
+
+######## Moreirense FC vs Gil Vicente Barcelos | Liga Portugal | 10/9/2026, 6:45:00 PM ########
+  11 of 35 players on the clean list
+   1.04  Maracas (Moreirense) | Center Back | started 5/5, ~87 min | shots/90 0.0 | vs Gil Vicente (tight defence, 6/18)
+   1.04  Ricardo Esgaio (Gil Vicente) | Right Back | started 5/5, ~86 min | shots/90 0.0 | vs Moreirense (leaky defence, 16/18)
+   1.02  Gilberto Batista (Moreirense) | Center Back | started 5/5, ~90 min | shots/90 0.1 | xG/90 0.00 | vs Gil Vicente (tight defence, 6/18)
+   1.03  Guilherme Liberato (Moreirense) | Central Midfielder | started 5/5, ~78 min | shots/90 0.2 | xG/90 0.00 | vs Gil Vicente (tight defence, 6/18)
+   1.03  Kiko (Moreirense) | Left Back | started 5/5, ~88 min | shots/90 0.6 | xG/90 0.02 | vs Gil Vicente (tight defence, 6/18)
+   1.09  Manuel Mendonca (Moreirense) | Right Winger | started 5/5, ~76 min | shots/90 0.7 | xG/90 0.11 | vs Gil Vicente (tight defence, 6/18)
+   1.03  Weverson (Gil Vicente) | Left Back | started 4/5, ~56 min | shots/90 0.8 | xG/90 0.02 | vs Moreirense (leaky defence, 16/18)
+   1.07  Nile John (Moreirense) | Central Midfielder | started 5/5, ~74 min | shots/90 1.0 | xG/90 0.03 | vs Gil Vicente (tight defence, 6/18)
+   1.03  Dinis Pinto (Moreirense) | Right Back | started 5/5, ~78 min | shots/90 1.1 | xG/90 0.13 | vs Gil Vicente (tight defence, 6/18)
+   1.13  Santi Garcia (Gil Vicente) | Attacking Midfielder | started 4/5, ~76 min | shots/90 2.1 | xG/90 0.05 | vs Moreirense (leaky defence, 16/18)
+   1.14  Gil Martins (Gil Vicente) | Left Winger | started 5/5, ~74 min | shots/90 2.4 | xG/90 0.20 | vs Moreirense (leaky defence, 16/18)
+
+######## Nancy-Lorraine vs EA Guingamp | Ligue 2 | 10/9/2026, 7:00:00 PM ########
+  11 of 32 players on the clean list
+   1.03  Yannis Nahounou (Nancy) | Center Back | started 5/5, ~90 min | shots/90 0.2 | xG/90 0.03 | vs Guingamp (average defence, 11/18)
+   1.07  Elydjah Mendy (Nancy) | Center Back | started 5/5, ~80 min | shots/90 0.4 | xG/90 0.03 | vs Guingamp (average defence, 11/18)
+   1.03  Erwin Koffi (Guingamp) | Right Back | started 4/5, ~74 min | shots/90 0.7 | xG/90 0.05 | vs Nancy (tight defence, 2/18)
+   1.04  Enzo Tacafred (Nancy) | Right Back | started 5/5, ~89 min | shots/90 0.7 | xG/90 0.04 | vs Guingamp (average defence, 11/18)
+   1.05  Kouroufia Kebe (Nancy) | Central Midfielder | started 5/5, ~89 min | shots/90 0.7 | xG/90 0.05 | vs Guingamp (average defence, 11/18)
+   1.04  Donatien Gomis (Guingamp) | Center Back | started 5/5, ~69 min | shots/90 0.9 | xG/90 0.08 | vs Nancy (tight defence, 2/18)
+   1.10  Tanguy Ahile (Guingamp) | Central Midfielder | started 4/5, ~59 min | shots/90 1.3 | xG/90 0.32 | vs Nancy (tight defence, 2/18)
+   1.03  Tom Ducrocq (Guingamp) | Central Midfielder | started 4/5, ~48 min | shots/90 1.3 | xG/90 0.05 | vs Nancy (tight defence, 2/18)
+   1.18  Nordine Kandil (Nancy) | Right Midfielder | started 4/5, ~46 min | shots/90 1.9 | xG/90 0.14 | vs Guingamp (average defence, 11/18)
+   1.12  Samir Ben Brahim (Guingamp) | Right Winger | started 4/5, ~62 min | shots/90 2.3 | xG/90 0.38 | vs Nancy (tight defence, 2/18)
+   1.21  Stanislas Kielt (Guingamp) | Striker | started 4/5, ~74 min | shots/90 2.6 | xG/90 0.49 | vs Nancy (tight defence, 2/18)
+
+######## Pau FC vs Stade Lavallois MFC | Ligue 2 | 10/9/2026, 7:00:00 PM ########
+  6 of 38 players on the clean list
+   1.02  Gaetan Paquiez (Pau) | Center Back | started 4/5, ~80 min | shots/90 0.0 | vs Laval (leaky defence, 13/18)
+   1.22  Hacene Benali (Pau) | Striker | started 4/5, ~74 min | shots/90 1.0 | xG/90 0.08 | vs Laval (leaky defence, 13/18)
+   1.05  Lorenzo Rajot (Pau) | Central Midfielder | started 4/5, ~50 min | shots/90 1.0 | xG/90 0.06 | vs Laval (leaky defence, 13/18)
+   1.07  Tom Pouilly (Pau) | Right Wing-Back | started 5/5, ~87 min | shots/90 1.2 | xG/90 0.06 | vs Laval (leaky defence, 13/18)
+   1.05  Axel Bamba (Pau) | Center Back | started 5/5, ~84 min | shots/90 1.3 | xG/90 0.05 | vs Laval (leaky defence, 13/18)
+   1.03  Anthony Briancon (Pau) | Center Back | started 4/5, ~66 min | shots/90 1.4 | xG/90 0.06 | vs Laval (leaky defence, 13/18)
+
+######## PSV Eindhoven vs SC Heerenveen | Eredivisie | 10/9/2026, 7:00:00 PM ########
+  12 of 33 players on the clean list
+   1.04  Marcus Linday (Heerenveen) | Defensive Midfielder | started 5/5, ~88 min | shots/90 0.3 | xG/90 0.02 | vs PSV Eindhoven (tight defence, 5/18)
+   1.03  Sam Kersten (Heerenveen) | Center Back | started 5/5, ~84 min | shots/90 0.3 | xG/90 0.01 | vs PSV Eindhoven (tight defence, 5/18)
+   1.07  Armando Obispo (PSV Eindhoven) | Center Back | started 5/5, ~88 min | shots/90 0.4 | xG/90 0.02 | vs SC Heerenveen (tight defence, 6/18)
+   1.03  Vasilios Zagaritis (Heerenveen) | Left Back | started 5/5, ~90 min | shots/90 0.6 | xG/90 0.06 | vs PSV Eindhoven (tight defence, 5/18)
+   1.03  Maas Willemsen (Heerenveen) | Center Back | started 5/5, ~90 min | shots/90 0.7 | xG/90 0.05 | vs PSV Eindhoven (tight defence, 5/18)
+   1.07  Mauro Junior (PSV Eindhoven) | Left Back | started 5/5, ~85 min | shots/90 0.9 | xG/90 0.03 | vs SC Heerenveen (tight defence, 6/18)
+   1.03  Oliver Braude (Heerenveen) | Right Back | started 5/5, ~85 min | shots/90 1.1 | xG/90 0.05 | vs PSV Eindhoven (tight defence, 5/18)
+   1.07  Sergino Dest (PSV Eindhoven) | Right Back | started 5/5, ~90 min | shots/90 1.3 | xG/90 0.25 | vs SC Heerenveen (tight defence, 6/18)
+   1.14  Ringo Meerveld (Heerenveen) | Attacking Midfielder | started 4/5, ~67 min | shots/90 1.3 | xG/90 0.09 | vs PSV Eindhoven (tight defence, 5/18)
+   1.08  Nolhan Courtens (Heerenveen) | Defensive Midfielder | started 4/5, ~73 min | shots/90 1.7 | xG/90 0.32 | vs PSV Eindhoven (tight defence, 5/18)
+   1.12  Kodai Sano (PSV Eindhoven) | Defensive Midfielder | started 5/5, ~80 min | shots/90 1.9 | xG/90 0.21 | vs SC Heerenveen (tight defence, 6/18)
+   1.19  Jacob Trenskow (Heerenveen) | Right Winger | started 5/5, ~85 min | shots/90 2.9 | xG/90 0.17 | vs PSV Eindhoven (tight defence, 5/18)
+
+######## Sochaux-Montbeliard vs US Boulogne | Ligue 2 | 10/9/2026, 7:00:00 PM ########
+  14 of 35 players on the clean list
+   1.02  Mathieu Peybernes (Sochaux) | Center Back | started 5/5, ~85 min | shots/90 0.0 | vs Boulogne (average defence, 8/18)
+   1.01  Demba Thiam (US Boulogne) | Right Back | started 5/5, ~90 min | shots/90 0.0 | vs Sochaux (leaky defence, 16/18)
+   1.03  Elie N'Gatta (Sochaux) | Center Back | started 5/5, ~90 min | shots/90 0.1 | xG/90 0.00 | vs Boulogne (average defence, 8/18)
+   1.06  Bendjaloud Youssouf (Sochaux) | Right Back | started 4/5, ~79 min | shots/90 0.5 | xG/90 0.01 | vs Boulogne (average defence, 8/18)
+   1.04  Julien Masson (Sochaux) | Defensive Midfielder | started 5/5, ~88 min | shots/90 0.5 | xG/90 0.02 | vs Boulogne (average defence, 8/18)
+   1.03  Theo Brusco (US Boulogne) | Center Back | started 5/5, ~86 min | shots/90 0.5 | xG/90 0.02 | vs Sochaux (leaky defence, 16/18)
+   1.05  Nolan Binet (US Boulogne) | Central Midfielder | started 4/5, ~78 min | shots/90 0.7 | xG/90 0.05 | vs Sochaux (leaky defence, 16/18)
+   1.03  Antoine Kerriou (US Boulogne) | Center Back | started 5/5, ~90 min | shots/90 0.9 | xG/90 0.04 | vs Sochaux (leaky defence, 16/18)
+   1.04  Joffrey Bultel (US Boulogne) | Central Midfielder | started 4/5, ~67 min | shots/90 1.1 | xG/90 0.09 | vs Sochaux (leaky defence, 16/18)
+   1.06  Aurelien Platret (US Boulogne) | Right Wing-Back | started 4/5, ~69 min | shots/90 1.3 | xG/90 0.05 | vs Sochaux (leaky defence, 16/18)
+   1.14  Boubacar Fofana (Sochaux) | Left Winger | started 4/5, ~45 min | shots/90 1.7 | xG/90 0.08 | vs Boulogne (average defence, 8/18)
+   1.16  Benjamin Gomel (Sochaux) | Left Winger | started 4/5, ~64 min | shots/90 2.0 | xG/90 0.09 | vs Boulogne (average defence, 8/18)
+   1.17  Benjamin Besic (US Boulogne) | Striker | started 5/5, ~78 min | shots/90 2.3 | xG/90 0.24 | vs Sochaux (leaky defence, 16/18)
+   1.15  Abdel Hbouch (US Boulogne) | Striker | started 5/5, ~85 min | shots/90 2.9 | xG/90 0.37 | vs Sochaux (leaky defence, 16/18)
+
+######## US Avellino vs Sampdoria Genoa | Serie B | 10/9/2026, 7:30:00 PM ########
+  12 of 36 players on the clean list
+   1.03  Armando Izzo (US Avellino) | Center Back | started 5/5, ~90 min | shots/90 0.2 | xG/90 0.01 | vs Sampdoria (average defence, 12/20)
+   1.03  Patrick Enrici (US Avellino) | Center Back | started 4/5, ~88 min | shots/90 0.3 | xG/90 0.00 | vs Sampdoria (average defence, 12/20)
+   1.06  Alessandro Di Pardo (Sampdoria) | Right Back | started 5/5, ~90 min | shots/90 0.4 | xG/90 0.03 | vs Avellino (average defence, 9/20)
+   1.03  Stefan Gartenmann (Sampdoria) | Center Back | started 5/5, ~90 min | shots/90 0.4 | xG/90 0.02 | vs Avellino (average defence, 9/20)
+   1.06  Manuel Cicconi (Sampdoria) | Left Midfielder | started 5/5, ~90 min | shots/90 0.8 | xG/90 0.02 | vs Avellino (average defence, 9/20)
+   1.04  Filippo Missori (US Avellino) | Right Midfielder | started 4/5, ~70 min | shots/90 0.9 | xG/90 0.02 | vs Sampdoria (average defence, 12/20)
+   1.09  Martin Palumbo (US Avellino) | Attacking Midfielder | started 5/5, ~83 min | shots/90 1.3 | xG/90 0.04 | vs Sampdoria (average defence, 12/20)
+   1.04  Brando Moruzzi (US Avellino) | Left Wing-Back | started 5/5, ~75 min | shots/90 1.7 | xG/90 0.11 | vs Sampdoria (average defence, 12/20)
+   1.21  Raffaele Russo (US Avellino) | Striker | started 5/5, ~87 min | shots/90 1.9 | xG/90 0.28 | vs Sampdoria (average defence, 12/20)
+   1.20  Gennaro Tutino (Sampdoria) | Striker | started 4/5, ~67 min | shots/90 1.9 | xG/90 0.30 | vs Avellino (average defence, 9/20)
+   1.04  Antoine Makoumbou (Sampdoria) | Defensive Midfielder | started 4/4, ~70 min | shots/90 2.6 | xG/90 0.13 | vs Avellino (average defence, 9/20)
+   1.08  Liam Henderson (Sampdoria) | Central Midfielder | started 5/5, ~84 min | shots/90 3.0 | xG/90 0.27 | vs Avellino (average defence, 9/20)
+
+######## USL Dunkerque vs FC Annecy | Ligue 2 | 10/9/2026, 7:00:00 PM ########
+  14 of 35 players on the clean list
+   1.02  Julien Kouadio (FC Annecy) | Left Back | started 5/5, ~90 min | shots/90 0.0
+   1.02  Allan Linguet (Dunkerque) | Right Back | started 5/5, ~90 min | shots/90 0.3 | xG/90 0.02
+   1.02  Thibault Delphis (FC Annecy) | Center Back | started 5/5, ~90 min | shots/90 0.3 | xG/90 0.00
+   1.02  Lenny Vallier (Dunkerque) | Left Back | started 4/5, ~63 min | shots/90 0.4 | xG/90 0.01
+   1.04  Matteo Veillon (FC Annecy) | Center Back | started 5/5, ~79 min | shots/90 0.5 | xG/90 0.05
+   1.03  Opa Sangante (Dunkerque) | Center Back | started 5/5, ~90 min | shots/90 0.6 | xG/90 0.05
+   1.08  Victor Mayela (Dunkerque) | Center Back | started 4/5, ~64 min | shots/90 0.7 | xG/90 0.02
+   1.06  Ahmed Kashi (FC Annecy) | Central Midfielder | started 5/5, ~90 min | shots/90 0.8 | xG/90 0.03
+   1.05  Mohamed Abdoul Kader Kone (FC Annecy) | Defensive Midfielder | started 4/5, ~68 min | shots/90 0.9 | xG/90 0.11
+   1.07  Thena Massock (Dunkerque) | Defensive Midfielder | started 4/5, ~63 min | shots/90 1.2 | xG/90 0.11
+   1.13  Adrien Lebeau (Dunkerque) | Attacking Midfielder | started 5/5, ~82 min | shots/90 1.3 | xG/90 0.15
+   1.07  Jordan Morel (Dunkerque) | Defensive Midfielder | started 5/5, ~75 min | shots/90 1.4 | xG/90 0.06
+   1.23  Egor Prutsev (Dunkerque) | Left Winger | started 4/5, ~59 min | shots/90 1.7 | xG/90 0.40
+   1.13  Clement Billemaz (FC Annecy) | Left Midfielder | started 5/5, ~73 min | shots/90 1.9 | xG/90 0.14
+
+######## West Ham vs Queens Park Rangers | Championship | 10/9/2026, 8:00:00 PM ########
+  12 of 38 players on the clean list
+   1.03  Maximilian Kilman (West Ham) | Center Back | started 5/5, ~90 min | shots/90 0.5 | xG/90 0.06 | vs Queens Park Rangers (tight defence, 4/24)
+   1.10  Arne Engels (West Ham) | Central Midfielder | started 5/5, ~89 min | shots/90 0.6 | xG/90 0.02 | vs Queens Park Rangers (tight defence, 4/24)
+   1.03  Jimmy Dunne (Queens Park Rangers) | Center Back | started 5/5, ~84 min | shots/90 0.8 | xG/90 0.05 | vs West Ham United (tight defence, 7/24)
+   1.03  Ronnie Edwards (Queens Park Rangers) | Center Back | started 5/5, ~90 min | shots/90 1.1 | xG/90 0.08 | vs West Ham United (tight defence, 7/24)
+   1.03  Amadou Mbengue (Queens Park Rangers) | Right Back | started 4/5, ~68 min | shots/90 1.2 | xG/90 0.06 | vs West Ham United (tight defence, 7/24)
+   1.16  Divine Mukasa (West Ham) | Attacking Midfielder | started 5/5, ~67 min | shots/90 1.5 | xG/90 0.08 | vs Queens Park Rangers (tight defence, 4/24)
+   1.07  Nicolas Madsen (Queens Park Rangers) | Central Midfielder | started 4/5, ~56 min | shots/90 1.6 | xG/90 0.10 | vs West Ham United (tight defence, 7/24)
+   1.09  Konstantinos Mavropanos (West Ham) | Center Back | started 5/5, ~87 min | shots/90 1.9 | xG/90 0.36 | vs Queens Park Rangers (tight defence, 4/24)
+   1.19  Rumarn Burrell (Queens Park Rangers) | Striker | started 4/5, ~74 min | shots/90 2.3 | xG/90 0.38 | vs West Ham United (tight defence, 7/24)
+   1.10  Harvey Vale (Queens Park Rangers) | Right Midfielder | started 4/5, ~90 min | shots/90 2.8 | xG/90 0.24 | vs West Ham United (tight defence, 7/24)
+   1.36  Jarrod Bowen (West Ham) | Right Winger | started 4/5, ~89 min | shots/90 4.1 | xG/90 0.51 | vs Queens Park Rangers (tight defence, 4/24)
+   1.12  Kwame Poku (Queens Park Rangers) | Right Winger | started 4/5, ~64 min | shots/90 4.7 | xG/90 0.29 | vs West Ham United (tight defence, 7/24)
+
+279 players on the clean list in total.

@@ -1,0 +1,343 @@
+10/10 15:00
+Game ID: 43359
+Won
+Preston North End
+Millwall FC
+Pick
+Jake Cooper (Millwall) @1.06
+Market
+Player Not to Score
+10/10 23:15
+Game ID: 35792
+Won
+CA Tigre
+CA Banfield
+Pick
+Joaquin Laso (Tigre) @1.03
+Market
+Player Not to Score
+10/10 19:45
+Game ID: 42187
+Won
+SV Zulte Waregem
+Gent
+Pick
+Christian Burgess (KAA Gent) @1.04
+Market
+Player Not to Score
+10/10 13:00
+Game ID: 39429
+Ongoing
+Rayo Vallecano
+Athletic Bilbao
+Pick
+Pathe Ciss (Rayo Vallecano) @1.04
+Market
+Player Not to Score
+10/10 14:00
+Game ID: 36629
+Won
+Virtus Entella
+Juve Stabia
+Pick
+Niccolo Squizzato (Virtus Entella) @1.04
+Market
+Player Not to Score
+10/10 15:00
+Game ID: 43776
+Won
+Blackburn Rovers
+Cardiff City
+Pick
+Sam Morsy (Blackburn) @1.08
+Market
+Player Not to Score
+10/10 18:00
+Game ID: 41220
+Won
+Maritimo Madeira
+Porto
+Pick
+Jakub Kiwior (Porto) @1.04
+Market
+Player Not to Score
+10/10 13:00
+Game ID: 27278
+Won
+Nantes
+Reims
+Pick
+Theo Leoni (Reims) @1.03
+Market
+Player Not to Score
+10/10 17:30
+Game ID: 47926
+Void
+Barcelona
+Getafe
+Pick
+Pau Cubarsi (Barcelona) @1.05
+Market
+Player Not to Score
+10/10 19:45
+Game ID: 16571
+Won
+CA Barracas Central
+CA Huracan
+Pick
+Dardo Miloc (Barracas Central) @1.04
+Market
+Player Not to Score
+10/10 12:30
+Game ID: 43304
+Won
+Swansea City
+Norwich
+Pick
+Josh Tymon (Swansea City) @1.03
+Market
+Player Not to Score
+10/10 18:30
+Game ID: 43098
+Won
+SS Arezzo
+US Cremonese
+Pick
+Mattia Sala (SS Arezzo) @1.06
+Market
+Player Not to Score
+10/10 19:00
+Game ID: 26109
+Void
+Fortuna Sittard
+FC Twente Enschede
+Pick
+Jasper Dahlhaus (Fortuna Sittard) @1.05
+Market
+Player Not to Score
+10/10 15:00
+Game ID: 43391
+Won
+Sheffield United
+Lincoln City
+Pick
+Japhet Tanganga (Sheffield United) @1.03
+Market
+Player Not to Score
+10/10 15:15
+Game ID: 41115
+Won
+Alaves
+Atletico Madrid
+Pick
+Antonio Blanco (Alaves) @1.04
+Market
+Player Not to Score
+10/10 13:00
+Game ID: 25144
+Won
+Clermont Foot
+Red Star FC
+Pick
+Jean Grillot (Clermont) @1.03
+Market
+Player Not to Score
+10/10 19:00
+Game ID: 29222
+Void
+Saint-Etienne
+Rodez Aveyron Football
+Pick
+Julien Le Cardinal (Saint-Etienne) @1.08
+Market
+Player Not to Score
+10/10 12:30
+Game ID: 29490
+Won
+Arsenal
+Leeds United
+Pick
+Ethan Ampadu (Leeds) @1.02
+Market
+Player Not to Score
+10/10 12:00
+Game ID: 45374
+Won
+Darmstadt
+Energie Cottbus
+Pick
+Luca Erlein (Energie Cottbus) @1.04
+Market
+Player Not to Score
+10/10 12:00
+Game ID: 48503
+Won
+VfL 1899 Osnabruck
+Dynamo Dresden
+Pick
+Robert Wagner (Dynamo Dresden) @1.08
+Market
+Player Not to Score
+10/10 15:00
+Game ID: 48805
+Won
+Cercle Brugge
+RSC Anderlecht
+Pick
+Valy Konate (Cercle Brugge) @1.05
+Market
+Player Not to Score
+10/10 17:15
+Game ID: 17437
+Won
+RAAL La Louviere
+Club Brugge
+Pick
+Yllan Okou (RAAL La Louviere) @1.03
+Market
+Player Not to Score
+10/10 17:45
+Game ID: 33420
+Won
+Feyenoord
+Alkmaar
+Pick
+Mika Marmol (Feyenoord) @1.04
+Market
+Player Not to Score
+10/10 20:00
+Game ID: 49870
+Won
+Real Madrid
+Villarreal
+Pick
+Sergi Cardona (Villarreal) @1.03
+Market
+Player Not to Score
+10/10 16:15
+Game ID: 41338
+Won
+Lille
+Le Havre
+Pick
+Alexsandro Ribeiro (Lille) @1.05
+Market
+Player Not to Score
+10/10 12:30
+Game ID: 43327
+Won
+West Bromwich Albion
+Birmingham City
+Pick
+Jhon Solis (Birmingham) @1.06
+Market
+Player Not to Score
+10/10 19:45
+Game ID: 44980
+Won
+Monaco
+Toulouse
+Pick
+Lamine Camara (Monaco) @1.06
+Market
+Player Not to Score
+10/10 15:00
+Game ID: 43340
+Won
+Derby County
+Wrexham AFC
+Pick
+Sondre Langas (Derby) @1.04
+Market
+Player Not to Score
+10/10 14:30
+Game ID: 15539
+Won
+Mainz
+Bayer Leverkusen
+Pick
+Fabio Gruber (Mainz) @1.04
+Market
+Player Not to Score
+10/10 14:00
+Game ID: 18377
+Won
+FC Sudtirol Bolzano
+Ascoli Calcio 1898
+Pick
+Andrea Giorgini (Sudtirol) @1.03
+Market
+Player Not to Score
+10/10 19:45
+Game ID: 22786
+Won
+Napoli
+Frosinone
+Pick
+Rafa Marin (Napoli) @1.04
+Market
+Player Not to Score
+10/10 19:45
+Game ID: 51400
+Won
+Brest
+Angers
+Pick
+Gautier Lloris (Brest) @1.03
+Market
+Player Not to Score
+10/10 15:30
+Game ID: 25484
+Lost
+Go Ahead Eagles
+Sparta Rotterdam
+Pick
+Lushendry Martes (Sparta Rotterdam) @1.03
+Market
+Player Not to Score
+10/10 14:00
+Game ID: 16690
+Won
+Benevento Calcio
+Cesena FC
+Pick
+Mattia Maita (Benevento) @1.06
+Market
+Player Not to Score
+10/10 15:00
+Game ID: 43434
+Void
+Watford
+Burnley
+Pick
+Jordan Zemura (Watford) @1.03
+Market
+Player Not to Score
+10/10 15:15
+Game ID: 30559
+Void
+AD Ceuta
+CE Sabadell FC
+Pick
+Anuar (AD Ceuta) @1.06
+Market
+Player Not to Score
+10/10 14:50
+Game ID: 28497
+Won
+Al-Hazm
+Neom SC
+Pick
+Nathan Zeze (Neom SC) @1.04
+Market
+Player Not to Score
+10/10 12:00
+Game ID: 48502
+Won
+1. FC Magdeburg
+Hannover 96
+Pick
+Luka Hyrylainen (Magdeburg) @1.06
+Market
+Player Not to Score
+Number of Bets: 1

@@ -1,0 +1,14 @@
+SHORTLIST from slate.csv | 2026-10-08 06:02
+Only players who started 4 or more of their last 5 club games and have no risk or threat flag.
+Quietest first (lowest shots per 90). A very low number can also mean a small sample, so check the full report.
+This is a filter, not a recommendation.
+
+######## ASC Otelul Galati vs FC Corvinul Hunedoara 1921 | Superliga | 9/21/2026, 4:00:00 PM ########
+  5 of 10 players on the clean list
+   1.03  Giannis Christopoulos (ASC Otelul Galati) | Center Back | started 5/5, ~80 min | shots/90 0.2 | vs Corvinul Hunedoara (tight defence, 3/16)
+   1.04  Habib Sylla (ASC Otelul Galati) | Right Back | started 5/5, ~90 min | shots/90 0.3 | vs Corvinul Hunedoara (tight defence, 3/16)
+   1.02  Mihajlo Ivancevic (CS Corvinul Hunedoara) | Center Back | started 4/5, ~73 min | shots/90 0.7 | vs Oțelul Galați (leaky defence, 11/16)
+   1.04  Flavius Iacob (CS Corvinul Hunedoara) | Right Back | started 5/5, ~90 min | shots/90 0.9 | vs Oțelul Galați (leaky defence, 11/16)
+   1.03  Miguel Silva (ASC Otelul Galati) | Left Back | started 5/5, ~83 min | shots/90 1.1 | vs Corvinul Hunedoara (tight defence, 3/16)
+
+5 players on the clean list in total.

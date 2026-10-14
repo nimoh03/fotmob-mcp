@@ -1,0 +1,154 @@
+10/10 15:00
+Game ID: 43391
+Won
+Sheffield United
+Lincoln City
+Pick
+Over 0.5 @1.05
+Market
+Away Team Total Bookings
+10/10 13:00
+Game ID: 39429
+Ongoing
+Rayo Vallecano
+Athletic Bilbao
+Pick
+Over 0.5 @1.07
+Market
+Home Team Total Bookings
+10/10 15:00
+Game ID: 44078
+Won
+Bolton Wanderers
+Stoke City
+Pick
+Over 0.5 @1.07
+Market
+Away Team Total Bookings
+10/10 19:45
+Game ID: 22786
+Lost
+Napoli
+Frosinone
+Pick
+Over 0.5 @1.11
+Market
+Away Team Total Bookings
+10/10 20:00
+Game ID: 49870
+Won
+Real Madrid
+Villarreal
+Pick
+Over 0.5 @1.04
+Market
+Away Team Total Bookings
+10/10 15:00
+Game ID: 43776
+Lost
+Blackburn Rovers
+Cardiff City
+Pick
+Over 0.5 @1.12
+Market
+Away Team Total Bookings
+10/10 14:30
+Game ID: 49923
+Won
+Union Berlin
+SV 07 Elversberg
+Pick
+Over 0.5 @1.11
+Market
+Home Team Total Bookings
+10/10 15:15
+Game ID: 41115
+Won
+Alaves
+Atletico Madrid
+Pick
+Over 0.5 @1.08
+Market
+Away Team Total Bookings
+10/10 16:15
+Game ID: 41338
+Won
+Lille
+Le Havre
+Pick
+Over 0.5 @1.09
+Market
+Away Team Total Bookings
+10/10 15:00
+Game ID: 29602
+Won
+Chelsea
+Bournemouth
+Pick
+Over 0.5 @1.07
+Market
+Away Team Total Bookings
+10/10 19:45
+Game ID: 45043
+Won
+PSG
+Le Mans FC
+Pick
+Over 0.5 @1.15
+Market
+Away Team Total Bookings
+10/10 15:00
+Game ID: 43341
+Won
+Middlesbrough FC
+Wolves
+Pick
+Over 0.5 @1.13
+Market
+Away Team Total Bookings
+10/10 19:45
+Game ID: 51400
+Won
+Brest
+Angers
+Pick
+Over 0.5 @1.18
+Market
+Home Team Total Bookings
+10/10 14:30
+Game ID: 51398
+Lost
+Hoffenheim
+Hamburger SV
+Pick
+Over 0.5 @1.07
+Market
+Away Team Total Bookings
+10/10 17:30
+Game ID: 41630
+Won
+RB Leipzig
+Eintracht Frankfurt
+Pick
+Over 0.5 @1.13
+Market
+Away Team Total Bookings
+10/10 15:00
+Game ID: 43340
+Won
+Derby County
+Wrexham AFC
+Pick
+Over 0.5 @1.10
+Market
+Home Team Total Bookings
+10/10 14:30
+Game ID: 51399
+Won
+Augsburg
+Bayern Munich
+Pick
+Over 0.5 @1.20
+Market
+Home Team Total Bookings
+Number of Bets: 1

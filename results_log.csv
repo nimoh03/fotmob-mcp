@@ -1,0 +1,72 @@
+﻿date,slip,game_id,market,match,pick,odds,grade,sportybet,fotmob,detail,p_implied,p_model,p_w15,tags,model,fm_id
+2026-10-10,slip_nts,43359,Player Not to Score,Preston North End vs Millwall FC,Jake Cooper (Millwall),1.06,W,W,W,no goal,0.9434,,,nts,xG/90 0.03 | flags: none,5836855
+2026-10-10,slip_nts,35792,Player Not to Score,CA Tigre vs CA Banfield,Joaquin Laso (Tigre),1.03,W,W,W,no goal,0.9709,,,nts,xG/90 0.01 | flags: none,1000019567
+2026-10-10,slip_nts,42187,Player Not to Score,SV Zulte Waregem vs Gent,Christian Burgess (KAA Gent),1.04,W,W,W,no goal,0.9615,,,nts,xG/90 0.05 | flags: none,5811780
+2026-10-10,slip_nts,36629,Player Not to Score,Virtus Entella vs Juve Stabia,Niccolo Squizzato (Virtus Entella),1.04,W,W,W,no goal,0.9615,,,nts,xG/90 0.03 | flags: none,5967094
+2026-10-10,slip_nts,43776,Player Not to Score,Blackburn Rovers vs Cardiff City,Sam Morsy (Blackburn),1.08,W,W,W,no goal,0.9259,,,nts,xG/90 0.03 | flags: none,5836850
+2026-10-10,slip_nts,41220,Player Not to Score,Maritimo Madeira vs Porto,Jakub Kiwior (Porto),1.04,W,W,W,no goal,0.9615,,,nts|attack_minded,xG/90 0.06 | flags: attack_minded,5887650
+2026-10-10,slip_nts,27278,Player Not to Score,Nantes vs Reims,Theo Leoni (Reims),1.03,W,W,W,no goal,0.9709,,,nts|attack_minded,xG/90 0.05 | flags: attack_minded,5803277
+2026-10-10,slip_nts,47926,Player Not to Score,Barcelona vs Getafe,Pau Cubarsi (Barcelona),1.05,V,V,W,no goal,0.9524,,,nts,xG/90 0.02 | flags: none,5868084
+2026-10-10,slip_nts,16571,Player Not to Score,CA Barracas Central vs CA Huracan,Dardo Miloc (Barracas Central),1.04,W,W,W,no goal,0.9615,,,nts,xG/90 0.01 | flags: none,1000019570
+2026-10-10,slip_nts,43304,Player Not to Score,Swansea City vs Norwich,Josh Tymon (Swansea City),1.03,W,W,W,no goal,0.9709,,,nts|attack_minded,xG/90 0.02 | flags: attack_minded,5836858
+2026-10-10,slip_nts,43098,Player Not to Score,SS Arezzo vs US Cremonese,Mattia Sala (SS Arezzo),1.06,W,W,W,no goal,0.9434,,,nts,xG/90 0.10 | flags: none,5967089
+2026-10-10,slip_nts,26109,Player Not to Score,Fortuna Sittard vs FC Twente Enschede,Jasper Dahlhaus (Fortuna Sittard),1.05,V,V,W,no goal,0.9524,,,nts,xG/90 0.02 | flags: none,5781767
+2026-10-10,slip_nts,43391,Player Not to Score,Sheffield United vs Lincoln City,Japhet Tanganga (Sheffield United),1.03,W,W,W,no goal,0.9709,,,nts,xG/90 0.03 | flags: none,5836856
+2026-10-10,slip_nts,41115,Player Not to Score,Alaves vs Atletico Madrid,Antonio Blanco (Alaves),1.04,W,W,W,no goal,0.9615,,,nts,xG/90 0.03 | flags: none,5868081
+2026-10-10,slip_nts,25144,Player Not to Score,Clermont Foot vs Red Star FC,Jean Grillot (Clermont),1.03,W,W,W,no goal,0.9709,,,nts,xG/90 ? | flags: none,5803272
+2026-10-10,slip_nts,29222,Player Not to Score,Saint-Etienne vs Rodez Aveyron Football,Julien Le Cardinal (Saint-Etienne),1.08,V,V,W,no goal,0.9259,,,nts,xG/90 0.13 | flags: none,5803280
+2026-10-10,slip_nts,29490,Player Not to Score,Arsenal vs Leeds United,Ethan Ampadu (Leeds),1.02,W,W,W,no goal,0.9804,,,nts,xG/90 0.07 | flags: none,5795465
+2026-10-10,slip_nts,45374,Player Not to Score,Darmstadt vs Energie Cottbus,Luca Erlein (Energie Cottbus),1.04,W,W,W,no goal,0.9615,,,nts,xG/90 ? | flags: none,5881683
+2026-10-10,slip_nts,48503,Player Not to Score,VfL 1899 Osnabruck vs Dynamo Dresden,Robert Wagner (Dynamo Dresden),1.08,W,W,W,no goal,0.9259,,,nts,xG/90 0.08 | flags: none,5881689
+2026-10-10,slip_nts,48805,Player Not to Score,Cercle Brugge vs RSC Anderlecht,Valy Konate (Cercle Brugge),1.05,W,W,W,no goal,0.9524,,,nts,xG/90 0.03 | flags: none,5811774
+2026-10-10,slip_nts,17437,Player Not to Score,RAAL La Louviere vs Club Brugge,Yllan Okou (RAAL La Louviere),1.03,W,W,W,no goal,0.9709,,,nts,xG/90 0.02 | flags: none,5811777
+2026-10-10,slip_nts,33420,Player Not to Score,Feyenoord vs Alkmaar,Mika Marmol (Feyenoord),1.04,W,W,W,no goal,0.9615,,,nts|attack_minded,xG/90 0.06 | flags: attack_minded,5781759
+2026-10-10,slip_nts,49870,Player Not to Score,Real Madrid vs Villarreal,Sergi Cardona (Villarreal),1.03,W,W,W,no goal,0.9709,,,nts,xG/90 0.05 | flags: none,5868089
+2026-10-10,slip_nts,41338,Player Not to Score,Lille vs Le Havre,Alexsandro Ribeiro (Lille),1.05,W,W,W,no goal,0.9524,,,nts,xG/90 0.06 | flags: none,5802948
+2026-10-10,slip_nts,43327,Player Not to Score,West Bromwich Albion vs Birmingham City,Jhon Solis (Birmingham),1.06,W,W,W,no goal,0.9434,,,nts,xG/90 0.12 | flags: none,5836860
+2026-10-10,slip_nts,44980,Player Not to Score,Monaco vs Toulouse,Lamine Camara (Monaco),1.06,W,W,W,no goal,0.9434,,,nts,xG/90 0.10 | flags: none,5802950
+2026-10-10,slip_nts,43340,Player Not to Score,Derby County vs Wrexham AFC,Sondre Langas (Derby),1.04,W,W,W,no goal,0.9615,,,nts,xG/90 0.11 | flags: none,5836853
+2026-10-10,slip_nts,15539,Player Not to Score,Mainz vs Bayer Leverkusen,Fabio Gruber (Mainz),1.04,W,W,W,no goal,0.9615,,,nts,xG/90 0.08 | flags: none,5881184
+2026-10-10,slip_nts,18377,Player Not to Score,FC Sudtirol Bolzano vs Ascoli Calcio 1898,Andrea Giorgini (Sudtirol),1.03,W,W,W,no goal,0.9709,,,nts,xG/90 0.04 | flags: none,5967098
+2026-10-10,slip_nts,22786,Player Not to Score,Napoli vs Frosinone,Rafa Marin (Napoli),1.04,W,W,W,no goal,0.9615,,,nts,xG/90 0.02 | flags: none,5749697
+2026-10-10,slip_nts,51400,Player Not to Score,Brest vs Angers,Gautier Lloris (Brest),1.03,W,W,W,no goal,0.9709,,,nts,xG/90 0.03 | flags: none,5802946
+2026-10-10,slip_nts,25484,Player Not to Score,Go Ahead Eagles vs Sparta Rotterdam,Lushendry Martes (Sparta Rotterdam),1.03,L,L,W,no goal,0.9709,,,nts,xG/90 0.02 | flags: none,5781765
+2026-10-10,slip_nts,16690,Player Not to Score,Benevento Calcio vs Cesena FC,Mattia Maita (Benevento),1.06,W,W,W,no goal,0.9434,,,nts,xG/90 0.05 | flags: none,5967091
+2026-10-10,slip_nts,43434,Player Not to Score,Watford vs Burnley,Jordan Zemura (Watford),1.03,V,V,W,no goal,0.9709,,,nts,xG/90 0.04 | flags: none,5836859
+2026-10-10,slip_nts,30559,Player Not to Score,AD Ceuta vs CE Sabadell FC,Anuar (AD Ceuta),1.06,V,V,W,no goal,0.9434,,,nts,xG/90 0.03 | flags: none,5868486
+2026-10-10,slip_nts,28497,Player Not to Score,Al-Hazm vs Neom SC,Nathan Zeze (Neom SC),1.04,W,W,,(match not found on FotMob),0.9615,,,nts|attack_minded,xG/90 0.14 | flags: attack_minded,
+2026-10-10,slip_nts,48502,Player Not to Score,1. FC Magdeburg vs Hannover 96,Luka Hyrylainen (Magdeburg),1.06,W,W,W,no goal,0.9434,,,nts,xG/90 0.02 | flags: none,5881686
+2026-10-10,slip_cards,43391,Away Team Total Bookings,Sheffield United vs Lincoln City,Over 0.5,1.05,W,W,W,"cards 26'Y, 67'Y, 76'Y",0.9524,0.9654,0.91,cards|perfect_streak|no_edge_w15,10/10 cards/g 2.4 | ref Josh Smith (3g) | smoothed w3 96.5% w15 91.0% | price 95.2%,5836856
+2026-10-10,slip_cards,44078,Away Team Total Bookings,Bolton Wanderers vs Stoke City,Over 0.5,1.07,W,W,W,"cards 20'R, 34'Y",0.9346,0.9654,0.91,cards|perfect_streak|ref_thin|no_edge_w15,10/10 cards/g 2.3 | ref Thomas Kirk (0g) | smoothed w3 96.5% w15 91.0% | price 93.5%,5836851
+2026-10-10,slip_cards,22786,Away Team Total Bookings,Napoli vs Frosinone,Over 0.5,1.11,L,L,L,0 cards,0.9009,0.955,0.8977,cards|perfect_streak|ref_thin|no_edge_w15,7/7 cards/g 2.14 | ref Ermanno Feliciani (1g) | smoothed w3 95.5% w15 89.8% | price 90.1%,5749697
+2026-10-10,slip_cards,49870,Away Team Total Bookings,Real Madrid vs Villarreal,Over 0.5,1.04,W,W,W,"cards 10'Y, 84'Y",0.9615,0.9591,0.9022,cards|perfect_streak|no_edge_w15,8/8 cards/g 1.88 | ref Isidro Díaz de Mera Escuderos (3g) | smoothed w3 95.9% w15 90.2% | price 96.2%,5868089
+2026-10-10,slip_cards,43776,Away Team Total Bookings,Blackburn Rovers vs Cardiff City,Over 0.5,1.12,L,L,L,0 cards,0.8929,0.9654,0.91,cards|perfect_streak,10/10 cards/g 2.2 | ref Anthony Backhouse (5g) | smoothed w3 96.5% w15 91.0% | price 89.3%,5836850
+2026-10-10,slip_cards,49923,Home Team Total Bookings,Union Berlin vs SV 07 Elversberg,Over 0.5,1.11,W,W,W,"cards 7'Y, 21'Y",0.9009,0.9437,0.8875,cards|small_sample|perfect_streak|ref_thin|no_edge_w15,5/5 cards/g 2.6 | ref Tobias Reichel (1g) | smoothed w3 94.4% w15 88.8% | price 90.1%,5881187
+2026-10-10,slip_cards,41115,Away Team Total Bookings,Alaves vs Atletico Madrid,Over 0.5,1.08,W,W,W,"cards 45'Y, 90'Y",0.9259,0.9591,0.9022,cards|perfect_streak|ref_thin|no_edge_w15,8/8 cards/g 1.75 | ref Alejandro Quintero González (2g) | smoothed w3 95.9% w15 90.2% | price 92.6%,5868081
+2026-10-10,slip_cards,41338,Away Team Total Bookings,Lille vs Le Havre,Over 0.5,1.09,W,W,W,"cards 61'R, 63'Y, 76'Y",0.9174,0.9437,0.8875,cards|small_sample|perfect_streak|ref_thin|no_edge_w15,5/5 cards/g 1.8 | ref Bastien Dechepy (1g) | smoothed w3 94.4% w15 88.8% | price 91.7%,5802948
+2026-10-10,slip_cards,29602,Away Team Total Bookings,Chelsea vs Bournemouth,Over 0.5,1.07,W,W,W,"cards 10'Y, 42'Y, 62'Y, 69'Y",0.9346,0.955,0.8977,cards|perfect_streak|no_edge_w15,7/7 cards/g 2.71 | ref Samuel Barrott (4g) | smoothed w3 95.5% w15 89.8% | price 93.5%,5795467
+2026-10-10,slip_cards,45043,Away Team Total Bookings,PSG vs Le Mans FC,Over 0.5,1.15,W,W,W,"cards 47'Y, 65'Y, 90'Y",0.8696,0.9437,0.8875,cards|small_sample|perfect_streak|ref_thin,5/5 cards/g 2.2 | ref Mathieu Vernice (1g) | smoothed w3 94.4% w15 88.8% | price 87.0%,5802952
+2026-10-10,slip_cards,43341,Away Team Total Bookings,Middlesbrough FC vs Wolves,Over 0.5,1.13,W,W,W,"cards 12'Y, 53'Y, 66'Y",0.885,0.9654,0.91,cards|perfect_streak,10/10 cards/g 1.1 | ref Farai Hallam (6g) | smoothed w3 96.5% w15 91.0% | price 88.5%,5836854
+2026-10-10,slip_cards,51400,Home Team Total Bookings,Brest vs Angers,Over 0.5,1.18,W,W,W,cards 15'Y,0.8475,0.9437,0.8875,cards|small_sample|perfect_streak,5/5 cards/g 1.2 | ref Eric Wattellier (3g) | smoothed w3 94.4% w15 88.8% | price 84.7%,5802946
+2026-10-10,slip_cards,51398,Away Team Total Bookings,Hoffenheim vs Hamburger SV,Over 0.5,1.07,L,L,L,0 cards,0.9346,0.9437,0.8875,cards|small_sample|perfect_streak|ref_thin|no_edge_w15,5/5 cards/g 1.4 | ref Harm Osmers (1g) | smoothed w3 94.4% w15 88.8% | price 93.5%,5881183
+2026-10-10,slip_cards,41630,Away Team Total Bookings,RB Leipzig vs Eintracht Frankfurt,Over 0.5,1.13,W,W,W,"cards 62'Y, 76'Y, 84'Y",0.885,0.9437,0.8875,cards|small_sample|perfect_streak|ref_thin,5/5 cards/g 2.0 | ref Daniel Siebert (1g) | smoothed w3 94.4% w15 88.8% | price 88.5%,5881186
+2026-10-10,slip_cards,43340,Home Team Total Bookings,Derby County vs Wrexham AFC,Over 0.5,1.1,W,W,W,"cards 5'Y, 52'Y, 74'Y",0.9091,0.8792,0.8646,cards|no_edge_w15,8/9 cards/g 2.11 | ref Matt Donohue (3g) | smoothed w3 87.9% w15 86.5% | price 90.9%,5836853
+2026-10-10,slip_cards,51399,Home Team Total Bookings,Augsburg vs Bayern Munich,Over 0.5,1.2,W,W,,(match not found on FotMob),0.8333,0.9437,0.8875,cards|small_sample|perfect_streak,5/5 cards/g 1.6 | ref Sven Jablonski (3g) | smoothed w3 94.4% w15 88.8% | price 83.3%,
+2026-10-10,slip_five,14466,1X2 from 1 to 5 minute,Defensor Sporting vs CA Cerro,Draw,1.07,W,W,W,0-0 after 5,0.9346,,,five_draw,,6366090
+2026-10-10,slip_five,42187,Total Goals Over/Under from 1 to 5 minute,SV Zulte Waregem vs Gent,Under 0.5,1.11,W,W,W,no goal in 1-5,0.9009,,,five_under,,5811780
+2026-10-10,slip_five,26529,1X2 from 1 to 5 minute,CA Penarol Montevideo vs CA Progreso,Draw,1.09,W,W,W,0-0 after 5,0.9174,,,five_draw,,6366092
+2026-10-10,slip_five,39156,1X2 from 1 to 5 minute,East Kilbride FC vs Airdrieonians FC,Draw,1.1,W,W,W,0-0 after 5,0.9091,,,five_draw,,5794560
+2026-10-10,slip_five,16571,Total Goals Over/Under from 1 to 5 minute,CA Barracas Central vs CA Huracan,Under 0.5,1.06,W,W,W,no goal in 1-5,0.9434,,,five_under,,1000019570
+2026-10-10,slip_five,42152,Total Goals Over/Under from 1 to 5 minute,Genk vs KV Kortrijk,Under 0.5,1.14,L,L,L,goal at 3',0.8772,,,five_under,,5811775
+2026-10-10,slip_five,14817,Total Goals Over/Under from 1 to 5 minute,Arbroath FC vs Greenock Morton FC,Under 0.5,1.09,W,W,W,no goal in 1-5,0.9174,,,five_under,,5794338
+2026-10-10,slip_five,19276,1X2 from 1 to 5 minute,Montevideo Wanderers vs CA Boston River,Draw,1.08,W,W,W,0-0 after 5,0.9259,,,five_draw,,6366094
+2026-10-10,slip_five,35655,Total Goals Over/Under from 1 to 5 minute,Jagiellonia Bialystok vs Gornik Zabrze,Under 0.5,1.12,W,W,W,no goal in 1-5,0.8929,,,five_under,,5803996
+2026-10-10,slip_five,35792,Total Goals Over/Under from 1 to 5 minute,CA Tigre vs CA Banfield,Under 0.5,1.08,W,W,W,no goal in 1-5 (goal at [6]' - check 5th-minute rule),0.9259,,,five_under,,1000019567
+2026-10-10,slip_five,35490,Total Goals Over/Under from 1 to 5 minute,Huachipato vs CD O'Higgins,Under 0.5,1.12,W,W,W,no goal in 1-5,0.8929,,,five_under,,1000013242
+2026-10-10,slip_five,18280,Total Goals Over/Under from 1 to 5 minute,Genoa vs Fiorentina,Under 0.5,1.11,W,W,W,no goal in 1-5,0.9009,,,five_under,,5749693
+2026-10-10,slip_five,37907,Total Goals Over/Under from 1 to 5 minute,Shrewsbury Town vs Exeter City,Under 0.5,1.09,W,W,W,no goal in 1-5,0.9174,,,five_under,,5837975
+2026-10-10,slip_five,36666,Total Goals Over/Under from 1 to 5 minute,Inverness Caledonian Thistle FC vs Stenhousemuir FC,Under 0.5,1.09,W,W,W,no goal in 1-5,0.9174,,,five_under,,5794340
+2026-10-10,slip_five,29756,Total Goals Over/Under from 1 to 5 minute,KS Cracovia Krakow vs Zaglebie Lubin,Under 0.5,1.1,W,W,W,no goal in 1-5,0.9091,,,five_under,,5803995
+2026-10-10,slip_five,48578,Total Goals Over/Under from 1 to 5 minute,Avispa Fukuoka vs Fagiano Okayama,Under 0.5,1.09,W,W,W,no goal in 1-5,0.9174,,,five_under,,5803598
+2026-10-10,slip_five,17437,Total Goals Over/Under from 1 to 5 minute,RAAL La Louviere vs Club Brugge,Under 0.5,1.14,W,W,W,no goal in 1-5,0.8772,,,five_under,,5811777
+2026-10-10,slip_five,22786,Total Goals Over/Under from 1 to 5 minute,Napoli vs Frosinone,Under 0.5,1.14,W,W,W,no goal in 1-5,0.8772,,,five_under,,5749697

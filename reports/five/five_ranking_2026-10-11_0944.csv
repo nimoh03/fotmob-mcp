@@ -1,0 +1,117 @@
+rank,kickoff_utc,competition,home,away,draw_odds,needs,ours_no_goal,edge_pts,market_rank,flags,result
+1,2026-10-10T15:00:00+00:00, / ,Defensor Sporting,CA Cerro,1.07,0.935,0.949,1.4,2,,no goal in 5
+2,2026-10-10T15:00:00+00:00, / ,East Kilbride FC,Airdrieonians FC,1.1,0.909,0.948,3.9,59,,no goal in 5
+3,2026-10-10T22:30:00+00:00, / ,CA Penarol Montevideo,CA Progreso,1.09,0.917,0.946,2.8,33,,no goal in 5
+4,2026-10-10T15:00:00+00:00, / ,Arbroath FC,Greenock Morton FC,1.08,0.926,0.944,1.8,10,,no goal in 5
+5,2026-10-10T19:45:00+00:00, / ,CA Barracas Central,CA Huracan,1.05,0.952,0.944,-0.9,1,,no goal in 5
+6,2026-10-10T19:45:00+00:00, / ,SV Zulte Waregem,Gent,1.09,0.917,0.942,2.5,31,,no goal in 5
+7,2026-10-10T15:00:00+00:00, / ,Inverness Caledonian Thistle FC,Stenhousemuir FC,1.08,0.926,0.941,1.5,12,,no goal in 5
+8,2026-10-10T14:00:00+00:00, / ,Genoa,Fiorentina,1.09,0.917,0.941,2.3,20,,no goal in 5
+9,2026-10-10T21:30:00+00:00, / ,Huachipato,CD O'Higgins,1.09,0.917,0.940,2.3,32,,no goal in 5
+10,2026-10-10T19:15:00+00:00, / ,Jagiellonia Bialystok,Gornik Zabrze,1.1,0.909,0.940,3.1,69,,no goal in 5
+11,2026-10-10T15:00:00+00:00, / ,Doncaster Rovers,Burton Albion,1.1,0.909,0.938,2.9,49,,no goal in 5
+12,2026-10-10T23:15:00+00:00, / ,CA Tigre,CA Banfield,1.07,0.935,0.938,0.4,5,,no goal in 5
+13,2026-10-10T15:00:00+00:00, / ,Shrewsbury Town,Exeter City,1.08,0.926,0.936,1.0,9,,no goal in 5
+14,2026-10-10T19:00:00+00:00, / ,Montevideo Wanderers,CA Boston River,1.08,0.926,0.935,0.9,13,,no goal in 5
+15,2026-10-10T13:45:00+00:00, / ,KS Cracovia Krakow,Zaglebie Lubin,1.09,0.917,0.935,1.7,18,,no goal in 5
+16,2026-10-10T07:00:00+00:00, / ,Avispa Fukuoka,Fagiano Okayama,1.08,0.926,0.934,0.9,6,,no goal in 5
+17,2026-10-10T15:00:00+00:00, / ,Raith Rovers FC,Queens Park FC,1.09,0.917,0.933,1.6,29,,no goal in 5
+18,2026-10-10T12:30:00+00:00, / ,Notts County,Oxford United,1.09,0.917,0.933,1.5,17,,no goal in 5
+19,2026-10-10T15:00:00+00:00, / ,Stevenage FC,Wigan Athletic,1.08,0.926,0.933,0.7,8,,no goal in 5
+20,2026-10-10T15:00:00+00:00, / ,Ayr United FC,Dunfermline Athletic FC,1.08,0.926,0.933,0.7,11,,no goal in 5
+21,2026-10-10T15:00:00+00:00, / ,Alloa Athletic FC,Hamilton Academical FC,1.1,0.909,0.931,2.2,58,,no goal in 5
+22,2026-10-10T17:15:00+00:00, / ,RAAL La Louviere,Club Brugge,1.13,0.885,0.931,4.6,105,"WE LIKE IT, THE MARKET DOESN'T",no goal in 5
+23,2026-10-10T22:00:00+00:00, / ,CR Vasco da Gama RJ,Clube do Remo PA,1.12,0.893,0.928,3.5,101,"WE LIKE IT, THE MARKET DOESN'T",no goal in 5
+24,2026-10-10T15:00:00+00:00, / ,Cove Rangers FC,East Fife FC,1.09,0.917,0.928,1.0,30,,no goal in 5
+25,2026-10-10T14:00:00+00:00, / ,FC Zbrojovka Brno,FK Jablonec,1.09,0.917,0.927,0.9,19,,no goal in 5
+26,2026-10-10T19:45:00+00:00, / ,Genk,KV Kortrijk,1.12,0.893,0.925,3.2,100,"WE LIKE IT, THE MARKET DOESN'T",goal in 5
+27,2026-10-10T15:00:00+00:00, / ,Bradford City FC,Leyton Orient London,1.09,0.917,0.924,0.7,24,,no goal in 5
+28,2026-10-10T15:00:00+00:00, / ,Wycombe Wanderers,Luton,1.11,0.901,0.924,2.3,83,"WE LIKE IT, THE MARKET DOESN'T",no goal in 5
+29,2026-10-10T15:00:00+00:00, / ,Fleetwood Town,Walsall FC,1.1,0.909,0.923,1.4,54,,no goal in 5
+30,2026-10-10T17:15:00+00:00, / ,Hapoel Petah Tikva FC,Maccabi Netanya FC,1.1,0.909,0.923,1.4,64,,no goal in 5
+31,2026-10-10T15:00:00+00:00, / ,York City FC,Northampton Town,1.1,0.909,0.923,1.4,55,,no goal in 5
+32,2026-10-10T15:00:00+00:00, / ,Peterhead FC,Queen of the South FC,1.1,0.909,0.923,1.3,60,,no goal in 5
+33,2026-10-10T19:00:00+00:00, / ,Cobresal,Universidad de Concepcion,1.1,0.909,0.922,1.3,67,,no goal in 5
+34,2026-10-10T19:00:00+00:00, / ,Fortuna Sittard,FC Twente Enschede,1.14,0.877,0.922,4.5,111,"WE LIKE IT, THE MARKET DOESN'T",no goal in 5
+35,2026-10-10T15:00:00+00:00, / ,Huddersfield,Sheffield Wednesday,1.11,0.901,0.922,2.1,82,"WE LIKE IT, THE MARKET DOESN'T",no goal in 5
+36,2026-10-10T15:00:00+00:00, / ,Mansfield Town,Bromley FC,1.1,0.909,0.922,1.3,50,,no goal in 5
+37,2026-10-10T17:15:00+00:00, / ,Hapoel Ironi Kiryat Shmona FC,Hapoel Tel Aviv FC,1.1,0.909,0.920,1.1,63,,no goal in 5
+38,2026-10-10T15:00:00+00:00, / ,Cercle Brugge,RSC Anderlecht,1.11,0.901,0.920,1.9,79,"WE LIKE IT, THE MARKET DOESN'T",no goal in 5
+39,2026-10-10T15:00:00+00:00, / ,Leicester,Peterborough United,1.14,0.877,0.919,4.1,107,,no goal in 5
+40,2026-10-10T15:00:00+00:00, / ,Rotherham United,Gillingham FC,1.09,0.917,0.918,0.1,27,,no goal in 5
+41,2026-10-10T15:00:00+00:00, / ,Cambridge United,Blackpool FC,1.1,0.909,0.918,0.9,48,,no goal in 5
+42,2026-10-10T16:30:00+00:00, / ,WKS Slask Wroclaw,KKS Lech Poznan,1.12,0.893,0.917,2.5,96,,no goal in 5
+43,2026-10-10T15:00:00+00:00, / ,Livingston FC,Partick Thistle FC,1.1,0.909,0.916,0.6,57,,no goal in 5
+44,2026-10-10T17:15:00+00:00, / ,Flint Town United,Colwyn Bay,1.1,0.909,0.915,0.6,65,,no goal in 5
+45,2026-10-10T17:00:00+00:00, / ,Ironi Tiberias,Hapoel Be`er Sheva FC,1.11,0.901,0.915,1.4,91,,no goal in 5
+46,2026-10-10T17:00:00+00:00, / ,Bohemians Prague 1905,FC Banik Ostrava,1.1,0.909,0.915,0.5,62,,no goal in 5
+47,2026-10-10T14:00:00+00:00, / ,FC Hradec Kralove,SK Artis Brno,1.1,0.909,0.914,0.5,44,,no goal in 5
+48,2026-10-10T17:45:00+00:00, / ,Feyenoord,Alkmaar,1.14,0.877,0.913,3.6,110,,no goal in 5
+49,2026-10-10T15:00:00+00:00, / ,Cheltenham Town,Salford City,1.1,0.909,0.913,0.4,53,,no goal in 5
+50,2026-10-10T06:00:00+00:00, / ,Cerezo Osaka,Yokohama F Marinos,1.11,0.901,0.912,1.1,73,,no goal in 5
+51,2026-10-10T04:00:00+00:00, / ,Tigres UANL,Deportivo Toluca FC,1.1,0.909,0.912,0.3,34,,no goal in 5
+52,2026-10-10T11:00:00+00:00, / ,Kyoto Sanga FC,Machida Zelvia,1.1,0.909,0.911,0.2,37,,no goal in 5
+53,2026-10-10T15:00:00+00:00, / ,Montrose FC,Ross County FC,1.11,0.901,0.911,1.0,87,,no goal in 5
+54,2026-10-10T15:00:00+00:00, / ,Tranmere Rovers FC,Rochdale AFC,1.09,0.917,0.910,-0.7,28,,no goal in 5
+55,2026-10-10T15:00:00+00:00, / ,Stockport County FC,Barnsley FC,1.13,0.885,0.909,2.4,103,,no goal in 5
+56,2026-10-10T12:30:00+00:00, / ,Plymouth Argyle,AFC Wimbledon,1.1,0.909,0.909,-0.0,40,,no goal in 5
+57,2026-10-10T15:00:00+00:00, / ,Milton Keynes Dons,Reading FC,1.1,0.909,0.909,-0.0,51,,no goal in 5
+58,2026-10-10T07:00:00+00:00, / ,FC Tokyo,Urawa Red Diamonds,1.11,0.901,0.909,0.8,74,,no goal in 5
+59,2026-10-10T06:00:00+00:00, / ,FC Seoul,Jeju SK FC,1.1,0.909,0.908,-0.1,35,,no goal in 5
+60,2026-10-10T21:30:00+00:00, / ,Deportivo Pereira FC SA,Deportivo Cali,1.08,0.926,0.908,-1.8,14,,no goal in 5
+61,2026-10-10T15:00:00+00:00, / ,Newport County,Colchester United,1.09,0.917,0.907,-1.0,25,,no goal in 5
+62,2026-10-10T15:00:00+00:00, / ,Port Vale,Grimsby Town,1.09,0.917,0.907,-1.1,26,,no goal in 5
+63,2026-10-10T17:30:00+00:00, / ,Asteras Tripolis,Atromitos Athinon,1.07,0.935,0.906,-2.8,3,,goal in 5
+64,2026-10-10T14:00:00+00:00, / ,GAIS,IK Sirius,1.11,0.901,0.904,0.3,77,,no goal in 5
+65,2026-10-10T17:30:00+00:00, / ,AEK Athens,OFI Crete,1.12,0.893,0.904,1.1,97,,no goal in 5
+66,2026-10-10T16:00:00+00:00, / ,WSG Tirol,SV Ried,1.11,0.901,0.901,0.0,88,,no goal in 5
+67,2026-10-10T12:30:00+00:00, / ,Swindon Town,Crewe Alexandra,1.1,0.909,0.899,-1.0,42,,no goal in 5
+68,2026-10-10T19:45:00+00:00, / ,Lorient,Paris FC,1.1,0.909,0.899,-1.0,71,,no goal in 5
+69,2026-10-10T19:00:00+00:00, / ,Asociacion Deportiva Tarma,FC Cajamarca,1.1,0.909,0.898,-1.1,68,,no goal in 5
+70,2026-10-10T15:00:00+00:00, / ,Dundee United,Hibernian FC,1.11,0.901,0.898,-0.3,86,,no goal in 5
+71,2026-10-10T15:00:00+00:00, / ,Crawley Town,Chesterfield FC,1.11,0.901,0.897,-0.4,84,,no goal in 5
+72,2026-10-10T12:35:00+00:00, / ,Chengdu Rongcheng,Tianjin Jinmen Tiger,1.11,0.901,0.893,-0.8,76,,no goal in 5
+73,2026-10-10T18:30:00+00:00, / ,FK Austria Wien,Sturm Graz,1.11,0.901,0.893,-0.8,93,,no goal in 5
+74,2026-10-10T12:30:00+00:00, / ,Charlton Athletic,Bristol City,1.09,0.917,0.892,-2.5,15,,no goal in 5
+75,2026-10-10T20:30:00+00:00, / ,Casa Pia Lisbon,Santa Clara Azores,1.07,0.935,0.891,-4.4,4,,no goal in 5
+76,2026-10-10T14:00:00+00:00, / ,Ostersunds FK,Varbergs BoIS,1.09,0.917,0.890,-2.7,21,,no goal in 5
+77,2026-10-10T15:30:00+00:00, / ,Go Ahead Eagles,Sparta Rotterdam,1.14,0.877,0.890,1.3,108,,no goal in 5
+78,2026-10-10T12:00:00+00:00, / ,Landskrona BoIS,Sandvikens IF,1.11,0.901,0.890,-1.1,75,,no goal in 5
+79,2026-10-10T12:30:00+00:00, / ,Oldham Athletic,Accrington Stanley,1.1,0.909,0.890,-1.9,41,,no goal in 5
+80,2026-10-10T16:00:00+00:00, / ,Grazer AK 1902,Salzburg,1.12,0.893,0.889,-0.4,95,,no goal in 5
+81,2026-10-10T13:00:00+00:00, / ,Rayo Vallecano,Athletic Bilbao,1.1,0.909,0.889,-2.0,43,,
+82,2026-10-10T17:30:00+00:00, / ,Maccabi Tel Aviv FC,Bnei Sakhnin FC,1.13,0.885,0.887,0.2,106,,no goal in 5
+83,2026-10-10T16:00:00+00:00, / ,IK Oddevold,United IK Nordic,1.11,0.901,0.886,-1.5,89,,no goal in 5
+84,2026-10-10T19:45:00+00:00, / ,Brest,Angers,1.1,0.909,0.882,-2.7,70,,no goal in 5
+85,2026-10-10T08:30:00+00:00, / ,Gimcheon Sangmu FC,FC Anyang,1.1,0.909,0.881,-2.8,36,"MARKET LIKES IT, WE DON'T",no goal in 5
+86,2026-10-10T14:00:00+00:00, / ,Viktoria Plzen,FK Mlada Boleslav,1.13,0.885,0.881,-0.4,102,,goal in 5
+87,2026-10-10T14:00:00+00:00, / ,Alanyaspor,Erzurumspor FK,1.08,0.926,0.880,-4.6,7,"MARKET LIKES IT, WE DON'T",no goal in 5
+88,2026-10-10T12:30:00+00:00, / ,West Bromwich Albion,Birmingham City,1.09,0.917,0.880,-3.8,16,"MARKET LIKES IT, WE DON'T",no goal in 5
+89,2026-10-10T15:00:00+00:00, / ,Falkirk FC,Dundee FC,1.1,0.909,0.879,-3.0,56,,no goal in 5
+90,2026-10-10T15:00:00+00:00, / ,Bristol Rovers,Barnet FC,1.1,0.909,0.877,-3.3,52,,goal in 5
+91,2026-10-10T15:00:00+00:00, / ,Preston North End,Millwall FC,1.1,0.909,0.875,-3.4,46,,no goal in 5
+92,2026-10-10T20:00:00+00:00, / ,Ajax,NEC Nijmegen,1.15,0.870,0.874,0.5,113,MARKET SEES AN OPEN GAME (draw price 1.15+),no goal in 5
+93,2026-10-10T15:00:00+00:00, / ,Watford,Burnley,1.1,0.909,0.874,-3.6,47,,no goal in 5
+94,2026-10-10T15:00:00+00:00, / ,Sheffield United,Lincoln City,1.09,0.917,0.872,-4.5,23,"MARKET LIKES IT, WE DON'T",no goal in 5
+95,2026-10-10T19:30:00+00:00, / ,Chicago Fire,New York City FC,1.12,0.893,0.870,-2.3,99,,no goal in 5
+96,2026-10-10T18:00:00+00:00, / ,Toronto FC,CF Montreal,1.12,0.893,0.869,-2.4,98,,no goal in 5
+97,2026-10-10T16:30:00+00:00, / ,Mjallby AIF,Degerfors IF,1.1,0.909,0.868,-4.1,61,,no goal in 5
+98,2026-10-10T15:00:00+00:00, / ,Derby County,Wrexham AFC,1.09,0.917,0.867,-5.1,22,"MARKET LIKES IT, WE DON'T",no goal in 5
+99,2026-10-10T15:00:00+00:00, / ,Thor Akureyri,IBV Vestmannaeyjar,1.11,0.901,0.865,-3.6,85,,no goal in 5
+100,2026-10-10T16:00:00+00:00, / ,Norrby IF,Osters IF,1.11,0.901,0.863,-3.7,90,,no goal in 5
+101,2026-10-10T15:00:00+00:00, / ,Heart of Midlothian FC,St Mirren FC,1.13,0.885,0.861,-2.3,104,,no goal in 5
+102,2026-10-10T15:00:00+00:00, / ,Bolton Wanderers,Stoke City,1.1,0.909,0.861,-4.8,45,,no goal in 5
+103,2026-10-10T15:00:00+00:00, / ,Middlesbrough FC,Wolves,1.11,0.901,0.860,-4.1,81,,no goal in 5
+104,2026-10-10T14:00:00+00:00, / ,AIK,IF Brommapojkarna,1.12,0.893,0.860,-3.3,94,,no goal in 5
+105,2026-10-10T11:30:00+00:00, / ,Genclerbirligi SK,Amed Sportif Faaliyetler,1.1,0.909,0.858,-5.1,38,"MARKET LIKES IT, WE DON'T",no goal in 5
+106,2026-10-10T18:00:00+00:00, / ,Maritimo Madeira,Porto,1.1,0.909,0.854,-5.5,66,,no goal in 5
+107,2026-10-10T20:30:00+00:00, / ,Academico de Viseu FC,Estoril Praia,1.1,0.909,0.854,-5.6,72,,no goal in 5
+108,2026-10-10T12:30:00+00:00, / ,Swansea City,Norwich,1.1,0.909,0.852,-5.7,39,,no goal in 5
+109,2026-10-10T17:00:00+00:00, / ,Caykur Rizespor,Fenerbahce Istanbul,1.11,0.901,0.849,-5.2,92,,no goal in 5
+110,2026-10-10T15:00:00+00:00, / ,Rangers,Kilmarnock FC,1.15,0.870,0.841,-2.8,112,MARKET SEES AN OPEN GAME (draw price 1.15+),no goal in 5
+111,2026-10-10T15:00:00+00:00, / ,Blackburn Rovers,Cardiff City,1.11,0.901,0.837,-6.4,80,,no goal in 5
+112,2026-10-10T15:00:00+00:00, / ,Stjarnan Gardabae,KA Akureyri,1.17,0.855,0.817,-3.7,114,MARKET SEES AN OPEN GAME (draw price 1.15+),no goal in 5
+113,2026-10-10T14:00:00+00:00, / ,Samsunspor,Trabzonspor,1.11,0.901,0.808,-9.3,78,,no goal in 5
+114,2026-10-10T12:35:00+00:00, / ,Shanghai Shenhua FC,Yunnan Yukun,1.18,0.847,0.802,-4.6,115,MARKET SEES AN OPEN GAME (draw price 1.15+),no goal in 5
+115,2026-10-10T20:15:00+00:00, / ,Fram Reykjavik,KR Reykjavik,1.19,0.840,0.786,-5.4,116,MARKET SEES AN OPEN GAME (draw price 1.15+),no goal in 5
+116,2026-10-10T17:00:00+00:00, / ,Rosenborg BK,Sandefjord Fotball,1.14,0.877,0.779,-9.8,109,,goal in 5

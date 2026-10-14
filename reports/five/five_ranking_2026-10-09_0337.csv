@@ -1,0 +1,36 @@
+rank,kickoff_utc,competition,home,away,draw_odds,needs,ours_no_goal,edge_pts,market_rank,flags,result
+1,2026-10-03T21:00:00+00:00,Argentina / Primera LPF,Atletico Tucuman,CA Barracas Central,1.06,0.943,0.987,4.3,1,,no goal in 5
+2,2026-10-03T15:00:00+00:00,Scotland / Championship,Greenock Morton FC,Raith Rovers FC,1.09,0.917,0.980,6.3,11,,no goal in 5
+3,2026-10-03T21:00:00+00:00,Argentina / Primera LPF,Newell's Old Boys,CA Lanus,1.06,0.943,0.975,3.2,2,,no goal in 5
+4,2026-10-03T15:00:00+00:00,Scotland / League 1,East Fife FC,East Kilbride FC,1.1,0.909,0.967,5.8,25,"WE LIKE IT, THE MARKET DOESN'T",no goal in 5
+5,2026-10-03T15:00:00+00:00,England / League Two,Exeter City,Rotherham United,1.09,0.917,0.948,3.0,9,,no goal in 5
+6,2026-10-03T14:30:00+00:00,Wales / Cymru Premier,Briton Ferry,Colwyn Bay,1.1,0.909,0.942,3.3,18,,no goal in 5
+7,2026-10-03T14:30:00+00:00,Wales / Cymru Premier,The New Saints FC,Cambrian United,1.18,0.847,0.942,9.5,34,"MARKET SEES AN OPEN GAME (draw price 1.15+) | WE LIKE IT, THE MARKET DOESN'T",no goal in 5
+8,2026-10-03T17:00:00+00:00,International / UEFA Nations League,Iceland,Bulgaria,1.1,0.909,0.940,3.1,26,"WE LIKE IT, THE MARKET DOESN'T",no goal in 5
+9,2026-10-03T15:00:00+00:00,England / League Two,Grimsby Town,Shrewsbury Town,1.1,0.909,0.939,3.0,21,,no goal in 5
+10,2026-10-03T15:00:00+00:00,Scotland / League 1,Airdrieonians FC,Montrose FC,1.09,0.917,0.931,1.4,12,,no goal in 5
+11,2026-10-03T17:30:00+00:00,Scotland / League 1,Hamilton Academical FC,Peterhead FC,1.1,0.909,0.927,1.8,27,"WE LIKE IT, THE MARKET DOESN'T",no goal in 5
+12,2026-10-03T15:00:00+00:00,England / League One,Burton Albion,Huddersfield,1.1,0.909,0.926,1.7,19,,no goal in 5
+13,2026-10-03T15:00:00+00:00,Scotland / Championship,Partick Thistle FC,Arbroath FC,1.1,0.909,0.925,1.6,24,,no goal in 5
+14,2026-10-03T19:45:00+00:00,International / UEFA Nations League,Switzerland,Slovenia,1.1,0.909,0.925,1.6,28,,goal in 5
+15,2026-10-03T18:45:00+00:00,Argentina / Primera LPF,Defensa y Justicia,CA San Lorenzo de Almagro,1.07,0.935,0.923,-1.1,4,,no goal in 5
+16,2026-10-03T15:00:00+00:00,Scotland / League 1,Ross County FC,Alloa Athletic FC,1.11,0.901,0.915,1.4,30,,no goal in 5
+17,2026-10-03T15:00:00+00:00,England / League Two,Salford City,Fleetwood Town,1.11,0.901,0.915,1.4,29,,no goal in 5
+18,2026-10-03T14:30:00+00:00,Wales / Cymru Premier,Airbus UK Broughton,Trefelin BGC,1.12,0.893,0.914,2.1,31,,no goal in 5
+19,2026-10-03T12:30:00+00:00,England / League Two,Chesterfield FC,Tranmere Rovers FC,1.1,0.909,0.911,0.1,16,,no goal in 5
+20,2026-10-03T14:30:00+00:00,Wales / Cymru Premier,Ammanford,Holywell Town,1.1,0.909,0.910,0.0,17,,goal in 5
+21,2026-10-03T15:00:00+00:00,Scotland / League 1,Queen of the South FC,Cove Rangers FC,1.09,0.917,0.904,-1.3,13,,no goal in 5
+22,2026-10-03T14:00:00+00:00,International / UEFA Nations League,Finland,Albania,1.08,0.926,0.896,-3.0,5,,goal in 5
+23,2026-10-03T22:05:00+00:00,Colombia / Liga DIMAYOR,CD Tolima,Boyaca Chico FC,1.09,0.917,0.896,-2.2,15,,no goal in 5
+24,2026-10-03T15:00:00+00:00,Scotland / Championship,Livingston FC,Ayr United FC,1.1,0.909,0.894,-1.5,23,,no goal in 5
+25,2026-10-03T15:00:00+00:00,England / League Two,Gillingham FC,Newport County,1.09,0.917,0.893,-2.4,10,"MARKET LIKES IT, WE DON'T",no goal in 5
+26,2026-10-03T17:00:00+00:00,International / UEFA Nations League,Estonia,Luxembourg,1.07,0.935,0.889,-4.6,3,"MARKET LIKES IT, WE DON'T",goal in 5
+27,2026-10-03T22:00:00+00:00,Uruguay / Primera Division,Deportivo Maldonado,Central Espanol FC,1.09,0.917,0.888,-2.9,14,,no goal in 5
+28,2026-10-03T15:00:00+00:00,England / League One,Reading FC,Bradford City FC,1.09,0.917,0.886,-3.1,7,"MARKET LIKES IT, WE DON'T",goal in 5
+29,2026-10-03T17:00:00+00:00,International / UEFA Nations League,Belarus,San Marino,1.14,0.877,0.886,0.8,33,,no goal in 5
+30,2026-10-03T15:00:00+00:00,England / League Two,Accrington Stanley,Cheltenham Town,1.1,0.909,0.883,-2.6,20,,no goal in 5
+31,2026-10-03T15:00:00+00:00,England / League Two,Crewe Alexandra,Bristol Rovers,1.09,0.917,0.881,-3.6,8,"MARKET LIKES IT, WE DON'T",goal in 5
+32,2026-10-03T19:45:00+00:00,International / UEFA Nations League,North Macedonia,Scotland,1.08,0.926,0.875,-5.1,6,"MARKET LIKES IT, WE DON'T",no goal in 5
+33,2026-10-03T15:00:00+00:00,England / League Two,Rochdale AFC,Swindon Town,1.1,0.909,0.869,-4.0,22,,no goal in 5
+34,2026-10-03T19:45:00+00:00,International / UEFA Nations League,Spain,Czechia,1.18,0.847,0.855,0.8,35,MARKET SEES AN OPEN GAME (draw price 1.15+),no goal in 5
+35,2026-10-03T17:00:00+00:00,International / UEFA Nations League,Croatia,England,1.12,0.893,0.842,-5.1,32,,no goal in 5

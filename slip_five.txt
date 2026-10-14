@@ -1,0 +1,163 @@
+10/10 15:00
+Game ID: 14466
+Won
+Defensor Sporting
+CA Cerro
+Pick
+Draw @1.07
+Market
+1X2 from 1 to 5 minute
+10/10 19:45
+Game ID: 42187
+Won
+SV Zulte Waregem
+Gent
+Pick
+Under 0.5 @1.11
+Market
+Total Goals Over/Under from 1 to 5 minute
+10/10 22:30
+Game ID: 26529
+Won
+CA Penarol Montevideo
+CA Progreso
+Pick
+Draw @1.09
+Market
+1X2 from 1 to 5 minute
+10/10 15:00
+Game ID: 39156
+Won
+East Kilbride FC
+Airdrieonians FC
+Pick
+Draw @1.10
+Market
+1X2 from 1 to 5 minute
+10/10 19:45
+Game ID: 16571
+Won
+CA Barracas Central
+CA Huracan
+Pick
+Under 0.5 @1.06
+Market
+Total Goals Over/Under from 1 to 5 minute
+10/10 19:45
+Game ID: 42152
+Lost
+Genk
+KV Kortrijk
+Pick
+Under 0.5 @1.14
+Market
+Total Goals Over/Under from 1 to 5 minute
+10/10 15:00
+Game ID: 14817
+Won
+Arbroath FC
+Greenock Morton FC
+Pick
+Under 0.5 @1.09
+Market
+Total Goals Over/Under from 1 to 5 minute
+10/10 19:00
+Game ID: 19276
+Won
+Montevideo Wanderers
+CA Boston River
+Pick
+Draw @1.08
+Market
+1X2 from 1 to 5 minute
+10/10 19:15
+Game ID: 35655
+Won
+Jagiellonia Bialystok
+Gornik Zabrze
+Pick
+Under 0.5 @1.12
+Market
+Total Goals Over/Under from 1 to 5 minute
+10/10 23:15
+Game ID: 35792
+Won
+CA Tigre
+CA Banfield
+Pick
+Under 0.5 @1.08
+Market
+Total Goals Over/Under from 1 to 5 minute
+10/10 21:30
+Game ID: 35490
+Won
+Huachipato
+CD O'Higgins
+Pick
+Under 0.5 @1.12
+Market
+Total Goals Over/Under from 1 to 5 minute
+10/10 14:00
+Game ID: 18280
+Won
+Genoa
+Fiorentina
+Pick
+Under 0.5 @1.11
+Market
+Total Goals Over/Under from 1 to 5 minute
+10/10 15:00
+Game ID: 37907
+Won
+Shrewsbury Town
+Exeter City
+Pick
+Under 0.5 @1.09
+Market
+Total Goals Over/Under from 1 to 5 minute
+10/10 15:00
+Game ID: 36666
+Won
+Inverness Caledonian Thistle FC
+Stenhousemuir FC
+Pick
+Under 0.5 @1.09
+Market
+Total Goals Over/Under from 1 to 5 minute
+10/10 13:45
+Game ID: 29756
+Won
+KS Cracovia Krakow
+Zaglebie Lubin
+Pick
+Under 0.5 @1.10
+Market
+Total Goals Over/Under from 1 to 5 minute
+10/10 07:00
+Game ID: 48578
+Won
+Avispa Fukuoka
+Fagiano Okayama
+Pick
+Under 0.5 @1.09
+Market
+Total Goals Over/Under from 1 to 5 minute
+10/10 17:15
+Game ID: 17437
+Won
+RAAL La Louviere
+Club Brugge
+Pick
+Under 0.5 @1.14
+Market
+Total Goals Over/Under from 1 to 5 minute
+10/10 19:45
+Game ID: 22786
+Won
+Napoli
+Frosinone
+Pick
+Under 0.5 @1.14
+Market
+Total Goals Over/Under from 1 to 5 minute
+Number of Bets: 1

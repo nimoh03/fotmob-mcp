@@ -1,0 +1,21 @@
+match,tournament,kickoff_wat,status,reason,home_id,away_id,home_games,home_at_home,away_games,away_away,goals_ok,cards_ok,xg_ok,form_ok
+PFC Montana 1921 vs PFC Ludogorets Razgrad II,Vtora Liga,2026-10-13T16:00:00.000Z,READY,,46475,653822,11,5,10,6,Y,N,N,N
+Atletico Oriente vs Comunal Cabrero,Tercera Division,2026-10-13T16:00:00.000Z,SKIP,could not resolve on FotMob,,,,,,,,,,,
+Harju JK Laagri vs FC Nomme United,Premium Liiga,2026-10-13T16:00:00.000Z,SKIP,could not resolve on FotMob,,,,,,,,,,,
+Parnu JK Vaprus vs Nomme Kalju FC,Premium Liiga,2026-10-13T16:00:00.000Z,READY,,828265,112484,30,15,35,17,Y,Y,N,N
+Serbia vs Finland,"FIFA World Cup, Women, Qualification, UEFA",2026-10-13T16:00:00.000Z,SKIP,home team has 1 competitive games this season,391932,4445,1,0,1,0,Y,N,N,Y
+Slovenia vs Turkiye,"FIFA World Cup, Women, Qualification, UEFA",2026-10-13T16:00:00.000Z,SKIP,home team has 1 competitive games this season,391941,394252,1,0,1,0,Y,N,N,Y
+Ukraine vs Slovakia,"FIFA World Cup, Women, Qualification, UEFA",2026-10-13T16:00:00.000Z,SKIP,home team has 1 competitive games this season,131398,131401,1,0,1,0,Y,N,N,Y
+Nigeria vs Comoros,"CAF Olympic Qualification, Women",2026-10-13T16:00:00.000Z,SKIP,could not resolve on FotMob,,,,,,,,,,,
+Al Bukiryah vs Al-Zlfe,Division 1,2026-10-13T16:15:00.000Z,SKIP,could not resolve on FotMob,,,,,,,,,,,
+AL Saqer FC vs AL Jabalain FC,Division 1,2026-10-13T16:15:00.000Z,READY,,2026233,1115133,6,3,7,3,Y,Y,N,Y
+AL Hazem U21 vs Damac U21,U21 Elite League,2026-10-13T16:20:00.000Z,READY,,101911,582823,9,4,8,4,Y,Y,N,Y
+SK Artis B vs FC Zbrojovka Brno B,MSFL,2026-10-13T16:30:00.000Z,SKIP,could not resolve on FotMob,,,,,,,,,,,
+Hapoel Umm al-Fahm vs Shefa-amr FC,State Cup,2026-10-13T16:30:00.000Z,SKIP,could not resolve on FotMob,,,,,,,,,,,
+Lokomotiv Moscow vs FK Akron Tolyatti,Russian Cup,2026-10-13T16:30:00.000Z,SKIP,could not resolve on FotMob,,,,,,,,,,,
+AL Orobah U21 vs AL Fayha U21,U21 Elite League,2026-10-13T16:30:00.000Z,READY,,463259,582749,7,4,9,5,Y,Y,N,Y
+Germany vs Japan,Int. Friendly Games W,2026-10-13T16:45:00.000Z,SKIP,home team has 0 competitive games this season,5812,5906,0,0,0,0,N,N,N,N
+Atletico Petroleos de Luanda vs Kabuscorp SCP,Girabola,2026-10-13T17:00:00.000Z,SKIP,could not resolve on FotMob,,,,,,,,,,,
+Diosgyori VTK vs Szentlorinc SE,NB II,2026-10-13T17:00:00.000Z,READY,,2476,4041,8,3,8,3,Y,N,N,N
+Peru vs Philippines,Int. Friendly Games W,2026-10-13T17:00:00.000Z,SKIP,could not resolve on FotMob,,,,,,,,,,,
+Austria vs Kosovo,"FIFA World Cup, Women, Qualification, UEFA",2026-10-13T17:00:00.000Z,SKIP,home team has 1 competitive games this season,394231,821372,1,0,1,0,Y,N,N,Y

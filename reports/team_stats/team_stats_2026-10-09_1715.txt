@@ -1,0 +1,10 @@
+TEAM STATS REPORT — --team=Arsenal — 2026-10-09 17:15
+matches used: last 10 finished per team (before today)
+teams requested: 1 | resolved: 1 | unresolved: 0 | matches fetched: 10
+======================================================================
+
+######## Arsenal ########
+  NOTE: 9 clubs matched 'Arsenal' — took the first one. If wrong, rename to be more specific.
+  no match stats found for this team
+
+Goal kicks are NOT provided by FotMob's match stats (verified by probe). Everything else here comes from the full-match period only.

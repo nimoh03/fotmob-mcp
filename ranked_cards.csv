@@ -1,0 +1,38 @@
+﻿rank,pick,fotmob_name,opponent,side,match,kickoff,odds,hits,played,hit_rate,avg_cards,avg_fouls,score,implied,edge,referee,ref_avg_cards_per_match,ref_games,ref_adjust,verified,other_side,flags
+1,Lincoln City,Lincoln City,Sheffield United,Away,Sheffield United vs Lincoln City,"10/10/2026, 3:00:00 PM",1.05,10,10,1.0,2.4,12.8,113.1,0.952,0.048,Josh Smith,5.33,3,3.0,yes,"Sheffield United 7/10, 87",
+2,Rayo Vallecano,Rayo Vallecano,Athletic Bilbao,Home,Rayo Vallecano vs Athletic Bilbao,"10/10/2026, 1:00:00 PM",1.07,7,7,1.0,2.71,13.4,112.2,0.935,0.065,José María Sánchez Martínez,4.67,3,1.8,yes,"Athletic Bilbao 5/6, 97",
+3,Stoke City,Stoke City,Bolton Wanderers,Away,Bolton Wanderers vs Stoke City,"10/10/2026, 3:00:00 PM",1.07,10,10,1.0,2.3,14.9,110.9,0.935,0.065,Thomas Kirk,,0,0.0,yes,"Bolton Wanderers 6/9, 82",
+4,Frosinone,Frosinone,Napoli,Away,Napoli vs Frosinone,"10/10/2026, 7:45:00 PM",1.11,7,7,1.0,2.14,18.1,110.5,0.901,0.099,Ermanno Feliciani,3.0,1,-0.5,yes,"Napoli 4/6, 80",
+5,Villarreal,Villarreal,Real Madrid,Away,Real Madrid vs Villarreal,"10/10/2026, 8:00:00 PM",1.05,8,8,1.0,1.88,10.6,109.3,0.952,0.048,Isidro Díaz de Mera Escuderos,5.0,3,2.4,yes,"Real Madrid 6/8, 90",
+6,Cardiff City,Cardiff City,Blackburn Rovers,Away,Blackburn Rovers vs Cardiff City,"10/10/2026, 3:00:00 PM",1.12,10,10,1.0,2.2,10.3,109.2,0.893,0.107,Anthony Backhouse,4.0,5,0.9,yes,"Blackburn Rovers 9/10, 102",
+7,Union Berlin,Union Berlin,SV 07 Elversberg,Home,Union Berlin vs SV 07 Elversberg,"10/10/2026, 2:30:00 PM",1.11,5,5,1.0,2.6,12.2,108.6,0.901,0.099,Tobias Reichel,4.0,1,0.3,yes,"SV 07 Elversberg 5/5, 106",SMALL SAMPLE (5)
+8,Atletico Madrid,Atlético Madrid,Alaves,Away,Alaves vs Atletico Madrid,"10/10/2026, 3:15:00 PM",1.08,8,8,1.0,1.75,12.1,107.8,0.926,0.074,Alejandro Quintero González,4.0,2,0.5,yes,"Alaves 6/7, 99",
+9,Le Havre,Le Havre,Lille,Away,Lille vs Le Havre,"10/10/2026, 4:15:00 PM",1.09,5,5,1.0,1.8,14.8,107.5,0.917,0.083,Bastien Dechepy,4.0,1,0.3,yes,"Lille 5/6, 94",SMALL SAMPLE (5)
+10,Bournemouth,AFC Bournemouth,Chelsea,Away,Chelsea vs Bournemouth,"10/10/2026, 3:00:00 PM",1.06,7,7,1.0,2.71,12.0,106.5,0.943,0.057,Samuel Barrott,2.0,4,-3.2,yes,"Chelsea 5/7, 81",
+11,Le Mans FC,Le Mans,PSG,Away,PSG vs Le Mans FC,"10/10/2026, 7:45:00 PM",1.15,5,5,1.0,2.2,14.4,106.1,0.87,0.13,Mathieu Vernice,1.0,1,-2.1,yes,"PSG 6/8, 84",SMALL SAMPLE (5)
+12,Wolves,Wolverhampton Wanderers,Middlesbrough FC,Away,Middlesbrough FC vs Wolves,"10/10/2026, 3:00:00 PM",1.13,10,10,1.0,1.1,12.0,105.6,0.885,0.115,Farai Hallam,3.5,6,-0.2,yes,"Middlesbrough FC 7/10, 82",
+13,Brest,Brest,Angers,Home,Brest vs Angers,"10/10/2026, 7:45:00 PM",1.18,5,5,1.0,1.2,15.0,104.5,0.847,0.153,Eric Wattellier,3.0,3,-1.0,yes,"Angers 5/5, 104",SMALL SAMPLE (5)
+14,Hamburger SV,Hamburger SV,Hoffenheim,Away,Hoffenheim vs Hamburger SV,"10/10/2026, 2:30:00 PM",1.07,5,5,1.0,1.4,13.8,104.2,0.935,0.065,Harm Osmers,2.0,1,-1.3,yes,"Hoffenheim 5/6, 95",SMALL SAMPLE (5)
+15,Eintracht Frankfurt,Eintracht Frankfurt,RB Leipzig,Away,RB Leipzig vs Eintracht Frankfurt,"10/10/2026, 5:30:00 PM",1.13,5,5,1.0,2.0,10.2,104.2,0.885,0.115,Daniel Siebert,2.0,1,-1.3,yes,"RB Leipzig 5/6, 92",SMALL SAMPLE (5)
+16,Derby County,Derby County,Wrexham AFC,Home,Derby County vs Wrexham AFC,"10/10/2026, 3:00:00 PM",1.1,8,9,0.889,2.11,13.2,103.8,0.909,-0.02,Matt Donohue,5.33,3,3.0,yes,"Wrexham AFC 7/9, 92",
+17,Inter,Inter,Parma Calcio,Home,Inter vs Parma Calcio,"10/10/2026, 5:00:00 PM",1.41,6,6,1.0,1.83,7.2,101.3,0.709,0.291,Kevin Bonacina,1.5,2,-2.8,yes,"Parma Calcio 5/7, 83",
+18,Burnley,Burnley,Watford,Away,Watford vs Burnley,"10/10/2026, 3:00:00 PM",1.13,9,10,0.9,1.9,10.3,101.0,0.885,0.015,Andy Madley,4.25,4,1.3,yes,"Watford 7/10, 88",
+19,Aston Villa,Aston Villa,Brentford,Home,Aston Villa vs Brentford,"10/10/2026, 3:00:00 PM",1.18,7,8,0.875,2.5,12.0,100.4,0.847,0.028,Craig Pawson,3.67,3,0.1,yes,"Brentford 6/7, 98",
+20,St Mirren FC,St. Mirren,Heart of Midlothian FC,Away,Heart of Midlothian FC vs St Mirren FC,"10/10/2026, 3:00:00 PM",1.04,8,9,0.889,2.11,12.2,100.4,0.962,-0.073,Nick Walsh,,0,0.0,yes,"Heart of Midloth 8/10, 92",
+21,Augsburg,Augsburg,Bayern Munich,Home,Augsburg vs Bayern Munich,"10/10/2026, 2:30:00 PM",1.2,5,5,1.0,1.6,9.8,100.2,0.833,0.167,Sven Jablonski,1.33,3,-3.9,yes,"Bayern Munich 4/7, 68",SMALL SAMPLE (5)
+22,New York City FC,New York City FC,Chicago Fire,Away,Chicago Fire vs New York City FC,"10/10/2026, 7:30:00 PM",1.14,9,10,0.9,1.8,11.8,100.1,0.877,0.023,Brandon Stevis,,0,0.0,yes,"Chicago Fire 9/10, 100",
+23,Preston North End,Preston North End,Millwall FC,Home,Preston North End vs Millwall FC,"10/10/2026, 3:00:00 PM",1.12,9,10,0.9,2.3,11.0,99.9,0.893,0.007,Ben Speedie,3.0,5,-1.3,yes,"Millwall FC 8/10, 91",
+24,Swansea City,Swansea City,Norwich,Home,Swansea City vs Norwich,"10/10/2026, 12:30:00 PM",1.2,8,9,0.889,1.89,9.6,99.3,0.833,0.056,Andrew Kitchen,4.0,6,1.0,yes,"Norwich 8/10, 94",
+25,Toronto FC,Toronto FC,CF Montreal,Home,Toronto FC vs CF Montreal,"10/10/2026, 6:00:00 PM",1.17,9,10,0.9,1.9,9.5,98.0,0.855,0.045,Allen Chapman,2.0,1,-1.3,yes,"CF Montreal 8/10, 92",
+26,West Bromwich Albion,West Bromwich Albion,Birmingham City,Home,West Bromwich Albion vs Birmingham City,"10/10/2026, 12:30:00 PM",1.12,9,10,0.9,1.9,10.2,97.8,0.893,0.007,Gavin Ward,2.86,7,-1.9,yes,"Birmingham City 8/10, 91",
+27,Ipswich Town,Ipswich Town,Fulham,Home,Ipswich Town vs Fulham,"10/10/2026, 3:00:00 PM",1.17,6,7,0.857,2.14,11.4,96.8,0.855,0.002,Lewis Smith,3.2,5,-0.9,yes,"Fulham 6/7, 93",
+28,Sunderland AFC,Sunderland,Brighton,Home,Sunderland AFC vs Brighton,"10/10/2026, 3:00:00 PM",1.09,6,7,0.857,2.14,12.4,96.5,0.917,-0.06,Thomas Bramall,2.75,4,-1.7,yes,"Brighton 6/8, 90",
+29,Fiorentina,Fiorentina,Genoa,Away,Genoa vs Fiorentina,"10/10/2026, 2:00:00 PM",1.05,6,7,0.857,1.71,11.3,96.3,0.952,-0.095,Fabio Maresca,,0,0.0,yes,"Genoa 6/7, 96",
+30,Arsenal,Arsenal,Leeds United,Home,Arsenal vs Leeds United,"10/10/2026, 12:30:00 PM",1.34,7,8,0.875,1.25,10.9,95.6,0.746,0.129,Paul Tierney,3.33,3,-0.4,yes,"Leeds United 5/7, 85",
+31,Monaco,Monaco,Toulouse,Home,Monaco vs Toulouse,"10/10/2026, 7:45:00 PM",1.21,6,7,0.857,1.57,11.7,94.8,0.826,0.031,Ruddy Buquet,2.0,1,-1.3,yes,"Toulouse 4/5, 94",
+32,Mainz,Mainz 05,Bayer Leverkusen,Home,Mainz vs Bayer Leverkusen,"10/10/2026, 2:30:00 PM",1.08,4,5,0.8,2.0,12.4,94.6,0.926,-0.126,Max Burda,4.0,2,0.5,yes,"Bayer Leverkusen 4/6, 83",SMALL SAMPLE (5)
+33,Paris FC,Paris FC,Lorient,Away,Lorient vs Paris FC,"10/10/2026, 7:45:00 PM",1.12,4,5,0.8,1.6,13.8,92.1,0.893,-0.093,Jérôme Brisard,2.5,2,-1.5,yes,"Lorient 3/5, 76",SMALL SAMPLE (5)
+34,Paderborn,Paderborn,Stuttgart,Home,Paderborn vs Stuttgart,"10/10/2026, 2:30:00 PM",1.14,4,5,0.8,1.6,9.8,90.8,0.877,-0.077,Felix Zwayer,3.0,2,-0.8,yes,"Stuttgart 4/6, 80",SMALL SAMPLE (5)
+35,Man Utd,Manchester United,Tottenham,Home,Man Utd vs Tottenham,"10/10/2026, 5:30:00 PM",1.1,5,7,0.714,1.0,9.4,85.1,0.909,-0.195,Stuart Attwell,5.0,2,1.9,yes,(only this side has the market),
+36,Charlton Athletic,Charlton Athletic,Bristol City,Home,Charlton Athletic vs Bristol City,"10/10/2026, 12:30:00 PM",1.14,7,10,0.7,1.3,11.5,84.9,0.877,-0.177,Tom Reeves,4.5,4,1.8,yes,"Bristol City 6/9, 83",
+37,Barcelona,Barcelona,Getafe,Home,Barcelona vs Getafe,"10/10/2026, 5:30:00 PM",1.25,5,8,0.625,1.12,9.6,78.7,0.8,-0.175,Jesús Gil Manzano,5.0,2,1.9,yes,(only this side has the market),

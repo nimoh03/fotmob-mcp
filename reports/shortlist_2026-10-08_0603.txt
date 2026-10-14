@@ -1,0 +1,48 @@
+SHORTLIST from slate.csv | 2026-10-08 06:03
+Only players who started 4 or more of their last 5 club games and have no risk or threat flag.
+Quietest first (lowest shots per 90). A very low number can also mean a small sample, so check the full report.
+This is a filter, not a recommendation.
+
+######## ASC Otelul Galati vs FC Corvinul Hunedoara 1921 | Superliga | 9/21/2026, 4:00:00 PM ########
+  18 of 33 players on the clean list
+   1.03  Giannis Christopoulos (ASC Otelul Galati) | Center Back | started 5/5, ~80 min | shots/90 0.2 | vs Corvinul Hunedoara (tight defence, 3/16)
+   1.05  Alexandru Neacsa (CS Corvinul Hunedoara) | Left Back | started 5/5, ~77 min | shots/90 0.2 | vs Oțelul Galați (leaky defence, 11/16)
+   1.04  Habib Sylla (ASC Otelul Galati) | Right Back | started 5/5, ~90 min | shots/90 0.3 | vs Corvinul Hunedoara (tight defence, 3/16)
+   1.05  Antoniu Manolache (CS Corvinul Hunedoara) | Center Back | started 5/5, ~81 min | shots/90 0.4 | vs Oțelul Galați (leaky defence, 11/16)
+   1.07  Ion Cararus (CS Corvinul Hunedoara) | Defensive Midfielder | started 4/5, ~53 min | shots/90 0.4 | vs Oțelul Galați (leaky defence, 11/16)
+   1.02  Mihajlo Ivancevic (CS Corvinul Hunedoara) | Center Back | started 4/5, ~73 min | shots/90 0.7 | vs Oțelul Galați (leaky defence, 11/16)
+   1.15  Andrei Ciobanu (ASC Otelul Galati) | Central Midfielder | started 5/5, ~74 min | shots/90 0.8 | vs Corvinul Hunedoara (tight defence, 3/16)
+   1.16  Andrezinho (ASC Otelul Galati) | Left Winger | started 5/5, ~87 min | shots/90 0.8 | vs Corvinul Hunedoara (tight defence, 3/16)
+   1.04  Flavius Iacob (CS Corvinul Hunedoara) | Right Back | started 5/5, ~90 min | shots/90 0.9 | vs Oțelul Galați (leaky defence, 11/16)
+   1.04  Paul Iacob (ASC Otelul Galati) | Center Back | started 5/5, ~90 min | shots/90 0.9 | vs Corvinul Hunedoara (tight defence, 3/16)
+   1.03  Miguel Silva (ASC Otelul Galati) | Left Back | started 5/5, ~83 min | shots/90 1.1 | vs Corvinul Hunedoara (tight defence, 3/16)
+   1.10  Matei Frunza (ASC Otelul Galati) | Right Winger | started 4/5, ~52 min | shots/90 1.2 | vs Corvinul Hunedoara (tight defence, 3/16)
+   1.10  Sergio Ribeiro (CS Corvinul Hunedoara) | Defensive Midfielder | started 4/5, ~77 min | shots/90 1.5 | vs Oțelul Galați (leaky defence, 11/16)
+   1.21  Renato Espinosa (CS Corvinul Hunedoara) | Striker | started 4/5, ~54 min | shots/90 2.2 | vs Oțelul Galați (leaky defence, 11/16)
+   1.17  Emmanuel Yeboah (CS Corvinul Hunedoara) | Striker | started 5/5, ~85 min | shots/90 2.2 | vs Oțelul Galați (leaky defence, 11/16)
+   1.13  Andrej Fabry (CS Corvinul Hunedoara) | Attacking Midfielder | started 4/5, ~77 min | shots/90 2.4 | vs Oțelul Galați (leaky defence, 11/16)
+   1.14  Pedro Nuno (ASC Otelul Galati) | Central Midfielder | started 5/5, ~86 min | shots/90 2.5 | vs Corvinul Hunedoara (tight defence, 3/16)
+   1.25  Patrick (ASC Otelul Galati) | Striker | started 5/5, ~88 min | shots/90 3.0 | vs Corvinul Hunedoara (tight defence, 3/16)
+
+######## CA Aldosivi vs Atletico Tucuman | Primera LPF | 9/21/2026, 6:30:00 PM ########
+  0 of 0 players on the clean list
+
+######## CA Barracas Central vs Independiente Rivadavia | Primera LPF | 9/21/2026, 11:00:00 PM ########
+  0 of 0 players on the clean list
+
+######## CF Pachuca vs Club Tijuana de Caliente | Liga MX | 9/21/2026, 1:00:00 AM ########
+  0 of 0 players on the clean list
+
+######## Deportivo Toluca FC vs Club Santos Laguna | Liga MX | 9/21/2026, 1:00:00 AM ########
+  0 of 0 players on the clean list
+
+######## FC Petrolul Ploiesti vs AFK Csikszereda Miercurea Ciuc | Superliga | 9/21/2026, 7:00:00 PM ########
+  0 of 0 players on the clean list
+
+######## Queretaro FC vs Club Leon | Liga MX | 9/21/2026, 3:10:00 AM ########
+  0 of 0 players on the clean list
+
+######## Velez Sarsfield vs CA Tigre | Primera LPF | 9/21/2026, 1:30:00 AM ########
+  0 of 0 players on the clean list
+
+18 players on the clean list in total.

@@ -1,0 +1,210 @@
+RUN SUMMARY (paste this part when you share the report)
+PARTIAL RUN: 33 of 283 players done (stopped by you (Ctrl+C)). Run the same command again to finish the rest.
+slate: slate.csv | run at 2026-10-08 06:03 | this session took 17s | 0 international rows skipped
+players: 33 | researched: 32 (97%) | unsure match, skipped: 1 | not found: 0 | ambiguous: 0 | errors: 0
+  Romania / Superliga: 33 players, 32 researched, 0 with xG data  (no xG here, so the briefs are thinner)
+NOT RESEARCHED:
+  - 1.13 Nicolae Pirvulescu (CS Corvinul Hunedoara) [ASC Otelul Galati vs FC Corvinul Hunedoara 1921]: unsure: name differs (FotMob has 'Daniel Pîrvulescu')
+Stats are as of the run time. Run it before kickoff.
+
+======================================================================
+PARSED 283 of 283 club rows. First 3, check these look right:
+   Romania | Superliga | ASC Otelul Galati vs FC Corvinul Hunedoara 1921 | 9/21/2026, 4:00:00 PM | Florin Ilie | CS Corvinul Hunedoara | 1.02
+   Romania | Superliga | ASC Otelul Galati vs FC Corvinul Hunedoara 1921 | 9/21/2026, 4:00:00 PM | Mihajlo Ivancevic | CS Corvinul Hunedoara | 1.02
+   Romania | Superliga | ASC Otelul Galati vs FC Corvinul Hunedoara 1921 | 9/21/2026, 4:00:00 PM | Mohammad Abualnadi | CS Corvinul Hunedoara | 1.02
+
+######## ASC Otelul Galati vs FC Corvinul Hunedoara 1921 | Superliga | Romania | 9/21/2026, 4:00:00 PM ########
+
+  1.25  Patrick (ASC Otelul Galati)
+        Striker. Started 5 of his last 5 club games (438 min), about 88 min a game this season.
+        Shoots 3.0 times per 90 (1.0 on target); wins 3.6 aerial duels per 90; 4.3 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. Goals this season: 4.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+        FLAGS: found via the club's squad page (normal search missed him)
+
+  1.24  Ze Turbo (ASC Otelul Galati)
+        Striker. Started 1 of his last 3 club games (76 min), about 25 min a game this season. Mostly a sub, so a rotation risk. Only 3 club games on record (new signing or injury?), so treat the numbers with care.
+        Only 76 minutes this season, too little for shot numbers to mean anything. No goals yet this season.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+        FLAGS: ROTATION RISK (1 or fewer starts in last 5) | THIN SAMPLE (only 3 club games listed)
+
+  1.21  Renato Espinosa (CS Corvinul Hunedoara)
+        Striker. Started 4 of his last 5 club games (281 min), about 54 min a game this season. Small sample: only 540 minutes this season.
+        Shoots 2.2 times per 90 (0.7 on target); rarely shoots for a striker; wins 1.5 aerial duels per 90; 2.5 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. Goals this season: 1.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+        FLAGS: found via the club's squad page (normal search missed him)
+
+  1.17  Emmanuel Yeboah (CS Corvinul Hunedoara)
+        Striker. Started 5 of his last 5 club games (401 min), about 85 min a game this season.
+        Shoots 2.2 times per 90 (0.5 on target); wins 3.2 aerial duels per 90; 3.7 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+
+  1.16  Andrezinho (ASC Otelul Galati)
+        Left Winger. Started 5 of his last 5 club games (442 min), about 87 min a game this season.
+        Shoots 0.8 times per 90 (0.5 on target); rarely shoots for a left winger; wins 0.5 aerial duels per 90; 2.5 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. Goals this season: 1.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+
+  1.16  Angel Gillard (CS Corvinul Hunedoara)
+        Striker. Started 1 of his last 5 club games (169 min), about 34 min a game this season. Mostly a sub, so a rotation risk. Small sample: only 336 minutes this season.
+        Shoots 2.7 times per 90 (0.8 on target); wins 1.6 aerial duels per 90; 5.1 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. Goals this season: 1.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+        FLAGS: ROTATION RISK (1 or fewer starts in last 5)
+
+  1.15  Andrei Ciobanu (ASC Otelul Galati)
+        Central Midfielder. Started 5 of his last 5 club games (357 min), about 74 min a game this season.
+        Shoots 0.8 times per 90; shoots more than most central midfielders; wins 1.2 aerial duels per 90; 0.8 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+
+  1.14  Joao Paulino (ASC Otelul Galati)
+        forward. Started 1 of his last 5 club games (148 min), about 26 min a game this season. Mostly a sub, so a rotation risk. Small sample: only 184 minutes this season.
+        Shoots 2.9 times per 90; wins 4.4 aerial duels per 90; 4.9 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+        FLAGS: ROTATION RISK (1 or fewer starts in last 5)
+
+  1.14  Pedro Nuno (ASC Otelul Galati)
+        Central Midfielder. Started 5 of his last 5 club games (430 min), about 86 min a game this season.
+        Shoots 2.5 times per 90 (0.9 on target); shoots more than most central midfielders; wins 1.4 aerial duels per 90; 2.4 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. Goals this season: 1.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+
+  1.13  Nicolae Pirvulescu (CS Corvinul Hunedoara)
+        UNSURE MATCH, not researched: name differs (FotMob has 'Daniel Pîrvulescu'). It may be a different person.
+        If it is the right one, add "Nicolae Pirvulescu | CS Corvinul Hunedoara": 1025700 to player_overrides.json and run again.
+
+  1.13  Roger (CS Corvinul Hunedoara)
+        midfielder. Started 0 of his last 2 club games (25 min), about 25 min a game this season. Only 2 club games on record (new signing or injury?), so treat the numbers with care.
+        Only 25 minutes this season, too little for shot numbers to mean anything. No goals yet this season.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+        FLAGS: found via the club's squad page (normal search missed him) | THIN SAMPLE (only 2 club games listed)
+
+  1.13  Denis Bordun (ASC Otelul Galati)
+        Right Winger. Started 1 of his last 5 club games (182 min), about 46 min a game this season. Mostly a sub, so a rotation risk. Small sample: only 463 minutes this season.
+        Shoots 1.4 times per 90 (0.4 on target); wins 0.8 aerial duels per 90; 2.1 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. Goals this season: 1.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+        FLAGS: ROTATION RISK (1 or fewer starts in last 5)
+
+  1.13  Andrej Fabry (CS Corvinul Hunedoara)
+        Attacking Midfielder. Started 4 of his last 5 club games (315 min), about 77 min a game this season.
+        Shoots 2.4 times per 90 (0.6 on target); shoots more than most attacking midfielders; wins 0.5 aerial duels per 90; 2.0 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. Goals this season: 1.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+
+  1.10  Sergio Ribeiro (CS Corvinul Hunedoara)
+        Defensive Midfielder. Started 4 of his last 5 club games (294 min), about 77 min a game this season.
+        Shoots 1.5 times per 90 (0.6 on target); shoots more than most defensive midfielders; wins 0.5 aerial duels per 90; 0.6 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. Goals this season: 1.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+
+  1.10  Matei Frunza (ASC Otelul Galati)
+        Right Winger. Started 4 of his last 5 club games (283 min), about 52 min a game this season. Small sample: only 361 minutes this season.
+        Shoots 1.2 times per 90 (0.2 on target); wins 1.5 aerial duels per 90; 3.5 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+
+  1.09  Ronaldo Deaconu (CS Corvinul Hunedoara)
+        forward. Started 1 of his last 5 club games (79 min), about 11 min a game this season. Mostly a sub, so a rotation risk. Small sample: only 44 minutes this season.
+        Only 44 minutes this season, too little for shot numbers to mean anything. No goals yet this season.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+        FLAGS: ROTATION RISK (1 or fewer starts in last 5)
+
+  1.07  Ion Cararus (CS Corvinul Hunedoara)
+        Defensive Midfielder. Started 4 of his last 5 club games (359 min), about 53 min a game this season. Small sample: only 426 minutes this season.
+        Shoots 0.4 times per 90 (0.4 on target); wins 1.3 aerial duels per 90; 1.3 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+
+  1.07  Denis Hrezdac (CS Corvinul Hunedoara)
+        Defensive Midfielder. Started 1 of his last 5 club games (138 min), about 71 min a game this season. Mostly a sub, so a rotation risk. Small sample: only 497 minutes this season.
+        Shoots 0.5 times per 90 (0.2 on target); rarely shoots for a defensive midfielder; wins 0.9 aerial duels per 90; 0.9 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+        FLAGS: ROTATION RISK (1 or fewer starts in last 5)
+
+  1.06  Teodor Lungu (ASC Otelul Galati)
+        Central Midfielder. Started 3 of his last 5 club games (282 min), about 38 min a game this season. Small sample: only 345 minutes this season.
+        Shoots 2.1 times per 90 (0.5 on target); shoots more than most central midfielders; wins 0.8 aerial duels per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. Goals this season: 1.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+
+  1.05  Antoniu Manolache (CS Corvinul Hunedoara)
+        Center Back. Started 5 of his last 5 club games (450 min), about 81 min a game this season.
+        Shoots 0.4 times per 90 (0.1 on target); rarely shoots for a center back; wins 1.8 aerial duels per 90; 1.2 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. Goals this season: 1.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+
+  1.05  Rafael Brito (ASC Otelul Galati)
+        Central Midfielder. Started 0 of his last 2 club games (31 min), about 16 min a game this season. Only 2 club games on record (new signing or injury?), so treat the numbers with care.
+        Only 31 minutes this season, too little for shot numbers to mean anything. No goals yet this season.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+        FLAGS: THIN SAMPLE (only 2 club games listed)
+
+  1.05  Alexandru Neacsa (CS Corvinul Hunedoara)
+        Left Back. Started 5 of his last 5 club games (428 min), about 77 min a game this season.
+        Shoots 0.2 times per 90; rarely shoots for a left back; wins 0.9 aerial duels per 90; 0.4 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+
+  1.04  Dominick Zator (ASC Otelul Galati)
+        Center Back. Started 0 of his last 2 club games (11 min), about 11 min a game this season. Only 2 club games on record (new signing or injury?), so treat the numbers with care.
+        Only 11 minutes this season, too little for shot numbers to mean anything. No goals yet this season.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+        FLAGS: THIN SAMPLE (only 2 club games listed)
+
+  1.04  Habib Sylla (ASC Otelul Galati)
+        Right Back. Started 5 of his last 5 club games (450 min), about 90 min a game this season.
+        Shoots 0.3 times per 90 (0.1 on target); rarely shoots for a right back; wins 1.6 aerial duels per 90; 0.3 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+
+  1.04  Flavius Iacob (CS Corvinul Hunedoara)
+        Right Back. Started 5 of his last 5 club games (450 min), about 90 min a game this season.
+        Shoots 0.9 times per 90 (0.3 on target); wins 0.4 aerial duels per 90; 1.4 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+
+  1.04  Paul Iacob (ASC Otelul Galati)
+        Center Back. Started 5 of his last 5 club games (450 min), about 90 min a game this season.
+        Shoots 0.9 times per 90 (0.3 on target); shoots more than almost every center back (top 5%); wins 2.1 aerial duels per 90; 1.6 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+
+  1.03  Giannis Christopoulos (ASC Otelul Galati)
+        Center Back. Started 5 of his last 5 club games (424 min), about 80 min a game this season. Small sample: only 561 minutes this season.
+        Shoots 0.2 times per 90; rarely shoots for a center back; wins 2.2 aerial duels per 90; 0.3 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+
+  1.03  Kazu (ASC Otelul Galati)
+        Left Back. Started 3 of his last 5 club games (331 min), about 90 min a game this season. Small sample: only 270 minutes this season.
+        Shoots 0.0 times per 90; wins 1.3 aerial duels per 90; 0.7 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+        FLAGS: found via the club's squad page (normal search missed him) | STALE CLUB DATA (69d)
+
+  1.03  Milen Zhelev (ASC Otelul Galati)
+        Right Back. Started 2 of his last 5 club games (197 min), about 67 min a game this season. Small sample: only 467 minutes this season.
+        Shoots 0.2 times per 90; rarely shoots for a right back; wins 1.2 aerial duels per 90; 0.2 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+
+  1.03  Miguel Silva (ASC Otelul Galati)
+        Left Back. Started 5 of his last 5 club games (415 min), about 83 min a game this season. Small sample: only 415 minutes this season.
+        Shoots 1.1 times per 90 (0.2 on target); wins 2.6 aerial duels per 90; 1.5 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. Goals this season: 1.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+
+  1.02  Florin Ilie (CS Corvinul Hunedoara)
+        Center Back. Started 1 of his last 5 club games (146 min), about 55 min a game this season. Mostly a sub, so a rotation risk. Small sample: only 387 minutes this season.
+        Shoots 0.5 times per 90; wins 1.6 aerial duels per 90; 1.2 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+        FLAGS: ROTATION RISK (1 or fewer starts in last 5)
+
+  1.02  Mihajlo Ivancevic (CS Corvinul Hunedoara)
+        Center Back. Started 4 of his last 5 club games (304 min), about 73 min a game this season. Small sample: only 513 minutes this season.
+        Shoots 0.7 times per 90 (0.2 on target); wins 2.1 aerial duels per 90; 1.1 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. Goals this season: 1.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+
+  1.02  Mohammad Abualnadi (CS Corvinul Hunedoara)
+        Center Back. Started 2 of his last 5 club games (163 min), about 65 min a game this season. Small sample: only 260 minutes this season.
+        Shoots 0.3 times per 90; rarely shoots for a center back; wins 1.7 aerial duels per 90; 0.7 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+        FLAGS: FUZZY NAME -> Mo Abualnadi
+
+######## CA Aldosivi vs Atletico Tucuman | Primera LPF | Argentina | 9/21/2026, 6:30:00 PM ########
+
+######## CA Barracas Central vs Independiente Rivadavia | Primera LPF | Argentina | 9/21/2026, 11:00:00 PM ########
+
+######## CF Pachuca vs Club Tijuana de Caliente | Liga MX | Mexico | 9/21/2026, 1:00:00 AM ########
+
+######## Deportivo Toluca FC vs Club Santos Laguna | Liga MX | Mexico | 9/21/2026, 1:00:00 AM ########
+
+######## FC Petrolul Ploiesti vs AFK Csikszereda Miercurea Ciuc | Superliga | Romania | 9/21/2026, 7:00:00 PM ########
+
+######## Queretaro FC vs Club Leon | Liga MX | Mexico | 9/21/2026, 3:10:00 AM ########
+
+######## Velez Sarsfield vs CA Tigre | Primera LPF | Argentina | 9/21/2026, 1:30:00 AM ########
+
+Briefs use this season's stats. Opponent rank 1 = tightest defence.

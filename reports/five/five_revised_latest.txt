@@ -1,0 +1,28 @@
+REVISED SHORTLIST: 15 of 68 games pass (edge >= +1.0 pts, both teams >= 8 matches, fixture confirmed, not Genk-like). Sorted calmest first, NOT by edge.
+ 1. Sun 21:30Z (22:30 Lagos) Deportes Concepcion vs Deportes Union La Calera | draw 1.07 | ours 95.1% | edge +1.6 | model #1 | market rank 4
+ 2. Sun 19:00Z (20:00 Lagos) Cerro Largo FC vs Albion FC | draw 1.08 | ours 95.0% | edge +2.4 | model #2 | market rank 8
+ 3. Sun 19:45Z (20:45 Lagos) Cagliari vs Juventus | draw 1.09 | ours 94.8% | edge +3.1 | model #4 | market rank 16
+ 4. Sun 19:00Z (20:00 Lagos) Coquimbo Unido vs Colo-Colo | draw 1.09 | ours 94.7% | edge +3.0 | model #5 | market rank 15
+ 5. Sun 15:00Z (16:00 Lagos) CA Juventud de Las Piedras vs Racing Club Montevideo | draw 1.08 | ours 94.5% | edge +2.0 | model #6 | market rank 6
+ 6. Sun 21:30Z (22:30 Lagos) SE Palmeiras SP vs SC Corinthians SP | draw 1.09 | ours 94.4% | edge +2.6 | model #8 | market rank 17
+ 7. Sun 16:30Z (17:30 Lagos) CD Everton Vina del Mar vs Deportes La Serena | draw 1.1 | ours 94.2% | edge +3.3 | model #9 | market rank 28
+ 8. Sun 21:30Z (22:30 Lagos) Sport Boys Association vs Alianza Atletico | draw 1.08 | ours 93.6% | edge +1.1 | model #10 | market rank 11
+ 9. Sun 14:00Z (15:00 Lagos) Lecce vs Bologna | draw 1.09 | ours 93.1% | edge +1.4 | model #14 | market rank 13
+10. Sun 17:00Z (18:00 Lagos) Sassuolo vs AC Milan | draw 1.11 | ours 92.9% | edge +2.9 | model #15 | market rank 43
+11. Sun 16:30Z (17:30 Lagos) Pogon Szczecin vs Korona Kielce | draw 1.1 | ours 92.6% | edge +1.7 | model #19 | market rank 29
+12. Sun 14:00Z (15:00 Lagos) Lazio vs Monza | draw 1.11 | ours 92.5% | edge +2.4 | model #20 | market rank 39
+13. Sun 13:45Z (14:45 Lagos) GKS Piast Gliwice vs Widzew Lodz | draw 1.1 | ours 92.3% | edge +1.4 | model #21 | market rank 23
+14. Sun 11:30Z (12:30 Lagos) Como 1907 vs Roma | draw 1.12 | ours 90.9% | edge +1.6 | model #34 | market rank 48
+15. Sun 15:45Z (16:45 Lagos) Excelsior Rotterdam vs FC Groningen | draw 1.12 | ours 90.8% | edge +1.6 | model #35 | market rank 51
+
+DROPPED FROM THE MODEL'S TOP 18 (8):
+  model #3 CR Flamengo RJ vs Fluminense FC RJ: Genk-like: we like it, the market doesn't
+  model #7 CA Platense vs Argentinos Juniors: edge +0.2 is under +1.0
+  model #11 EC Bahia BA vs Mirassol FC SP: Genk-like: we like it, the market doesn't
+  model #12 CA San Lorenzo de Almagro vs Deportivo Riestra AFBC: edge -0.8 is under +1.0
+  model #13 Gremio FB Porto Alegrense RS vs SC Internacional RS: edge +0.7 is under +1.0
+  model #16 Racing Club Avellaneda vs CA Belgrano de Cordoba: edge -0.5 is under +1.0
+  model #17 KVC Westerlo vs Royal Antwerp FC: Genk-like: we like it, the market doesn't; only 7 matches of data for one team
+  model #18 Jaguares de Cordoba vs CD Tolima: edge +1.0 is under +1.0
+
+Sorted by probability, not edge: edge is biggest where the market charges more for the draw, so ranking by edge pulls in the games the market is wary of. Edge is used as a minimum only.

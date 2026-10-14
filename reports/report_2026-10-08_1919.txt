@@ -1,0 +1,99 @@
+RUN SUMMARY (paste this part when you share the report)
+slate: slate.csv | run at 2026-10-08 19:19 | this session took 0s | 0 international rows skipped
+players: 10 | researched: 10 (100%) | unsure match, skipped: 0 | not found: 0 | ambiguous: 0 | errors: 0
+  Romania / Superliga: 10 players, 10 researched, 0 with xG data  (no xG here, so the briefs are thinner)
+Stats are as of the run time. Run it before kickoff.
+
+======================================================================
+PARSED 10 of 283 club rows. First 3, check these look right:
+   Romania | Superliga | ASC Otelul Galati vs FC Corvinul Hunedoara 1921 | 9/21/2026, 4:00:00 PM | Florin Ilie | CS Corvinul Hunedoara | 1.02
+   Romania | Superliga | ASC Otelul Galati vs FC Corvinul Hunedoara 1921 | 9/21/2026, 4:00:00 PM | Mihajlo Ivancevic | CS Corvinul Hunedoara | 1.02
+   Romania | Superliga | ASC Otelul Galati vs FC Corvinul Hunedoara 1921 | 9/21/2026, 4:00:00 PM | Mohammad Abualnadi | CS Corvinul Hunedoara | 1.02
+
+######## ASC Otelul Galati vs FC Corvinul Hunedoara 1921 | Superliga | Romania | 9/21/2026, 4:00:00 PM ########
+
+  1.04  Dominick Zator (ASC Otelul Galati)
+        Center Back. Started 0 of his last 2 club games (11 min), about 11 min a game this season. Only 2 club games on record (new signing or injury?), so treat the numbers with care.
+        Only 11 minutes this season, too little for shot numbers to mean anything. No goals yet this season.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+        Role: too few minutes this season (11) to read his role from the numbers. Against other center backs: defensive work 14%, shots 20%, chances created 88%, touches 10% (100% = most). Seen as: Center Back 4, Right Back 3, Right Wing-Back 2.
+        Last season (2025/2026, Ekstraklasa): 19 games, 1267 min, 0 goals, xG 0.06 per 90, 0.4 shots per 90. Background only: he may have played a different role then.
+        Club style (Oțelul Galați, against its league): average attack (1.10 goals a game, rank 11 of 16). Last match formation: 4-3-3.
+        FLAGS: THIN SAMPLE (only 2 club games listed)
+
+  1.04  Habib Sylla (ASC Otelul Galati)
+        Right Back. Started 5 of his last 5 club games (450 min), about 90 min a game this season.
+        Shoots 0.3 times per 90 (0.1 on target); rarely shoots for a right back; wins 1.6 aerial duels per 90; 0.3 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+        Role: defensive-minded (lots of defensive work, little attacking output). Against other right backs: defensive work 91%, shots 19%, chances created 13%, touches 75% (100% = most). Seen as: Right Back 16, Left Back 1, Left Midfielder 1.
+        Last season (2025/2026, Liga Portugal 2): 880 min, 0 goals. Background only: he may have played a different role then.
+        Club style (Oțelul Galați, against its league): average attack (1.10 goals a game, rank 11 of 16). Last match formation: 4-3-3.
+
+  1.04  Flavius Iacob (CS Corvinul Hunedoara)
+        Right Back. Started 5 of his last 5 club games (450 min), about 90 min a game this season.
+        Shoots 0.9 times per 90 (0.3 on target); wins 0.4 aerial duels per 90; 1.4 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+        Role: covers ground both ways (lots of defensive work and attacking output). Against other right backs: defensive work 78%, shots 58%, chances created 82%, touches 47% (100% = most). Seen as: Right Back 19, Right Winger 2, Defensive Midfielder 1.
+        Last season (2025/2026, Superliga): 30 games, 1491 min, 2 goals, 0.7 shots per 90. Background only: he may have played a different role then.
+        Club style (Corvinul Hunedoara, against its league): average attack (1.10 goals a game, rank 11 of 16); plays direct (32 long balls a game, rank 1 of 16). Last match formation: 4-2-3-1.
+
+  1.03  Giannis Christopoulos (ASC Otelul Galati)
+        Center Back. Started 5 of his last 5 club games (424 min), about 80 min a game this season. Small sample: only 561 minutes this season.
+        Shoots 0.2 times per 90; rarely shoots for a center back; wins 2.2 aerial duels per 90; 0.3 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+        Role: stays out of the attack. Against other center backs: defensive work 62%, shots 10%, chances created 0%, touches 33% (100% = most). Seen as: Center Back 9.
+        Last season (2025/2026, Super League): 7 games, 282 min, 0 goals, xG 0.02 per 90, 0.3 shots per 90. Very little playing time, so not much to go on. Background only: he may have played a different role then.
+        Club style (Oțelul Galați, against its league): average attack (1.10 goals a game, rank 11 of 16). Last match formation: 4-3-3.
+
+  1.03  Kazu (ASC Otelul Galati)
+        Left Back. Started 3 of his last 5 club games (331 min), about 90 min a game this season. Small sample: only 270 minutes this season.
+        Shoots 0.0 times per 90; wins 1.3 aerial duels per 90; 0.7 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+        Role: too few minutes this season (270) to read his role from the numbers. Against other left backs: defensive work 66%, shots 48%, chances created 10%, touches 36% (100% = most). Seen as: Left Back 8, Right Back 2.
+        Last season (2025/2026, Superliga): 21 games, 1151 min, 1 goal, 0.8 shots per 90. Background only: he may have played a different role then.
+        Club style (Oțelul Galați, against its league): average attack (1.10 goals a game, rank 11 of 16). Last match formation: 4-3-3.
+        FLAGS: found via the club's squad page (normal search missed him) | STALE CLUB DATA (69d)
+
+  1.03  Milen Zhelev (ASC Otelul Galati)
+        Right Back. Started 2 of his last 5 club games (197 min), about 67 min a game this season. Small sample: only 467 minutes this season.
+        Shoots 0.2 times per 90; rarely shoots for a right back; wins 1.2 aerial duels per 90; 0.2 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+        Role: defensive-minded (lots of defensive work, little attacking output). Against other right backs: defensive work 94%, shots 17%, chances created 5%, touches 66% (100% = most). Seen as: Right Back 24, Center Back 2, Left Back 2.
+        Last season (2025/2026, Superliga): 37 games, 3167 min, 1 goal, 0.3 shots per 90. Background only: he may have played a different role then.
+        Club style (Oțelul Galați, against its league): average attack (1.10 goals a game, rank 11 of 16). Last match formation: 4-3-3.
+
+  1.03  Miguel Silva (ASC Otelul Galati)
+        Left Back. Started 5 of his last 5 club games (415 min), about 83 min a game this season. Small sample: only 415 minutes this season.
+        Shoots 1.1 times per 90 (0.2 on target); wins 2.6 aerial duels per 90; 1.5 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. Goals this season: 1.
+        Faces Corvinul Hunedoara: a tight defence (goals conceded rank 3 of 16). No xG or set-piece defence stats for this league.
+        Role: too few minutes this season (415) to read his role from the numbers. Against other left backs: defensive work 93%, shots 69%, chances created 60%, touches 85% (100% = most). Seen as: Left Back 9.
+        Last season (2025/2026, Superliga): 21 games, 934 min, 1 goal, 0.6 shots per 90. Background only: he may have played a different role then.
+        Club style (Oțelul Galați, against its league): average attack (1.10 goals a game, rank 11 of 16). Last match formation: 4-3-3.
+
+  1.02  Florin Ilie (CS Corvinul Hunedoara)
+        Center Back. Started 1 of his last 5 club games (146 min), about 55 min a game this season. Mostly a sub, so a rotation risk. Small sample: only 387 minutes this season.
+        Shoots 0.5 times per 90; wins 1.6 aerial duels per 90; 1.2 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+        Role: Center Back. FotMob has no comparison with other center backs for him. Seen as: Center Back 4.
+        Last season (2025/2026, Liga II Promotion Group): 1 goal. Very little playing time, so not much to go on. Background only: he may have played a different role then.
+        Club style (Corvinul Hunedoara, against its league): average attack (1.10 goals a game, rank 11 of 16); plays direct (32 long balls a game, rank 1 of 16). Last match formation: 4-2-3-1.
+        FLAGS: ROTATION RISK (1 or fewer starts in last 5)
+
+  1.02  Mihajlo Ivancevic (CS Corvinul Hunedoara)
+        Center Back. Started 4 of his last 5 club games (304 min), about 73 min a game this season. Small sample: only 513 minutes this season.
+        Shoots 0.7 times per 90 (0.2 on target); wins 2.1 aerial duels per 90; 1.1 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. Goals this season: 1.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+        Role: no strong lean either way. Against other center backs: defensive work 93%, shots 61%, chances created 54%, touches 63% (100% = most). Seen as: Center Back 14.
+        Last season (2025/2026, 1. Division): 19 games, 1286 min, 0 goals, 0.7 shots per 90. Background only: he may have played a different role then.
+        Club style (Corvinul Hunedoara, against its league): average attack (1.10 goals a game, rank 11 of 16); plays direct (32 long balls a game, rank 1 of 16). Last match formation: 4-2-3-1.
+
+  1.02  Mohammad Abualnadi (CS Corvinul Hunedoara)
+        Center Back. Started 2 of his last 5 club games (163 min), about 65 min a game this season. Small sample: only 260 minutes this season.
+        Shoots 0.3 times per 90; rarely shoots for a center back; wins 1.7 aerial duels per 90; 0.7 touches in the opposition box per 90. No shot-by-shot data in this league, so no xG, headers or set-piece detail. No goals yet this season.
+        Faces Oțelul Galați: a leaky defence (goals conceded rank 11 of 16). No xG or set-piece defence stats for this league.
+        Role: too few minutes this season (260) to read his role from the numbers. Against other center backs: defensive work 4%, shots 5%, chances created 0%, touches 3% (100% = most). Seen as: Center Back 7, Left Back 2.
+        Last season (2025/2026, AFC Champions League Two): 6 games, 464 min, 0 goals, 0.2 shots per 90. Background only: he may have played a different role then.
+        Club style (Corvinul Hunedoara, against its league): average attack (1.10 goals a game, rank 11 of 16); plays direct (32 long balls a game, rank 1 of 16). Last match formation: 4-2-3-1.
+        FLAGS: FUZZY NAME -> Mo Abualnadi
+
+Briefs use this season's stats. Opponent rank 1 = tightest defence. Club style rank 1 = most of it.
